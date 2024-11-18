@@ -38,6 +38,9 @@ Ao fim, mostre uma mensagem descrevendo todos os atributos do personagem do joga
 
 ### C# Básico - Strings
 
+- **Vídeo da Aula**: EM BREVE
+- **Vídeo de Solução**: EM BREVE
+
 #### Exercícios
 
 **A)** Considere um jogo em que o jogador precisa realizar diversas missões como derrotar uma quantidade de inimigos ou coletar uma quantidade de items. Crie um programa C# que escreva no Console a seguinte lista de missões:
@@ -63,6 +66,9 @@ _As quantidades para cada missão, devem ser definidas através de variáveis_
 
 ### C# Básico - Input/Output
 
+- **Vídeo da Aula**: EM BREVE
+- **Vídeo de Solução**: EM BREVE
+
 #### Exercícios
 
 **A)** Crie um programa para calcular as operações de soma, subtração, multiplicação e divisão entre dois números informados pelo usuário.
@@ -83,6 +89,9 @@ Finalmente, apresente as informações do personagem no Console.
 **E)** Crie um programa que calcule o tempo necessário para percorrer uma distância. Primeiro, peça que o usuário informe uma distância (em quilômetros) e, em seguida, peça que o usuário informe uma velocidade (em km/h). Mostre no Console quantos minutos são necessários para percorrer a distância informada.
 
 ### C# Básico - Fluxos de Controle
+
+- **Vídeo da Aula**: EM BREVE
+- **Vídeo de Solução**: EM BREVE
 
 #### Exercícios
 
@@ -110,6 +119,9 @@ Utilize o comando `Console.ReadLine()` para aguardar a resposta do jogador e uti
 Seja criativo, crie situações e diálogos que deixem seu jogo interessante.
 
 ### C# Básico - Operadores Lógicos
+
+- **Vídeo da Aula**: EM BREVE
+- **Vídeo de Solução**: EM BREVE
 
 #### Exercícios
 
@@ -152,6 +164,9 @@ Em seguida, mostre a classificação do resultado do cálculo do IMC de acordo c
 
 ### C# Básico - Loops
 
+- **Vídeo da Aula**: EM BREVE
+- **Vídeo de Solução**: EM BREVE
+
 #### Exercícios
 
 **A)** Crie um programa que calcule a tabuada de um número escolhido pelo usuário. Primeiro, pergunte ao usuário um número para a tabuada e, em seguida, utilize um loop para mostrar a tabuada desse número multiplica pelos valores de 1 a 10.
@@ -177,6 +192,9 @@ y
 **B)** Crie um programa que mostre no Console os número de 1 a 10 em ordem decrescente.
 
 ### C# Básico - Classes e Objetos
+
+- **Vídeo da Aula**: EM BREVE
+- **Vídeo de Solução**: EM BREVE
 
 #### Exercícios
 
