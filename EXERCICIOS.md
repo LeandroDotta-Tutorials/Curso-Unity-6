@@ -91,7 +91,7 @@ Finalmente, apresente as informações do personagem no Console.
 ### C# Básico - Fluxos de Controle
 
 - **Vídeo da Aula**: https://youtu.be/yw3MnDVdI58
-- **Vídeo de Solução**: 
+- **Vídeo de Solução**: https://youtu.be/ZAbWwIVeQeA
 
 #### Exercícios
 
@@ -120,8 +120,8 @@ Seja criativo, crie situações e diálogos que deixem seu jogo interessante.
 
 ### C# Básico - Operadores Lógicos
 
-- **Vídeo da Aula**: EM BREVE
-- **Vídeo de Solução**: EM BREVE
+- **Vídeo da Aula**: https://youtu.be/pnzp4Hvlnco
+- **Vídeo de Solução**: https://youtu.be/SJF9BgmkHXI
 
 #### Exercícios
 
@@ -164,8 +164,8 @@ Em seguida, mostre a classificação do resultado do cálculo do IMC de acordo c
 
 ### C# Básico - Loops
 
-- **Vídeo da Aula**: EM BREVE
-- **Vídeo de Solução**: EM BREVE
+- **Vídeo da Aula**: https://youtu.be/UCSqHkfQT80
+- **Vídeo de Solução**: https://youtu.be/uly5CasczdA
 
 #### Exercícios
 
