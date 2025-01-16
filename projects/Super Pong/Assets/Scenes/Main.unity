@@ -201,7 +201,7 @@ Transform:
   m_GameObject: {fileID: 92013585}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8, y: 0, z: 0}
+  m_LocalPosition: {x: -10, y: 0, z: 0}
   m_LocalScale: {x: 0.5, y: 2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -430,7 +430,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 6
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -492,7 +492,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scorePlayer1: 0
   scorePlayer2: 0
-  ball: {fileID: 1414136039}
+  ball: {fileID: 1414136040}
   score: {fileID: 1010970365}
 --- !u!4 &546870167
 Transform:
@@ -773,7 +773,7 @@ Transform:
   m_GameObject: {fileID: 1698085410}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8, y: 0, z: 0}
+  m_LocalPosition: {x: 10, y: 0, z: 0}
   m_LocalScale: {x: 0.5, y: 2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
