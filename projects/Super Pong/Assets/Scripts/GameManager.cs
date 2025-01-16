@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
@@ -8,6 +9,8 @@ public class GameManager : MonoBehaviour
 
     public int pointsToIncreaseSpeed = 3;
     public float speedIncrement = 0.1f;
+
+    public int maxScore = 5;
 
     public Ball ball;
     public Text score;
@@ -27,6 +30,8 @@ public class GameManager : MonoBehaviour
             AddScore(1);
             ball.ResetPosition();
         }
+
+        RestartScene();
     }
 
     public void AddScore(int player)
@@ -46,5 +51,13 @@ public class GameManager : MonoBehaviour
         }
 
         score.text = $"{scorePlayer1} x {scorePlayer2}";
+    }
+
+    private void RestartScene()
+    {
+        if ((scorePlayer1 + scorePlayer2) >= maxScore)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
     }
 }
