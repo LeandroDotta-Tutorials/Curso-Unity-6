@@ -8,8 +8,8 @@ Os exercícios & desafios estão agrupados por "Exercícios de C#" para os exerc
 
 ### C# Básico - Variáveis
 
-- **Vídeo da Aula**: EM BREVE
-- **Vídeo de Solução**: EM BREVE
+- **Vídeo da Aula**: https://youtu.be/amT0czaPdCs
+- **Vídeo de Solução**: https://youtu.be/4xnXERo_Suw
 
 #### Exercícios
 
@@ -38,8 +38,8 @@ Ao fim, mostre uma mensagem descrevendo todos os atributos do personagem do joga
 
 ### C# Básico - Strings
 
-- **Vídeo da Aula**: EM BREVE
-- **Vídeo de Solução**: EM BREVE
+- **Vídeo da Aula**: https://youtu.be/ppTTNQ9Xskg
+- **Vídeo de Solução**: https://youtu.be/QshJ6doKvzA
 
 #### Exercícios
 
@@ -66,8 +66,8 @@ _As quantidades para cada missão, devem ser definidas através de variáveis_
 
 ### C# Básico - Input/Output
 
-- **Vídeo da Aula**: EM BREVE
-- **Vídeo de Solução**: EM BREVE
+- **Vídeo da Aula**: https://youtu.be/o-TA-IcPgUw
+- **Vídeo de Solução**: https://youtu.be/sU945nC5z6M
 
 #### Exercícios
 
@@ -90,8 +90,8 @@ Finalmente, apresente as informações do personagem no Console.
 
 ### C# Básico - Fluxos de Controle
 
-- **Vídeo da Aula**: EM BREVE
-- **Vídeo de Solução**: EM BREVE
+- **Vídeo da Aula**: https://youtu.be/yw3MnDVdI58
+- **Vídeo de Solução**: https://youtu.be/ZAbWwIVeQeA
 
 #### Exercícios
 
@@ -120,8 +120,8 @@ Seja criativo, crie situações e diálogos que deixem seu jogo interessante.
 
 ### C# Básico - Operadores Lógicos
 
-- **Vídeo da Aula**: EM BREVE
-- **Vídeo de Solução**: EM BREVE
+- **Vídeo da Aula**: https://youtu.be/pnzp4Hvlnco
+- **Vídeo de Solução**: https://youtu.be/SJF9BgmkHXI
 
 #### Exercícios
 
@@ -164,8 +164,8 @@ Em seguida, mostre a classificação do resultado do cálculo do IMC de acordo c
 
 ### C# Básico - Loops
 
-- **Vídeo da Aula**: EM BREVE
-- **Vídeo de Solução**: EM BREVE
+- **Vídeo da Aula**: https://youtu.be/UCSqHkfQT80
+- **Vídeo de Solução**: https://youtu.be/uly5CasczdA
 
 #### Exercícios
 
