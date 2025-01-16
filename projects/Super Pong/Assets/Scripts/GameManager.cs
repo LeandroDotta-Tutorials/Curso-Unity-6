@@ -6,6 +6,9 @@ public class GameManager : MonoBehaviour
     public int scorePlayer1 = 0;
     public int scorePlayer2 = 0;
 
+    public int pointsToIncreaseSpeed = 3;
+    public float speedIncrement = 0.1f;
+
     public Ball ball;
     public Text score;
 
@@ -35,6 +38,11 @@ public class GameManager : MonoBehaviour
         else if (player == 2)
         {
             scorePlayer2++;
+        }
+
+        if ((scorePlayer1 + scorePlayer2) % pointsToIncreaseSpeed == 0)
+        {
+            ball.speed += speedIncrement;
         }
 
         score.text = $"{scorePlayer1} x {scorePlayer2}";

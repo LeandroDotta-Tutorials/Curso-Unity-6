@@ -492,6 +492,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scorePlayer1: 0
   scorePlayer2: 0
+  pointsToIncreaseSpeed: 2
+  speedIncrement: 0.5
   ball: {fileID: 1414136040}
   score: {fileID: 1010970365}
 --- !u!4 &546870167
