@@ -6,7 +6,7 @@ public class GameManager : MonoBehaviour
     public int scorePlayer1 = 0;
     public int scorePlayer2 = 0;
 
-    public Transform ball;
+    public Ball ball;
     public Text score;
 
     private void Update() 
@@ -14,15 +14,15 @@ public class GameManager : MonoBehaviour
         float screenLeft = Camera.main.ScreenToWorldPoint(new Vector3(0, 0, 0)).x;
         float screenRight = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width, 0, 0)).x;
 
-        if (ball.position.x + 0.25f < screenLeft)
+        if (ball.transform.position.x + 0.25f < screenLeft)
         {
             AddScore(2);
-            ResetBallPosition();
+            ball.ResetPosition();
         }
-        else if (ball.position.x - 0.25f > screenRight)
+        else if (ball.transform.position.x - 0.25f > screenRight)
         {
             AddScore(1);
-            ResetBallPosition();
+            ball.ResetPosition();
         }
     }
 
@@ -38,10 +38,5 @@ public class GameManager : MonoBehaviour
         }
 
         score.text = $"{scorePlayer1} x {scorePlayer2}";
-    }
-
-    public void ResetBallPosition()
-    {
-        ball.position = Vector3.zero;
     }
 }
