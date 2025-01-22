@@ -6,10 +6,30 @@ public class Ball : MonoBehaviour
     public Transform paddleLeft;
     public Transform paddleRight;
 
+    public SpriteRenderer ballSprite;
+    public SpriteRenderer paddleLeftSprite;
+    public SpriteRenderer paddleRightSprite;
+
+    public Color primaryColor1;
+    public Color primaryColor2;
+    public Color primaryColor3;
+
+    public Color backgroundColor1;
+    public Color backgroundColor2;
+    public Color backgroundColor3;
+
+    private bool isMoving = false;
+    private int colorIndex = 1;
+
     private Vector2 direction = -Vector2.one;
 
     private void Update() 
     {
+        if (Input.GetKeyDown(KeyCode.Space) && !isMoving)
+        {
+            isMoving = true;
+        }
+
         Move();
         BounceTopAndBottom();
         BounceWithPaddles();
@@ -17,8 +37,11 @@ public class Ball : MonoBehaviour
 
     private void Move()
     {
-        Vector3 movement = direction * speed * Time.deltaTime;
-        transform.Translate(movement);
+        if (isMoving)
+        {
+            Vector3 movement = direction * speed * Time.deltaTime;
+            transform.Translate(movement);
+        }
     }
 
     private void BounceTopAndBottom()
@@ -31,11 +54,13 @@ public class Ball : MonoBehaviour
         if (direction.y > 0 && position.y >= (screenTop -0.25f))
         {
             direction.y = -1;
+            SawpColors();
         }
 
         if (direction.y < 0 && position.y <= (screenBottom + 0.25f))
         {
             direction.y = 1;
+            SawpColors();
         }
     }
 
@@ -53,7 +78,8 @@ public class Ball : MonoBehaviour
             && transform.position.y > (paddleRight.position.y - paddleHeight / 2f)
             && transform.position.y < (paddleRight.position.y + paddleHeight / 2f))
             {
-                direction.x = -1;   
+                direction.x = -1;
+                SawpColors();
             }
         }
         else if (direction.x < 0) // Está movendo para a esquerda
@@ -64,6 +90,7 @@ public class Ball : MonoBehaviour
             && transform.position.y < (paddleLeft.position.y + paddleHeight / 2f))
             {
                 direction.x = 1;
+                SawpColors();
             }
         }
     }
@@ -72,5 +99,42 @@ public class Ball : MonoBehaviour
     {
         transform.position = Vector3.zero;
         direction.x = -direction.x;
+        isMoving = false;
+        Invoke("StartMoving", 2);
+    }
+
+    private void StartMoving()
+    {
+        isMoving = true;
+    }
+
+    private void SawpColors()
+    {
+        Color primaryColor = Color.white;
+        Color backgroundColor = Color.white;
+
+        if (colorIndex == 1)
+        {
+            colorIndex = 2;
+            primaryColor = primaryColor2;
+            backgroundColor = backgroundColor2;
+        }
+        else if (colorIndex == 2)
+        {
+            colorIndex = 3;
+            primaryColor = primaryColor3;
+            backgroundColor = backgroundColor3;
+        }
+        else if (colorIndex == 3)
+        {
+            colorIndex = 1;
+            primaryColor = primaryColor1;
+            backgroundColor = backgroundColor1;
+        }
+
+        ballSprite.color = primaryColor;
+        paddleLeftSprite.color = primaryColor;
+        paddleRightSprite.color = primaryColor;
+        Camera.main.backgroundColor = backgroundColor;
     }
 }
