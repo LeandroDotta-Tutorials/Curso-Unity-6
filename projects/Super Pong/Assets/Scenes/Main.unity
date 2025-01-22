@@ -494,6 +494,7 @@ MonoBehaviour:
   scorePlayer2: 0
   pointsToIncreaseSpeed: 2
   speedIncrement: 0.5
+  maxScore: 5
   ball: {fileID: 1414136040}
   score: {fileID: 1010970365}
 --- !u!4 &546870167
@@ -693,6 +694,15 @@ MonoBehaviour:
   speed: 5
   paddleLeft: {fileID: 92013587}
   paddleRight: {fileID: 1698085412}
+  ballSprite: {fileID: 1414136038}
+  paddleLeftSprite: {fileID: 92013586}
+  paddleRightSprite: {fileID: 1698085411}
+  primaryColor1: {r: 0.9137255, g: 0.9607843, b: 0.85882354, a: 1}
+  primaryColor2: {r: 0.9764706, g: 0.8117647, b: 0.9490196, a: 1}
+  primaryColor3: {r: 1, g: 0.8352941, b: 0, a: 1}
+  backgroundColor1: {r: 0.3764706, g: 0.42352942, b: 0.21960784, a: 1}
+  backgroundColor2: {r: 0.32156864, g: 0.08235294, b: 0.30588236, a: 1}
+  backgroundColor3: {r: 0, g: 0.16078432, b: 0.41960785, a: 1}
 --- !u!1 &1698085410
 GameObject:
   m_ObjectHideFlags: 0
