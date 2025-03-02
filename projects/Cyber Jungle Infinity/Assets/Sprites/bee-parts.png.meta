@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: 9d6c703f431ebb042a9586e038a6a39d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3544851502587542484
+    second: bee-parts_0
+  - first:
+      213: 2939362840260828433
+    second: bee-parts_1
+  - first:
+      213: -2868584531813668936
+    second: bee-parts_2
+  - first:
+      213: 7643576040789479570
+    second: bee-parts_3
+  - first:
+      213: -6977069689630002374
+    second: bee-parts_4
+  - first:
+      213: -7261038874419574331
+    second: bee-parts_5
+  - first:
+      213: -8977476761496951390
+    second: bee-parts_6
+  - first:
+      213: 1641468866357984293
+    second: bee-parts_7
+  - first:
+      213: -6912754435997852484
+    second: bee-parts_8
+  - first:
+      213: 7985891254188073368
+    second: bee-parts_9
+  - first:
+      213: 72923270515504091
+    second: bee-parts_10
+  - first:
+      213: 707157620467198121
+    second: bee-parts_11
+  - first:
+      213: 7918123429821632392
+    second: bee-parts_12
+  - first:
+      213: 3190325889554606286
+    second: bee-parts_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bee-body
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 116
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2482cef6582ecec0800000000000000
+      internalID: -3544851502587542484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bee-stripes
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 116
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ddab70ee6bac820800000000000000
+      internalID: 2939362840260828433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bee-head
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 128
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7e015119db038d0800000000000000
+      internalID: -2868584531813668936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bee-eye
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 152
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29091f469ef631a60800000000000000
+      internalID: 7643576040789479570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bee-wing-front
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 138
+        width: 39
+        height: 22
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33757855187c2f90800000000000000
+      internalID: -6977069689630002374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bee-wing-back
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 150
+        width: 26
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c94be54d9b9b3b90800000000000000
+      internalID: -7261038874419574331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bee-background-2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 6
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a566ab3378996380800000000000000
+      internalID: -8977476761496951390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bee-background-3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 6
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c7121bc3ba7c610800000000000000
+      internalID: 1641468866357984293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bee-background-4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a86820fb1450d900800000000000000
+      internalID: 707157620467198121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bee-background-1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d21f07abcc93547a386e9050687cd6
+      internalID: -1720684873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bee-background-5
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 6
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5611f164c91d37429cf2b691a6ec07c
+      internalID: -264873987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7cbfdc08013a4bc46accf633710b90cb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bee-background-1: -1720684873
+      bee-background-2: -8977476761496951390
+      bee-background-3: 1641468866357984293
+      bee-background-4: 707157620467198121
+      bee-background-5: -264873987
+      bee-body: -3544851502587542484
+      bee-eye: 7643576040789479570
+      bee-head: -2868584531813668936
+      bee-parts_10: 72923270515504091
+      bee-parts_12: 7918123429821632392
+      bee-parts_13: 3190325889554606286
+      bee-parts_14: 2077681482
+      bee-parts_15: -945726604
+      bee-parts_18: 1541965545
+      bee-parts_19: -1031629462
+      bee-parts_8: -6912754435997852484
+      bee-parts_9: 7985891254188073368
+      bee-stripes: 2939362840260828433
+      bee-wing-back: -7261038874419574331
+      bee-wing-front: -6977069689630002374
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

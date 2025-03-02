@@ -1,39 +1,141 @@
+using System;
 using System.Collections;
 using UnityEngine;
 
+public enum EnemyAction
+{
+    Idle, Shoot, Sway, 
+}
+
+[Serializable]
+public struct EnemyState
+{
+    public EnemyAction[] actions;
+    public float duration;
+}
+
 public class Enemy : MonoBehaviour
 {
-    private AutoMovement autoMovement;
+    public EnemyState[] states;
 
-    private void Start() 
+    private AutoMovement autoMovement;
+    private SwayMovement swayMovement;
+    private MoveDistance moveDistance;
+    private Gun gun;
+    private Animator anim;
+    private Collider2D coll;
+
+    private void Start()
     {
         autoMovement = GetComponent<AutoMovement>();
-        StartCoroutine(MoveDistanceCoroutine(3));
+        swayMovement = GetComponent<SwayMovement>();
+        moveDistance = GetComponent<MoveDistance>();
+        gun = GetComponentInChildren<Gun>();
+        anim = GetComponent<Animator>();
+        coll = GetComponent<Collider2D>();
+
+        anim.SetBool("moving", true);
+        anim.SetBool("attacking", false);
     }
 
-    private IEnumerator MoveDistanceCoroutine(float distance)
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        float distanceTraveled = 0;
-        autoMovement.enabled = true;
-
-        while (distanceTraveled < distance)
+        if (other.CompareTag("Player") && other.TryGetComponent(out HealthManager healthManager))
         {
-            float currentPostionY = transform.position.y;
+            healthManager.Damage(1);
+            Destroy(gameObject);
+        }
+    }
 
-            yield return null;
-
-            distanceTraveled += Mathf.Abs(currentPostionY - transform.position.y);
-            Debug.Log($"Distance Traveled: {distanceTraveled}");
+    private void OnHealthChange(int health)
+    {
+        if (health == 0)
+        {
+            Loose();
+            return;
         }
 
-
-        StartCoroutine(IdleCoroutine());
+        anim.SetTrigger("take_damage");
     }
 
-    private IEnumerator IdleCoroutine()
+    private void OnDistanceReached()
     {
-        autoMovement.enabled = false;
-        yield return new WaitForSeconds(5);
+        StartCoroutine(RunStatesCoroutine());
+    }
+
+    private void OnShoot()
+    {
+        anim.SetTrigger("shoot");
+    }
+
+    private IEnumerator RunStatesCoroutine()
+    {
+        anim.SetBool("moving", false);
+        anim.SetBool("attacking", true);
+        anim.SetTrigger("turn");
+
+        foreach (var state in states)
+        {
+            StartState(state);
+            yield return new WaitForSeconds(state.duration);
+            EndState(state);
+        }
+
+        anim.SetBool("moving", true);
+    }
+
+    private void StartState(EnemyState state)
+    {
+        foreach (var action in state.actions)
+        {
+            switch (action)
+            {
+                case EnemyAction.Idle:
+                    autoMovement.enabled = false;
+                    break;
+                case EnemyAction.Shoot:
+                    gun.enabled = true;
+                    break;
+                case EnemyAction.Sway:
+                    swayMovement.enabled = true;
+                    break;
+            }
+        }
+    }
+
+    private void EndState(EnemyState state)
+    {
+        foreach (var action in state.actions)
+        {
+            switch (action)
+            {
+                case EnemyAction.Idle:
+                    autoMovement.enabled = true;
+                    break;
+                case EnemyAction.Shoot:
+                    gun.enabled = false;
+                    break;
+                case EnemyAction.Sway:
+                    swayMovement.enabled = false;
+                    break;
+            }
+        }
+    }
+
+    private void Loose()
+    {
+        StopAllCoroutines();
+        anim.SetTrigger("explode");
+        coll.enabled = false;
+        gun.enabled = false;
+        swayMovement.enabled = false;
         autoMovement.enabled = true;
+        Destroy(moveDistance);
+        Invoke("DestroySelf", 2);
+    }
+
+    private void DestroySelf()
+    {
+        Destroy(gameObject);
     }
 }

@@ -5,26 +5,26 @@ public class ScrollingBackground : MonoBehaviour
     public float speed = 5;
     [SerializeField] private SpriteRenderer sprite;
 
-    private Vector3 startPosition;
-    private Vector2 endPosition;
+    private float startPositionY;
+    private float endPositionY;
 
 
-    private void Start() 
+    private void Start()
     {
-        startPosition = sprite.transform.localPosition;
-        endPosition = startPosition - sprite.bounds.extents;
+        startPositionY = sprite.transform.localPosition.y;
+        endPositionY = startPositionY - sprite.bounds.extents.y;
     }
 
     private void Update() 
     {
-        sprite.transform.Translate(Vector2.down * speed * Time.deltaTime, Space.Self);
+        sprite.transform.Translate(Vector2.down * speed * Time.deltaTime, Space.World);
 
-        if (sprite.transform.localPosition.y < endPosition.y)
+        Vector3 position = sprite.transform.localPosition;
+        if (position.y < endPositionY)
         {
-            float delta = sprite.transform.localPosition.y - endPosition.y;
+            float delta = sprite.transform.localPosition.y - endPositionY;
 
-            Vector3 position = startPosition;
-            position.y -= delta;
+            position.y = startPositionY - delta;
             sprite.transform.localPosition = position;
         }
     }

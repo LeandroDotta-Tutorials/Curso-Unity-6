@@ -8,16 +8,21 @@ public class PlayerController : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     private Animator animator;
     private Collider2D coll;
+    private Gun gun;
 
-    private void Start() 
+    private void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         coll = GetComponent<Collider2D>();
         animator = GetComponent<Animator>();
+        gun = GetComponentInChildren<Gun>();
     }
 
-    private void Update() 
+    private void Update()
     {
+        if (!enabled)
+            return;
+
         Vector2 direction = new Vector2(
             Input.GetAxisRaw("Horizontal"),
             Input.GetAxisRaw("Vertical")
@@ -27,6 +32,27 @@ public class PlayerController : MonoBehaviour
 
         UpdateAnimations(direction);
         ClampPositionToScreen();
+    }
+
+    private void OnHealthChange(int health)
+    {
+        if (health == 0)
+        {
+            Loose();
+            return;
+        }
+
+        animator.SetTrigger("take_damage");
+    }
+
+    private void OnInvulnerableStart()
+    {
+        animator.SetBool("blinking", true);
+    }
+
+    private void OnInvulnerableEnd()
+    {
+        animator.SetBool("blinking", false);
     }
 
     private void ClampPositionToScreen()
@@ -54,13 +80,17 @@ public class PlayerController : MonoBehaviour
         animator.SetFloat("direction_vertical", direction.y);
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
+    private void Loose()
     {
-        Debug.Log("On trigger enter");
+        animator.SetTrigger("explode");
+        coll.enabled = false;
+        gun.enabled = false;
+        enabled = false;
+        Invoke("RestartScene", 2);
+    }
 
-        if (other.CompareTag("Enemy"))
-        {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-        }
+    private void RestartScene()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }

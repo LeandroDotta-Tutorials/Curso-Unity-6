@@ -137,7 +137,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 64
+        y: 0
         width: 32
         height: 64
       alignment: 2
@@ -159,7 +159,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 64
+        y: 0
         width: 32
         height: 64
       alignment: 2
@@ -181,7 +181,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 64
+        y: 0
         width: 32
         height: 64
       alignment: 2
@@ -203,7 +203,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 96
-        y: 64
+        y: 0
         width: 32
         height: 64
       alignment: 2
@@ -224,7 +224,7 @@ TextureImporter:
       name: jetpack-boost-up_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 128
         y: 0
         width: 32
         height: 64
@@ -246,7 +246,7 @@ TextureImporter:
       name: jetpack-boost-up_1
       rect:
         serializedVersion: 2
-        x: 32
+        x: 160
         y: 0
         width: 32
         height: 64
@@ -268,7 +268,7 @@ TextureImporter:
       name: jetpack-boost-down_0
       rect:
         serializedVersion: 2
-        x: 64
+        x: 224
         y: 0
         width: 32
         height: 64
@@ -290,7 +290,7 @@ TextureImporter:
       name: jetpack-boost-down_1
       rect:
         serializedVersion: 2
-        x: 96
+        x: 256
         y: 0
         width: 32
         height: 64
@@ -304,6 +304,28 @@ TextureImporter:
       bones: []
       spriteID: f0115e2eaea5e33e0800000000000000
       internalID: -2072118813668339441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack-boost-up_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004545a00098cd44192bea4cde1492ff
+      internalID: -2087469520
       vertices: []
       indices: 
       edges: []
@@ -330,6 +352,7 @@ TextureImporter:
       jetpack-boost-idle_3: 314877206896564841
       jetpack-boost-up_0: 7047173112811055945
       jetpack-boost-up_1: -706272208471280906
+      jetpack-boost-up_2: -2087469520
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

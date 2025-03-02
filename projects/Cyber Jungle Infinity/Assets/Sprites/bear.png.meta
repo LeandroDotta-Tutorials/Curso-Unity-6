@@ -54,7 +54,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 64
@@ -78,7 +78,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
@@ -325,6 +325,94 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: bear_idle_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65ed2bfbcbd2e74499a4748e4b628f9
+      internalID: 1911925255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear_idle_9
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4701a1c3e19e64c94f5d33a08ec531
+      internalID: 363322434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear_idle_10
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e78f968fe3af4840a40d78b9e7522bc
+      internalID: -1157300169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear_idle_11
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f94766850932a84fb92454d6b4ad5d8
+      internalID: 846617485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -341,14 +429,19 @@ TextureImporter:
     nameFileIdTable:
       1: 949651217
       1bear_turn_: 949651217
+      bear_4: -411642883
       bear_idle_0: -61956743
       bear_idle_1: -3001681976893849735
+      bear_idle_10: -1157300169
+      bear_idle_11: 846617485
       bear_idle_2: 4244236
       bear_idle_3: 1808008829
       bear_idle_4: 1974251520
       bear_idle_5: -813742088
       bear_idle_6: -954646694
       bear_idle_7: -284488507
+      bear_idle_8: 1911925255
+      bear_idle_9: 363322434
       bear_turn_0: 7935234321397735378
       bear_turn_1: 949651217
       bear_turn_2: 1168296128566557295
