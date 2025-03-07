@@ -6,6 +6,7 @@ public class HealthManager : MonoBehaviour
     public int startHealth = 1;
     public int maxHealth = 1;
     public float invulnerableInterval = 1;
+    public HealthBar healthBar;
 
     public int Health { get; private set; }
 
@@ -29,6 +30,7 @@ public class HealthManager : MonoBehaviour
         }
 
         SendMessage("OnHealthChange", Health, SendMessageOptions.RequireReceiver);
+        healthBar?.SetHealth(Health);
 
         if (invulnerableInterval <= 0 || Health <= 0)
             return;
@@ -46,6 +48,7 @@ public class HealthManager : MonoBehaviour
         }
 
         SendMessage("OnHealthChange", Health, SendMessageOptions.RequireReceiver);
+        healthBar?.SetHealth(Health);
     }
 
     private IEnumerator InvulnerableCoroutine()

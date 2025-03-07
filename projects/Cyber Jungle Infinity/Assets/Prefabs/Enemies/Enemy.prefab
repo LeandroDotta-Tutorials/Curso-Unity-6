@@ -743,6 +743,7 @@ MonoBehaviour:
   startHealth: 1
   maxHealth: 1
   invulnerableInterval: 0
+  healthBar: {fileID: 0}
 --- !u!114 &2782535677680347962
 MonoBehaviour:
   m_ObjectHideFlags: 0
