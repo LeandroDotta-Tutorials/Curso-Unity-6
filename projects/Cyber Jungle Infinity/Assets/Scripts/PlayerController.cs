@@ -4,55 +4,30 @@ using UnityEngine.SceneManagement;
 public class PlayerController : MonoBehaviour
 {
     public float speed = 5;
+    public Vector2 direction = Vector2.zero;
 
-    private SpriteRenderer spriteRenderer;
-    private Animator animator;
     private Collider2D coll;
-    private Gun gun;
 
     private void Start()
     {
-        spriteRenderer = GetComponent<SpriteRenderer>();
         coll = GetComponent<Collider2D>();
-        animator = GetComponent<Animator>();
-        gun = GetComponentInChildren<Gun>();
+    }
+
+    private void OnDisable()
+    {
+        direction = Vector2.zero;
     }
 
     private void Update()
     {
-        if (!enabled)
-            return;
-
-        Vector2 direction = new Vector2(
+        direction = new Vector2(
             Input.GetAxisRaw("Horizontal"),
             Input.GetAxisRaw("Vertical")
         ).normalized;
 
         transform.Translate(speed * Time.deltaTime * direction);
 
-        UpdateAnimations(direction);
         ClampPositionToScreen();
-    }
-
-    private void OnHealthChange(int health)
-    {
-        if (health == 0)
-        {
-            Loose();
-            return;
-        }
-
-        animator.SetTrigger("take_damage");
-    }
-
-    private void OnInvulnerableStart()
-    {
-        animator.SetBool("blinking", true);
-    }
-
-    private void OnInvulnerableEnd()
-    {
-        animator.SetBool("blinking", false);
     }
 
     private void ClampPositionToScreen()
@@ -72,21 +47,6 @@ public class PlayerController : MonoBehaviour
         position.x = Mathf.Clamp(position.x, minPosition.x, maxPosition.x);
         position.y = Mathf.Clamp(position.y, minPosition.y, maxPosition.y);
         transform.position = position;
-    }
-
-    private void UpdateAnimations(Vector2 direction)
-    {
-        animator.SetFloat("direction_horizontal", direction.x);
-        animator.SetFloat("direction_vertical", direction.y);
-    }
-
-    private void Loose()
-    {
-        animator.SetTrigger("explode");
-        coll.enabled = false;
-        gun.enabled = false;
-        enabled = false;
-        Invoke("RestartScene", 2);
     }
 
     private void RestartScene()
