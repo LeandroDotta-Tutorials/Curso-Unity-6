@@ -7,14 +7,23 @@ public class Player : MonoBehaviour
     private Collider2D coll;
     private PlayerController controller;
     private Gun gun;
+    private GameManager gameManager;
 
 
     private void Start()
     {
+        gameManager = FindFirstObjectByType<GameManager>();
         coll = GetComponent<Collider2D>();
         animator = GetComponent<Animator>();
         controller = GetComponent<PlayerController>();
         gun = GetComponentInChildren<Gun>();
+    }
+
+    private void OnDisable()
+    {
+        coll.enabled = false;
+        gun.enabled = false;
+        controller.enabled = false;
     }
 
     private void Update()
@@ -51,15 +60,13 @@ public class Player : MonoBehaviour
 
     private void Loose()
     {
+        enabled = false;
         animator.SetTrigger("explode");
-        coll.enabled = false;
-        gun.enabled = false;
-        controller.enabled = false;
-        Invoke("RestartScene", 2);
+        Invoke("ShowGameOver", 2f);
     }
 
-    private void RestartScene()
+    private void ShowGameOver()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        gameManager.GameOver();
     }
 }
