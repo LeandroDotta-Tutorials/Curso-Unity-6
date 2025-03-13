@@ -4508,7 +4508,7 @@ MonoBehaviour:
   interval: 0.5
   direction: {x: 0, y: 1}
   targetTag: Enemy
-  projectilePrefab: {fileID: 2924212823162159178, guid: 04e7c8c2034699240b063641098aaf9f, type: 3}
+  projectilePrefab: {fileID: 3045714405074206200, guid: 6236c87d816d6534e92afce1b71771a2, type: 3}
 --- !u!1001 &1345046384
 PrefabInstance:
   m_ObjectHideFlags: 0
