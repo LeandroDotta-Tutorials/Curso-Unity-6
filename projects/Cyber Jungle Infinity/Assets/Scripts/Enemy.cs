@@ -45,6 +45,11 @@ public class Enemy : MonoBehaviour
         anim.SetBool("attacking", false);
     }
 
+    private void OnDestroy()
+    {
+        SendMessageUpwards("OnEnemyDestroyed", this);    
+    }
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player") && other.TryGetComponent(out HealthManager healthManager))
@@ -136,10 +141,12 @@ public class Enemy : MonoBehaviour
         StopAllCoroutines();
         anim.SetTrigger("explode");
         soundEffectPlayer.Play(soundLoose);
+
         coll.enabled = false;
         gun.enabled = false;
         swayMovement.enabled = false;
         autoMovement.enabled = true;
+
         Destroy(moveDistance);
         Invoke("DestroySelf", 2);
     }

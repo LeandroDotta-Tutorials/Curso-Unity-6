@@ -4,21 +4,42 @@ using UnityEngine;
 public class LevelManager : MonoBehaviour
 {
     public float endDelay = 15f;
-    
-    private IEnumerator Start()
-    {
-        foreach (Horde horde in transform.GetComponentsInChildren<Horde>(true))
-        {
-            horde.gameObject.SetActive(true);
-            yield return new WaitForSeconds(horde.duration);
-        }
 
-        yield return new WaitForSeconds(endDelay);
-        SendMessage("OnLevelEnd", SendMessageOptions.RequireReceiver);
+    private Horde[] hordes;
+    private int currentHorde = -1;
+
+    private void Start()
+    {
+        hordes = transform.GetComponentsInChildren<Horde>(true);
+        StartNextHorde();
     }
 
     private void OnDisable()
     {
-        StopAllCoroutines();    
+        StopAllCoroutines();
+    }
+
+    private void OnHordeEnd()
+    {
+        if (!enabled)
+        {
+            return;
+        }
+
+        StartNextHorde();
+    }
+
+    private void StartNextHorde()
+    {
+        currentHorde++;
+
+        if (currentHorde < hordes.Length)
+        {
+            hordes[currentHorde].gameObject.SetActive(true);
+        }
+        else
+        {
+            SendMessage("OnLevelEnd", SendMessageOptions.RequireReceiver);
+        }
     }
 }
