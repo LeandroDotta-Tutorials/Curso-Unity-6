@@ -8,6 +8,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2782535677680347962, guid: 54b0948c1b913aa41a6d6574212f78ba, type: 3}
+      propertyPath: distance
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 3069564372152627724, guid: 54b0948c1b913aa41a6d6574212f78ba, type: 3}
       propertyPath: states.Array.size
       value: 1
@@ -70,11 +74,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3679812755610700686, guid: 54b0948c1b913aa41a6d6574212f78ba, type: 3}
       propertyPath: speed
-      value: 5
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 5794069367300635772, guid: 54b0948c1b913aa41a6d6574212f78ba, type: 3}
       propertyPath: m_Name
       value: Enemy@Shooting
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627715772165085608, guid: 54b0948c1b913aa41a6d6574212f78ba, type: 3}
+      propertyPath: speed
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627715772165085608, guid: 54b0948c1b913aa41a6d6574212f78ba, type: 3}
+      propertyPath: interval
+      value: 0.7
       objectReference: {fileID: 0}
     - target: {fileID: 6840730827886683429, guid: 54b0948c1b913aa41a6d6574212f78ba, type: 3}
       propertyPath: m_Color.b

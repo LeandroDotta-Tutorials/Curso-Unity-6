@@ -14,7 +14,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3069564372152627724, guid: 54b0948c1b913aa41a6d6574212f78ba, type: 3}
       propertyPath: states.Array.data[0].duration
-      value: 3
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 3069564372152627724, guid: 54b0948c1b913aa41a6d6574212f78ba, type: 3}
       propertyPath: states.Array.data[0].actions.Array.size
@@ -62,11 +62,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3679812755610700686, guid: 54b0948c1b913aa41a6d6574212f78ba, type: 3}
       propertyPath: speed
-      value: 5
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5794069367300635772, guid: 54b0948c1b913aa41a6d6574212f78ba, type: 3}
       propertyPath: m_Name
       value: Enemy@Simple
+      objectReference: {fileID: 0}
+    - target: {fileID: 6638581699505690385, guid: 54b0948c1b913aa41a6d6574212f78ba, type: 3}
+      propertyPath: maxHealth
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6638581699505690385, guid: 54b0948c1b913aa41a6d6574212f78ba, type: 3}
+      propertyPath: startHealth
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6840730827886683429, guid: 54b0948c1b913aa41a6d6574212f78ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.227451
+      objectReference: {fileID: 0}
+    - target: {fileID: 6840730827886683429, guid: 54b0948c1b913aa41a6d6574212f78ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.6415405
+      objectReference: {fileID: 0}
+    - target: {fileID: 6840730827886683429, guid: 54b0948c1b913aa41a6d6574212f78ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.99607843
       objectReference: {fileID: 0}
     - target: {fileID: 8460890045779833438, guid: 54b0948c1b913aa41a6d6574212f78ba, type: 3}
       propertyPath: m_Color.b
@@ -79,6 +99,18 @@ PrefabInstance:
     - target: {fileID: 8460890045779833438, guid: 54b0948c1b913aa41a6d6574212f78ba, type: 3}
       propertyPath: m_Color.r
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8842326378933393814, guid: 54b0948c1b913aa41a6d6574212f78ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.227451
+      objectReference: {fileID: 0}
+    - target: {fileID: 8842326378933393814, guid: 54b0948c1b913aa41a6d6574212f78ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.6415405
+      objectReference: {fileID: 0}
+    - target: {fileID: 8842326378933393814, guid: 54b0948c1b913aa41a6d6574212f78ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.99607843
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

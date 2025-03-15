@@ -274,9 +274,9 @@ TextureImporter:
       name: bee-background-2
       rect:
         serializedVersion: 2
-        x: 112
-        y: 6
-        width: 98
+        x: 111
+        y: 7
+        width: 110
         height: 98
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -296,10 +296,10 @@ TextureImporter:
       name: bee-background-3
       rect:
         serializedVersion: 2
-        x: 215
-        y: 6
-        width: 99
-        height: 98
+        x: 223
+        y: 0
+        width: 103
+        height: 105
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -315,34 +315,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bee-background-4
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 2
-        width: 110
-        height: 110
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9a86820fb1450d900800000000000000
-      internalID: 707157620467198121
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: bee-background-1
       rect:
         serializedVersion: 2
-        x: 8
-        y: 6
-        width: 98
+        x: 7
+        y: 7
+        width: 99
         height: 98
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -354,28 +332,6 @@ TextureImporter:
       bones: []
       spriteID: 71d21f07abcc93547a386e9050687cd6
       internalID: -1720684873
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bee-background-5
-      rect:
-        serializedVersion: 2
-        x: 432
-        y: 6
-        width: 98
-        height: 98
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a5611f164c91d37429cf2b691a6ec07c
-      internalID: -264873987
       vertices: []
       indices: 
       edges: []

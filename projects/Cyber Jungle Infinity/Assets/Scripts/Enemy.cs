@@ -18,12 +18,18 @@ public class Enemy : MonoBehaviour
 {
     public EnemyState[] states;
 
+    [Header("Sound Effects")]
+    public SoundEffect soundShoot;
+    public SoundEffect soundLoose;
+    public SoundEffect soundDamage;
+
     private AutoMovement autoMovement;
     private SwayMovement swayMovement;
     private MoveDistance moveDistance;
     private Gun gun;
     private Animator anim;
     private Collider2D coll;
+    private SoundEffectPlayer soundEffectPlayer;
 
     private void Start()
     {
@@ -33,6 +39,7 @@ public class Enemy : MonoBehaviour
         gun = GetComponentInChildren<Gun>();
         anim = GetComponent<Animator>();
         coll = GetComponent<Collider2D>();
+        soundEffectPlayer = new SoundEffectPlayer(GetComponent<AudioSource>());
 
         anim.SetBool("moving", true);
         anim.SetBool("attacking", false);
@@ -56,6 +63,7 @@ public class Enemy : MonoBehaviour
         }
 
         anim.SetTrigger("take_damage");
+        soundEffectPlayer.Play(soundDamage);
     }
 
     private void OnDistanceReached()
@@ -66,6 +74,7 @@ public class Enemy : MonoBehaviour
     private void OnShoot()
     {
         anim.SetTrigger("shoot");
+        soundEffectPlayer.Play(soundShoot);
     }
 
     private IEnumerator RunStatesCoroutine()
@@ -126,6 +135,7 @@ public class Enemy : MonoBehaviour
     {
         StopAllCoroutines();
         anim.SetTrigger("explode");
+        soundEffectPlayer.Play(soundLoose);
         coll.enabled = false;
         gun.enabled = false;
         swayMovement.enabled = false;

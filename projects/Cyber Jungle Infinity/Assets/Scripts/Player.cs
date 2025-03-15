@@ -1,19 +1,27 @@
+using System;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
+    [Header("Sound Effects")]
+    public SoundEffect soundShot;
+    // public AudioClip soundShot;
+    public SoundEffect soundDamage;
+    public SoundEffect soundLoose;
+
     private Animator animator;
     private Collider2D coll;
     private PlayerController controller;
     private Gun gun;
     private GameManager gameManager;
+    private SoundEffectPlayer soundEffectPlayer;
 
 
     private void Start()
     {
         gameManager = FindFirstObjectByType<GameManager>();
         coll = GetComponent<Collider2D>();
+        soundEffectPlayer = new SoundEffectPlayer(GetComponent<AudioSource>());
         animator = GetComponent<Animator>();
         controller = GetComponent<PlayerController>();
         gun = GetComponentInChildren<Gun>();
@@ -46,6 +54,7 @@ public class Player : MonoBehaviour
         }
 
         animator.SetTrigger("take_damage");
+        soundEffectPlayer.Play(soundDamage);
     }
 
     private void OnInvulnerableStart()
@@ -58,10 +67,16 @@ public class Player : MonoBehaviour
         animator.SetBool("blinking", false);
     }
 
+    private void OnShoot()
+    {
+        soundEffectPlayer.Play(soundShot);
+    }
+
     private void Loose()
     {
         enabled = false;
         animator.SetTrigger("explode");
+        soundEffectPlayer.Play(soundLoose);
         Invoke("ShowGameOver", 2f);
     }
 
