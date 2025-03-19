@@ -11,16 +11,6 @@ public class MoveDistance : MonoBehaviour
         StartCoroutine(MoveDistanceCoroutine());
     }
 
-    // private void OnEnable()
-    // {
-    //     StartCoroutine(MoveDistanceCoroutine());
-    // }
-
-    // private void OnDisable()
-    // {
-    //     StopAllCoroutines();
-    // }
-
     private IEnumerator MoveDistanceCoroutine()
     {
         float distanceTraveled = 0;
