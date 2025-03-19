@@ -1,4 +1,3 @@
-using System;
 using System.Collections;
 using TMPro;
 using UnityEngine;
@@ -16,17 +15,13 @@ public class GameManager : MonoBehaviour
     public TMP_Text textFinalScore;
 
     private LevelManager levelManager;
-    private int maxScore;
-    private int currentScore;
+    private ScoreManager scoreManager;
 
     private void Start()
     {
         levelManager = GetComponent<LevelManager>();
 
-        foreach (Enemy enemy in GetComponentsInChildren<Enemy>(true))
-        {
-            maxScore += enemy.score;
-        }
+        scoreManager = new ScoreManager(GetComponentsInChildren<Enemy>(true));
 
         panelStart.gameObject.SetActive(true);
         panelInGame.SetActive(false);
@@ -52,40 +47,16 @@ public class GameManager : MonoBehaviour
     {
         levelManager.enabled = false;
 
-        textFinalScore.text = currentScore.ToString();
+        textFinalScore.text = scoreManager.Score.ToString();
         panelInGame.SetActive(false);
         panelEnd.gameObject.SetActive(true);
 
-        // CalculateRating();
         StartCoroutine(ShowRatingCoroutine());
-    }
-
-    private int CalculateRating()
-    {
-        int rating = 0;
-
-        float scorePercentage = (float)currentScore / maxScore * 100;
-        Debug.Log($"SCORE PERCENTAGE: {scorePercentage}%");
-
-        if (scorePercentage >= 100f)
-        {
-            rating = 3;
-        }
-        else if (scorePercentage >= 75f)
-        {
-            rating = 2;
-        }
-        else if (scorePercentage >= 50f)
-        {
-            rating = 1;
-        }
-
-        return rating;
     }
 
     private IEnumerator ShowRatingCoroutine()
     {
-        int rating = CalculateRating();
+        int rating = scoreManager.CalculateRating();
 
         yield return new WaitForSeconds(2f);
         ratingStar1.gameObject.SetActive(true);
@@ -107,7 +78,7 @@ public class GameManager : MonoBehaviour
 
     private void OnEnemyLoose(Enemy enemy)
     {
-        currentScore += enemy.score;
-        textScore.text = currentScore.ToString();
+        scoreManager.Score += enemy.score;
+        textScore.text = scoreManager.Score.ToString();
     }
 }

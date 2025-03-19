@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Horde : MonoBehaviour
+public class EnemyWave : MonoBehaviour
 {
     private int enemyCount;
 
