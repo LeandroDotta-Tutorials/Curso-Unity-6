@@ -16,6 +16,7 @@ public struct EnemyState
 
 public class Enemy : MonoBehaviour
 {
+    public int score;
     public EnemyState[] states;
 
     [Header("Sound Effects")]
@@ -47,14 +48,20 @@ public class Enemy : MonoBehaviour
 
     private void OnDestroy()
     {
-        SendMessageUpwards("OnEnemyDestroyed", this);    
+        SendMessageUpwards("OnEnemyDestroyed", this, SendMessageOptions.DontRequireReceiver);
     }
+
+    // private void OnBecameVisible()
+    // {
+    //     moveDistance.enabled = true;    
+    // }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player") && other.TryGetComponent(out HealthManager healthManager))
         {
             healthManager.Damage(1);
+            Debug.Log($"ENEMY {gameObject.name} DESTROYED BECAUSE IT HIT THE PLAYER");
             Destroy(gameObject);
         }
     }
@@ -84,6 +91,8 @@ public class Enemy : MonoBehaviour
 
     private IEnumerator RunStatesCoroutine()
     {
+        gameObject.AddComponent<DestroyWhenNotVisible>();
+
         anim.SetBool("moving", false);
         anim.SetBool("attacking", true);
         anim.SetTrigger("turn");
@@ -147,6 +156,8 @@ public class Enemy : MonoBehaviour
         swayMovement.enabled = false;
         autoMovement.enabled = true;
 
+        SendMessageUpwards("OnEnemyLoose", this, SendMessageOptions.DontRequireReceiver);
+        Debug.Log($"ENEMY {gameObject.name} DESTROYED BECAUSE IT LOOSE");
         Destroy(moveDistance);
         Invoke("DestroySelf", 2);
     }

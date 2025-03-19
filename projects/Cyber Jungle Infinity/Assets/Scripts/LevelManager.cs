@@ -11,6 +11,7 @@ public class LevelManager : MonoBehaviour
     private void Start()
     {
         hordes = transform.GetComponentsInChildren<Horde>(true);
+
         StartNextHorde();
     }
 

@@ -552,7 +552,6 @@ GameObject:
   - component: {fileID: 2782535677680347962}
   - component: {fileID: 3679812755610700686}
   - component: {fileID: 110815945676529707}
-  - component: {fileID: 3706759502793294223}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Enemy
@@ -838,6 +837,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad180f1baf486f24b81088932e00ae0c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  score: 10
   states: []
   soundShoot:
     clip: {fileID: 8300000, guid: 41faa1ddcb2a7fa4e81b9bba3e9e0724, type: 3}
@@ -871,7 +871,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5794069367300635772}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a7b2068344a377246858aa02eb420826, type: 3}
   m_Name: 
@@ -907,18 +907,6 @@ MonoBehaviour:
   speed: 3
   leftLimit: 2
   rightLimit: 2
---- !u!114 &3706759502793294223
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5794069367300635772}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 27af64b4d8086e04f97ab59c6e7e0e42, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &6679079487016638857
 GameObject:
   m_ObjectHideFlags: 0

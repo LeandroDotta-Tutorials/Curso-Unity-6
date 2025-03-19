@@ -6,10 +6,20 @@ public class MoveDistance : MonoBehaviour
 {
     public float distance = 3;
 
-    private void OnBecameVisible() 
+    private void OnBecameVisible()
     {
-        StartCoroutine(MoveDistanceCoroutine());    
+        StartCoroutine(MoveDistanceCoroutine());
     }
+
+    // private void OnEnable()
+    // {
+    //     StartCoroutine(MoveDistanceCoroutine());
+    // }
+
+    // private void OnDisable()
+    // {
+    //     StopAllCoroutines();
+    // }
 
     private IEnumerator MoveDistanceCoroutine()
     {

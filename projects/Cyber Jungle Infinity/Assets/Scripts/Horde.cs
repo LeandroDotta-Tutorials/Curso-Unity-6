@@ -15,7 +15,7 @@ public class Horde : MonoBehaviour
 
         if (enemyCount == 0)
         {
-            SendMessageUpwards("OnHordeEnd");
+            SendMessageUpwards("OnHordeEnd", SendMessageOptions.DontRequireReceiver);
         }
     }
 }
