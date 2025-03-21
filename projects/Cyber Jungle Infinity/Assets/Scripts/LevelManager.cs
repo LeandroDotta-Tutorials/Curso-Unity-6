@@ -2,14 +2,14 @@ using UnityEngine;
 
 public class LevelManager : MonoBehaviour
 {
-    private EnemyWave[] hordes;
-    private int currentHorde = -1;
+    private EnemyWave[] waves;
+    private int currentWave = -1;
 
     private void Start()
     {
-        hordes = transform.GetComponentsInChildren<EnemyWave>(true);
+        waves = transform.GetComponentsInChildren<EnemyWave>(true);
 
-        StartNextHorde();
+        StartNextWave();
     }
 
     private void OnDisable()
@@ -17,23 +17,23 @@ public class LevelManager : MonoBehaviour
         StopAllCoroutines();
     }
 
-    private void OnHordeEnd()
+    private void OnWaveEnd()
     {
         if (!enabled)
         {
             return;
         }
 
-        StartNextHorde();
+        StartNextWave();
     }
 
-    private void StartNextHorde()
+    private void StartNextWave()
     {
-        currentHorde++;
-
-        if (currentHorde < hordes.Length)
+        currentWave++;
+        
+        if (currentWave < waves.Length)
         {
-            hordes[currentHorde].gameObject.SetActive(true);
+            waves[currentWave].gameObject.SetActive(true);
         }
         else
         {

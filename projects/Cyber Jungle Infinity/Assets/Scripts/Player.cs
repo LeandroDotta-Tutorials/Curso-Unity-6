@@ -5,15 +5,14 @@ public class Player : MonoBehaviour
 {
     [Header("Sound Effects")]
     public SoundEffect soundShot;
-    // public AudioClip soundShot;
     public SoundEffect soundDamage;
     public SoundEffect soundLoose;
 
+    private GameManager gameManager;
     private Animator animator;
     private Collider2D coll;
     private PlayerController controller;
     private Gun gun;
-    private GameManager gameManager;
     private SoundEffectPlayer soundEffectPlayer;
 
 
@@ -21,10 +20,10 @@ public class Player : MonoBehaviour
     {
         gameManager = FindFirstObjectByType<GameManager>();
         coll = GetComponent<Collider2D>();
-        soundEffectPlayer = new SoundEffectPlayer(GetComponent<AudioSource>());
         animator = GetComponent<Animator>();
         controller = GetComponent<PlayerController>();
         gun = GetComponentInChildren<Gun>();
+        soundEffectPlayer = new SoundEffectPlayer(GetComponent<AudioSource>());
     }
 
     private void OnDisable()
@@ -36,13 +35,7 @@ public class Player : MonoBehaviour
 
     private void Update()
     {
-        UpdateAnimations(controller.direction);
-    }
-
-    private void UpdateAnimations(Vector2 direction)
-    {
-        animator.SetFloat("direction_horizontal", direction.x);
-        animator.SetFloat("direction_vertical", direction.y);
+        UpdateAnimations(controller.Direction);
     }
 
     private void OnHealthChange(int health)
@@ -72,11 +65,18 @@ public class Player : MonoBehaviour
         soundEffectPlayer.Play(soundShot);
     }
 
+    private void UpdateAnimations(Vector2 direction)
+    {
+        animator.SetFloat("direction_horizontal", direction.x);
+        animator.SetFloat("direction_vertical", direction.y);
+    }   
+
     private void Loose()
     {
         enabled = false;
         animator.SetTrigger("explode");
         soundEffectPlayer.Play(soundLoose);
+        
         Invoke("ShowGameOver", 2f);
     }
 

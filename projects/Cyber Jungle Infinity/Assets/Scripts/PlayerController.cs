@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 public class PlayerController : MonoBehaviour
 {
     public float speed = 5;
-    public Vector2 direction = Vector2.zero;
+    public Vector2 Direction { get; private set; } = Vector2.zero;
 
     private Collider2D coll;
 
@@ -15,17 +15,17 @@ public class PlayerController : MonoBehaviour
 
     private void OnDisable()
     {
-        direction = Vector2.zero;
+        Direction = Vector2.zero;
     }
 
     private void Update()
     {
-        direction = new Vector2(
+        Direction = new Vector2(
             Input.GetAxisRaw("Horizontal"),
             Input.GetAxisRaw("Vertical")
         ).normalized;
 
-        transform.Translate(speed * Time.deltaTime * direction);
+        transform.Translate(speed * Time.deltaTime * Direction);
 
         ClampPositionToScreen();
     }
@@ -47,10 +47,5 @@ public class PlayerController : MonoBehaviour
         position.x = Mathf.Clamp(position.x, minPosition.x, maxPosition.x);
         position.y = Mathf.Clamp(position.y, minPosition.y, maxPosition.y);
         transform.position = position;
-    }
-
-    private void RestartScene()
-    {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }

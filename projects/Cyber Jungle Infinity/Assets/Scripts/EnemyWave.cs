@@ -15,7 +15,7 @@ public class EnemyWave : MonoBehaviour
 
         if (enemyCount == 0)
         {
-            SendMessageUpwards("OnHordeEnd", SendMessageOptions.DontRequireReceiver);
+            SendMessageUpwards("OnWaveEnd", SendMessageOptions.DontRequireReceiver);
         }
     }
 }
