@@ -51,17 +51,11 @@ public class Enemy : MonoBehaviour
         SendMessageUpwards("OnEnemyDestroyed", this, SendMessageOptions.DontRequireReceiver);
     }
 
-    // private void OnBecameVisible()
-    // {
-    //     moveDistance.enabled = true;    
-    // }
-
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player") && other.TryGetComponent(out HealthManager healthManager))
         {
             healthManager.Damage(1);
-            Debug.Log($"ENEMY {gameObject.name} DESTROYED BECAUSE IT HIT THE PLAYER");
             Destroy(gameObject);
         }
     }
@@ -157,7 +151,6 @@ public class Enemy : MonoBehaviour
         autoMovement.enabled = true;
 
         SendMessageUpwards("OnEnemyLoose", this, SendMessageOptions.DontRequireReceiver);
-        Debug.Log($"ENEMY {gameObject.name} DESTROYED BECAUSE IT LOOSE");
         Destroy(moveDistance);
         Invoke("DestroySelf", 2);
     }
