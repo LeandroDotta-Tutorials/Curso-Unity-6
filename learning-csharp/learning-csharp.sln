@@ -109,6 +109,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08d-bank-account", "exercis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08a-scoreboard", "challenges\08a-scoreboard\08a-scoreboard.csproj", "{EDFD9119-5D00-402A-A0C8-8E2DE494EB03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-properties", "09-properties\09-properties.csproj", "{AC24DF1F-80E7-4307-8B9F-73C697934479}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -319,6 +321,10 @@ Global
 		{EDFD9119-5D00-402A-A0C8-8E2DE494EB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDFD9119-5D00-402A-A0C8-8E2DE494EB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDFD9119-5D00-402A-A0C8-8E2DE494EB03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC24DF1F-80E7-4307-8B9F-73C697934479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC24DF1F-80E7-4307-8B9F-73C697934479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC24DF1F-80E7-4307-8B9F-73C697934479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC24DF1F-80E7-4307-8B9F-73C697934479}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
