@@ -1,4 +1,4 @@
-﻿Chart chart = new Chart();
+﻿Cart chart = new Cart();
 
 chart.AddProduct("Air Fryer", 300f);
 chart.AddProduct("Televisão", 3000.500f);

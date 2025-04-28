@@ -1,4 +1,4 @@
-public class Chart
+public class Cart
 {
     public int Count { get; private set; }
     public float Total { get; private set; }

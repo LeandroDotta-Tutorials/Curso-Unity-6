@@ -113,7 +113,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-properties", "09-propert
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09a-person-properties", "exercises\09a-person-properties\09a-person-properties.csproj", "{1914A5CC-089A-4BF3-8124-BB0D7DA29DF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09b-chart-properties", "exercises\09b-chart-properties\09b-chart-properties.csproj", "{672FE3EA-EFB2-4297-A2D1-C4901FCCEA8A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09b-cart-properties", "exercises\09b-cart-properties\09b-cart-properties.csproj", "{672FE3EA-EFB2-4297-A2D1-C4901FCCEA8A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09c-date-properties", "exercises\09c-date-properties\09c-date-properties.csproj", "{6C05CFB8-30A1-4C6C-8DE2-BC6A7FF31E3D}"
 EndProject
