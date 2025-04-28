@@ -237,8 +237,8 @@ Ao final, utilize a classe para preencher os atributos informados pelo jogador e
 
 ### C# - Propriedades
 
-- **Vídeo da Aula**: https://youtu.be/ij0draC3Oac
-- **Vídeo de Solução**: https://youtu.be/BauRNrb2Ols
+- **Vídeo da Aula**: https://youtu.be/vYobyPu3WnY
+- **Vídeo de Solução**: EM BREVE
 
 #### Exercícios
 
