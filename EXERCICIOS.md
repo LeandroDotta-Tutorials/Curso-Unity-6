@@ -193,8 +193,8 @@ y
 
 ### C# Básico - Classes e Objetos
 
-- **Vídeo da Aula**: EM BREVE
-- **Vídeo de Solução**: EM BREVE
+- **Vídeo da Aula**: https://youtu.be/ij0draC3Oac
+- **Vídeo de Solução**: https://youtu.be/BauRNrb2Ols
 
 #### Exercícios
 
@@ -233,10 +233,64 @@ Ao final, utilize a classe para preencher os atributos informados pelo jogador e
 
 **A)** Crie um programa para gerenciar o placar de uma partida entre dois jogadores. Nele, crie uma classe que represente os jogadores, contendo nome e pontuação. Em seguida, crie uma classe que represente o placar, contendo atributos para o `jogador1` e `jogador2` e um atributo com a pontuação necessária para acabar a partida. Ainda na classe do placar, crie um método para adicionar uma pontuação à um dos jogadores, o método deve receber um argumento com o número do jogador (1 ou 2) e quantos pontos ele deve deve ser adicionado e, no fim, mostrar uma mensagem no Console com o placar atual. O método deve retornar um valor indicando que a partida terminou quando um dos jogadores atingir a pontuação máxima.
 
+## Módulo 2
+
+### C# - Propriedades
+
+- **Vídeo da Aula**: https://youtu.be/ij0draC3Oac
+- **Vídeo de Solução**: https://youtu.be/BauRNrb2Ols
+
+#### Exercícios
+
+**A)** Crie uma classe que represente uma pessoa. Ela deve possuir uma propriedade para o primeiro nome e uma propriedade para o sobrenome. Por fim, crie uma terceira propriedade que apresente o nome completo da pessoa.
+
+**B)** Crie uma classe que represente um carrinho de compras de um e-commerce. Ela deve possuir:
+    
+- Uma propriedade que represente a quantidade de produtos no carrinho. Essa propriedade não pode ser modificada fora classe.
+- Uma propriedade que represente o valor total dos produtos no carrinho. Essa propriedade não pode ser modificada fora classe.
+- Um método para adicionar um novo produto ao carrinho. Ele deve receber o valor do produto como argumento e será responsável por atualizar o valor das propriedades de quantidade e de valor total
+    
+Por fim, mostre na tela um resumo do carrinho de compras com o valor total e a quantidade de produtos.
+
+**C)** Crie uma classe que represente uma data. Ela deve possuir propriedades para armazenar dia, mês e ano, todos representados pelo tipo `int`. Por fim, crie uma quarta propriedade para apresentar a data no seguinte formato de texto "dia/mês/ano", por exemplo: "20/04/2025"
+
+- Incremente a classe de data criada no exercício anterior, adicionando uma validação para as propriedades dia e mês.
+    1. A propriedade dia só pode aceitar números de 1 até 31
+    2. A propriedade mês só pode aceitar números de 1 até 12
+- Incremente a classe de data dos exercícios anteriores, adicionando uma nova propriedade que apresente a data por extenso, no seguinte formato "20 de Abril de 2025" (note que o mês é representado pelo nome e não pelo número)
+
+#### Desafios
+
+**A)** Crie uma classe que represente um email. Ela deve possuir as seguintes propriedades com as seguintes regras:
+
+- ***Username***: representa a primeira parte do email (o texto que vem antes do _@_). Ela deve possuir a seguinte validação:
+    - Deve possuir 3 caracteres ou mais. Caso o valor informado seja inválido, ele não é atribuído e uma mensagem deve ser informada no Console;
+    - Todos os caracteres devem estar em letras minúsculas. Os caracteres com letras maiúsculas no valor informado devem ser transformados para letra minúscula.
+- ***Domain:*** representa o endereço do domínio do email. Por exemplo _"gmail.com"_. Deve possuir a seguinte validação:
+    - O final do texto deve ser _".com"_, _".com.br"_ ou _".br"_. Caso o domínio não termine com um desses textos, o valor não é atribuído e uma mensagem deve ser informada no Console.
+    - A parte antes do ponto (por exemplo, antes do _".com"_) deve possuir pelo menos 3 caracteres. Caso não possua 3 caracteres ou mais, o valor não é atribuído e uma mensagem deve ser apresentada no Console.
+- ***Address**:* retorna o endereço de email completo, no seguinte formato: _"<username>@<domain>"_, por exemplo: _"fulanodasilva@email.com"_. Caso as propriedades Username ou Domain não tenham valores, uma mensagem deve ser informada no Console e o valor _"\_invalid_email\_"_ deve ser retornado.
+
 # Exercícios de Projeto
 
 ## Módulo 1
 
 ### Super Pong
 
-EM BREVE
+- **Vídeo de Solução**: https://youtu.be/bY96iSpyOXc
+
+#### Exercícios
+
+**A)** Deixe a área do jogo maior aumentando o tamanho da câmera. Garanta que a posição dos _paddles_ seja ajustada de acordo.
+
+**B)** Altere a direção da bola depois que um jogador pontuar fazendo com que ela vá na direção oposta.
+
+**C)** Aumente a velocidade da bola a cada X pontos feitos. Por exemplo, a cada 2 ou 5 pontos, a velocidade da bola aumenta.
+
+#### Desafios
+
+**A)** Defina uma pontuação máxima e reinicie o jogo quando algum jogador vencer.
+
+**B)** Modifique o jogo de modo que a bola comece parada no centro da tela, até que a tecla de espaço seja pressionada. Sempre que algum jogador pontuar, faça com que a bola fique parada novamente no centro por 2 segundos e, após esse tempo, ela inicia o movimento novamente.
+
+**C)** Altere a cor da bola, dos _paddles_ e da câmera sempre que a bola rebater em alguma coisa.
