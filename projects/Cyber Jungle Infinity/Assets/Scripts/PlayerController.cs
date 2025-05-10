@@ -19,14 +19,22 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
+        ProcessInputs();
+        Move();
+        ClampPositionToScreen();
+    }
+
+    private void ProcessInputs()
+    {
         Direction = new Vector2(
             Input.GetAxisRaw("Horizontal"),
             Input.GetAxisRaw("Vertical")
         ).normalized;
+    }
 
+    private void Move()
+    {
         transform.Translate(speed * Time.deltaTime * Direction);
-
-        ClampPositionToScreen();
     }
 
     private void ClampPositionToScreen()
