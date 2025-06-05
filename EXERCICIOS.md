@@ -273,10 +273,11 @@ Por fim, mostre na tela um resumo do carrinho de compras com o valor total e a q
 
 # Exercícios de Projeto
 
-## Módulo 1
+## Módulo 1 - Super Pong
 
-### Super Pong
+### Aula "Adicionando Pontuação e Placar - Projeto Super Pong [20#]"
 
+- **Vídeo da Aula**: https://youtu.be/EqEkJRBxzkI
 - **Vídeo de Solução**: https://youtu.be/bY96iSpyOXc
 
 #### Exercícios
@@ -294,3 +295,30 @@ Por fim, mostre na tela um resumo do carrinho de compras com o valor total e a q
 **B)** Modifique o jogo de modo que a bola comece parada no centro da tela, até que a tecla de espaço seja pressionada. Sempre que algum jogador pontuar, faça com que a bola fique parada novamente no centro por 2 segundos e, após esse tempo, ela inicia o movimento novamente.
 
 **C)** Altere a cor da bola, dos _paddles_ e da câmera sempre que a bola rebater em alguma coisa.
+
+## Módulo 2 - Cyber Jungle Infinity
+
+### Aula "Como "Spawnar" GameObjects - Projeto Cyber Jungle Infinity [12#]"
+
+- **Vídeo da Aula**: https://youtu.be/S2sgGR_FyVU
+- **Vídeo de Solução**: EM BREVE
+
+#### Exercícios
+
+**A)** Adicione o script `DestroyWhenNotVisible` no Prefab “Enemy” para ele ser destruído quando sair da tela.
+
+**B)** Crie um level simples com pelo menos 10 inimigos em posições diferentes na tela. Em seguida ajuste os atributos da arma do Jogador para balancear a dificuldade do jogo, modificando atributos como velocidade e intervalo da arma.
+
+**C)** Crie uma arma que atire projéteis na horizontal, partindo da esquerda e atirando para a direita. A arma deve atirar em intervalos de 1 segundo, projéteis que devem atingir o jogador.
+
+**D)** Crie um level simples com inimigos com velocidades variadas. Alguns devem ser mais lentos e outros devem ser mais rápidos. Não crie prefabs novos, ao invés disso, modifique os atributos dos inimigos na cena, sobrepondo os valores do prefab original.
+
+#### Desafios
+
+**A)** Modifique o script `Gun` criando um novo modo em que o Jogador deva atirar manualmente. Nesse modo, ao invés da arma atirar automaticamente em intervalos definidos, o projétil deve ser lançado quando o jogador algum um botão específico.
+
+**B)** 2. Crie um novo script que servirá como Spawner de Inimigos. Ele deve gerar novas instâncias de inimigos automaticamente, com os seguintes critérios:
+
+- Um novo inimigo é criado em intervalos aleatórios de tempo (por exemplo, de 1 à 3 segundos)
+- Cada novo inimigo deve ser criado fora da tela, na parte superior e deve mover para baixo
+- Cada novo inimigo deve ter uma posição aleatória na horizontal, mas dentro dos limites da tela
