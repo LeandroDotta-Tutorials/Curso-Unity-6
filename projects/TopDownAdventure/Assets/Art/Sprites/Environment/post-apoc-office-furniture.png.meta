@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: c415adfddc8004d43bd1929511073260
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1971151854334176207
+    second: post-apoc-office-furniture_0
+  - first:
+      213: -353322862376196550
+    second: post-apoc-office-furniture_1
+  - first:
+      213: 2152177722281213985
+    second: post-apoc-office-furniture_2
+  - first:
+      213: 1755959583454467815
+    second: post-apoc-office-furniture_3
+  - first:
+      213: 1956894301686086821
+    second: post-apoc-office-furniture_4
+  - first:
+      213: 2745957432637181304
+    second: post-apoc-office-furniture_5
+  - first:
+      213: -4895295662553921256
+    second: post-apoc-office-furniture_6
+  - first:
+      213: -27661264139970035
+    second: post-apoc-office-furniture_7
+  - first:
+      213: 5160093248766275416
+    second: post-apoc-office-furniture_8
+  - first:
+      213: 267415609685056238
+    second: post-apoc-office-furniture_9
+  - first:
+      213: 8376043803492907854
+    second: post-apoc-office-furniture_10
+  - first:
+      213: 3788981620488085931
+    second: post-apoc-office-furniture_11
+  - first:
+      213: 457708712621570088
+    second: post-apoc-office-furniture_12
+  - first:
+      213: -3035040993786124668
+    second: post-apoc-office-furniture_13
+  - first:
+      213: -1547768014713006323
+    second: post-apoc-office-furniture_14
+  - first:
+      213: 857158418951657044
+    second: post-apoc-office-furniture_15
+  - first:
+      213: 5110132461819828739
+    second: post-apoc-office-furniture_16
+  - first:
+      213: 6095553721823483028
+    second: post-apoc-office-furniture_17
+  - first:
+      213: -8568724436851561668
+    second: post-apoc-office-furniture_18
+  - first:
+      213: 5181425727917154925
+    second: post-apoc-office-furniture_19
+  - first:
+      213: -2684476404817853161
+    second: post-apoc-office-furniture_20
+  - first:
+      213: 3873022455251262341
+    second: post-apoc-office-furniture_21
+  - first:
+      213: -4313147531797505845
+    second: post-apoc-office-furniture_22
+  - first:
+      213: -2736290700859198146
+    second: post-apoc-office-furniture_23
+  - first:
+      213: -2452902353534328684
+    second: post-apoc-office-furniture_24
+  - first:
+      213: 7284816470981169040
+    second: post-apoc-office-furniture_25
+  - first:
+      213: 7719942003958100598
+    second: post-apoc-office-furniture_26
+  - first:
+      213: 2227986817125142417
+    second: post-apoc-office-furniture_27
+  - first:
+      213: 4353427550861999825
+    second: post-apoc-office-furniture_28
+  - first:
+      213: 3212982058793210719
+    second: post-apoc-office-furniture_29
+  - first:
+      213: -2478150882002121720
+    second: post-apoc-office-furniture_30
+  - first:
+      213: -1472522689899603609
+    second: post-apoc-office-furniture_31
+  - first:
+      213: -4892057577316746309
+    second: post-apoc-office-furniture_32
+  - first:
+      213: 2950660428921862324
+    second: post-apoc-office-furniture_33
+  - first:
+      213: 7213359186615995523
+    second: post-apoc-office-furniture_34
+  - first:
+      213: 9109047577548521589
+    second: post-apoc-office-furniture_35
+  - first:
+      213: 277636685252406346
+    second: post-apoc-office-furniture_36
+  - first:
+      213: 1186481020399782955
+    second: post-apoc-office-furniture_37
+  - first:
+      213: -7031850820545737761
+    second: post-apoc-office-furniture_38
+  - first:
+      213: -4658912114720268106
+    second: post-apoc-office-furniture_39
+  - first:
+      213: -2401400885444798510
+    second: post-apoc-office-furniture_40
+  - first:
+      213: 8458376748348164613
+    second: post-apoc-office-furniture_41
+  - first:
+      213: -4785607100190798719
+    second: post-apoc-office-furniture_42
+  - first:
+      213: -748612231394329021
+    second: post-apoc-office-furniture_43
+  - first:
+      213: -5055908635491009841
+    second: post-apoc-office-furniture_44
+  - first:
+      213: 6837506736848116189
+    second: post-apoc-office-furniture_45
+  - first:
+      213: -594257900199164265
+    second: post-apoc-office-furniture_46
+  - first:
+      213: -2135734105032196242
+    second: post-apoc-office-furniture_47
+  - first:
+      213: 874582532800299935
+    second: post-apoc-office-furniture_48
+  - first:
+      213: 9120140652348389972
+    second: post-apoc-office-furniture_49
+  - first:
+      213: 7212479886846813806
+    second: post-apoc-office-furniture_50
+  - first:
+      213: -3458217832072219973
+    second: post-apoc-office-furniture_51
+  - first:
+      213: 4632018725668999787
+    second: post-apoc-office-furniture_52
+  - first:
+      213: -7650675291456762062
+    second: post-apoc-office-furniture_53
+  - first:
+      213: -2626819860384151178
+    second: post-apoc-office-furniture_54
+  - first:
+      213: 3224111748528520746
+    second: post-apoc-office-furniture_55
+  - first:
+      213: -1833912775128902198
+    second: post-apoc-office-furniture_56
+  - first:
+      213: 462487209564298077
+    second: post-apoc-office-furniture_57
+  - first:
+      213: 6385177374979143108
+    second: post-apoc-office-furniture_58
+  - first:
+      213: 3627361564803680776
+    second: post-apoc-office-furniture_59
+  - first:
+      213: -1943309106862336074
+    second: post-apoc-office-furniture_60
+  - first:
+      213: 6875435501386378851
+    second: post-apoc-office-furniture_61
+  - first:
+      213: 2614938797501421027
+    second: post-apoc-office-furniture_62
+  - first:
+      213: -1162513539422255558
+    second: post-apoc-office-furniture_63
+  - first:
+      213: -8630966882043276357
+    second: post-apoc-office-furniture_64
+  - first:
+      213: 6657472641882879811
+    second: post-apoc-office-furniture_65
+  - first:
+      213: -6180192517758550673
+    second: post-apoc-office-furniture_66
+  - first:
+      213: -8701299525533863548
+    second: post-apoc-office-furniture_67
+  - first:
+      213: -7622936569891533940
+    second: post-apoc-office-furniture_68
+  - first:
+      213: -4465907418366147930
+    second: post-apoc-office-furniture_69
+  - first:
+      213: 1981523800932339191
+    second: post-apoc-office-furniture_70
+  - first:
+      213: 8111233281663372603
+    second: post-apoc-office-furniture_71
+  - first:
+      213: 8397500991910473496
+    second: post-apoc-office-furniture_72
+  - first:
+      213: 6939340254787234453
+    second: post-apoc-office-furniture_73
+  - first:
+      213: 3176721617987032857
+    second: post-apoc-office-furniture_74
+  - first:
+      213: -7998133573474379310
+    second: post-apoc-office-furniture_75
+  - first:
+      213: -8133868025092493022
+    second: post-apoc-office-furniture_76
+  - first:
+      213: -4396278475720110083
+    second: post-apoc-office-furniture_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 415
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1341f0405df05a4e0800000000000000
+      internalID: -1971151854334176207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 415
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36ea098abeb81bf0800000000000000
+      internalID: -353322862376196550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 415
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120c4165c321edd10800000000000000
+      internalID: 2152177722281213985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 415
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e61fbb00fb6e5810800000000000000
+      internalID: 1755959583454467815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 417
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac3cf2dff8482b10800000000000000
+      internalID: 1956894301686086821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 417
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dceac7cb99b1620800000000000000
+      internalID: 2745957432637181304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81986f2088a601cb0800000000000000
+      internalID: -4895295662553921256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a16e01a3abd9ff0800000000000000
+      internalID: -27661264139970035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 416
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fea9c68755c9740800000000000000
+      internalID: 5160093248766275416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 427
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea1ca6841d06b300800000000000000
+      internalID: 267415609685056238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b7e4a067fad3470800000000000000
+      internalID: 8376043803492907854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 357
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba12dad75ba259430800000000000000
+      internalID: 3788981620488085931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 357
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828f86a26ab1a5600800000000000000
+      internalID: 457708712621570088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 357
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48621a6eb4e51e5d0800000000000000
+      internalID: -3035040993786124668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 390
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07d158e039358ae0800000000000000
+      internalID: -1547768014713006323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 354
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45659d56a0d35eb00800000000000000
+      internalID: 857158418951657044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_16
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 351
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a96fd3666dae640800000000000000
+      internalID: 5110132461819828739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_17
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 354
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494599a70d1c79450800000000000000
+      internalID: 6095553721823483028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3be0431686c51980800000000000000
+      internalID: -8568724436851561668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 288
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6262964f3f18e740800000000000000
+      internalID: 5181425727917154925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_20
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 292
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7150aeacee2debad0800000000000000
+      internalID: -2684476404817853161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 292
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bdc54276dbfb530800000000000000
+      internalID: 3873022455251262341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 289
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc85b5ffb2f9424c0800000000000000
+      internalID: -4313147531797505845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 289
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e353515ea1eb60ad0800000000000000
+      internalID: -2736290700859198146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 225
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490edd43e4a85fdd0800000000000000
+      internalID: -2452902353534328684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 225
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f4fb6dbfdd81560800000000000000
+      internalID: 7284816470981169040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 223
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6723a80c95eb22b60800000000000000
+      internalID: 7719942003958100598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 225
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f4ffea4366bee10800000000000000
+      internalID: 2227986817125142417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 225
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de3784ca4b7a6c30800000000000000
+      internalID: 4353427550861999825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_29
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 223
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53921cc82ec69c20800000000000000
+      internalID: 3212982058793210719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 275
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c417217e6db9dd0800000000000000
+      internalID: -2478150882002121720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 225
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769d4d05a6c809be0800000000000000
+      internalID: -1472522689899603609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_32
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 159
+        width: 47
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbf64b7d8beb1cb0800000000000000
+      internalID: -4892057577316746309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 262
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b870bed60ad2f820800000000000000
+      internalID: 2950660428921862324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 225
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c0c8356fffa1460800000000000000
+      internalID: 7213359186615995523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_35
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 161
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57089ed8286d96e70800000000000000
+      internalID: 9109047577548521589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c2611281d5ad300800000000000000
+      internalID: 277636685252406346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_37
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 161
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c0ca9a33a377010800000000000000
+      internalID: 1186481020399782955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_38
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 165
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb05df5fe8d96e90800000000000000
+      internalID: -7031850820545737761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_39
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 165
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0a55a9d18385fb0800000000000000
+      internalID: -4658912114720268106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 121
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d711cb2e928caed0800000000000000
+      internalID: -2401400885444798510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_41
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 95
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a47b596d0326570800000000000000
+      internalID: 8458376748348164613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_42
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 105
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c4a8692bb169db0800000000000000
+      internalID: -4785607100190798719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_43
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 105
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e7a3154256c95f0800000000000000
+      internalID: -748612231394329021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_44
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 121
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca7ab422edc5d9b0800000000000000
+      internalID: -5055908635491009841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_45
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 95
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd91c278624b3ee50800000000000000
+      internalID: 6837506736848116189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 106
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796c8a99695c0c7f0800000000000000
+      internalID: -594257900199164265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_47
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 106
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f7ed6a5295c52e0800000000000000
+      internalID: -2135734105032196242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_48
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 113
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93c25a0e24232c00800000000000000
+      internalID: 874582532800299935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_49
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 113
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a33dc4a9f319e70800000000000000
+      internalID: 9120140652348389972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_50
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 113
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6667256e30e71460800000000000000
+      internalID: 7212479886846813806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2f9634431f100d0800000000000000
+      internalID: -3458217832072219973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_52
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6255705d7c384040800000000000000
+      internalID: 4632018725668999787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_53
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 63
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f8cd08b5753d590800000000000000
+      internalID: -7650675291456762062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 63
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6798cd42149ab8bd0800000000000000
+      internalID: -2626819860384151178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_55
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 63
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2eb43f9d885ebc20800000000000000
+      internalID: 3224111748528520746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_56
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 63
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac514692c02ac86e0800000000000000
+      internalID: -1833912775128902198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 97
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bdd3faaa51b6600800000000000000
+      internalID: 462487209564298077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_58
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 97
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c53e7f0ef4bc9850800000000000000
+      internalID: 6385177374979143108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_59
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 97
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a4706ef1af65230800000000000000
+      internalID: 3627361564803680776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_60
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 70
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b750b4d9aaf705e0800000000000000
+      internalID: -1943309106862336074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_61
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 97
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36eae3039247a6f50800000000000000
+      internalID: 6875435501386378851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 63
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e595765bf02a4420800000000000000
+      internalID: 2614938797501421027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_63
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 63
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36872c581ceddfe0800000000000000
+      internalID: -1162513539422255558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_64
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 74
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb356af7955a83880800000000000000
+      internalID: -8630966882043276357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_65
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 63
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3477f415818146c50800000000000000
+      internalID: 6657472641882879811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_66
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d797f26ab8b3aa0800000000000000
+      internalID: -6180192517758550673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 63
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4817748de26ce3780800000000000000
+      internalID: -8701299525533863548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bc746e393e53690800000000000000
+      internalID: -7622936569891533940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_69
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a201884dd8e502c0800000000000000
+      internalID: -4465907418366147930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdcd8cf569cf7b10800000000000000
+      internalID: 1981523800932339191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d0fdbc1b3e09070800000000000000
+      internalID: 8111233281663372603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_72
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f60d709aae98470800000000000000
+      internalID: 8397500991910473496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_73
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a692e023d7d4060800000000000000
+      internalID: 6939340254787234453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_74
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917db660b7bf51c20800000000000000
+      internalID: 3176721617987032857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_75
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d91fee04ebe00190800000000000000
+      internalID: -7998133573474379310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_76
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22134725022be1f80800000000000000
+      internalID: -8133868025092493022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-furniture_77
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffc101d4084df2c0800000000000000
+      internalID: -4396278475720110083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

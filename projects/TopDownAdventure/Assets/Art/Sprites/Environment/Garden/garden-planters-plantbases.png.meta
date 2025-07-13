@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: 7f9f8a465bd594849ad6ff26cc8e8417
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2770116923166137269
+    second: garden-planters-plantbases_0
+  - first:
+      213: -1023394933939066248
+    second: garden-planters-plantbases_1
+  - first:
+      213: -2524546257347286246
+    second: garden-planters-plantbases_2
+  - first:
+      213: 8166027523283317049
+    second: garden-planters-plantbases_3
+  - first:
+      213: -7438539534648302711
+    second: garden-planters-plantbases_4
+  - first:
+      213: -5367017026777288341
+    second: garden-planters-plantbases_5
+  - first:
+      213: -7840042519617880196
+    second: garden-planters-plantbases_6
+  - first:
+      213: 7798188256901836625
+    second: garden-planters-plantbases_7
+  - first:
+      213: 8629391586931575111
+    second: garden-planters-plantbases_8
+  - first:
+      213: -5188117718612519086
+    second: garden-planters-plantbases_9
+  - first:
+      213: -7767301159116717603
+    second: garden-planters-plantbases_10
+  - first:
+      213: 989688827724316352
+    second: garden-planters-plantbases_11
+  - first:
+      213: 2487207971364185062
+    second: garden-planters-plantbases_12
+  - first:
+      213: 5834387275167554934
+    second: garden-planters-plantbases_13
+  - first:
+      213: 4582858629742600459
+    second: garden-planters-plantbases_14
+  - first:
+      213: -4312851434558625882
+    second: garden-planters-plantbases_15
+  - first:
+      213: 303597210180832937
+    second: garden-planters-plantbases_16
+  - first:
+      213: -2271260073854299670
+    second: garden-planters-plantbases_17
+  - first:
+      213: 8074824765541744481
+    second: garden-planters-plantbases_18
+  - first:
+      213: 4659211655571846609
+    second: garden-planters-plantbases_19
+  - first:
+      213: 1927836744734312764
+    second: garden-planters-plantbases_20
+  - first:
+      213: 7104574525431677380
+    second: garden-planters-plantbases_21
+  - first:
+      213: -7861786286459881199
+    second: garden-planters-plantbases_22
+  - first:
+      213: -7365275847566069172
+    second: garden-planters-plantbases_23
+  - first:
+      213: 5191198169062704388
+    second: garden-planters-plantbases_24
+  - first:
+      213: -1117445405599629560
+    second: garden-planters-plantbases_25
+  - first:
+      213: -4916270349977201537
+    second: garden-planters-plantbases_26
+  - first:
+      213: 7688125875149774004
+    second: garden-planters-plantbases_27
+  - first:
+      213: -1338056961570613006
+    second: garden-planters-plantbases_28
+  - first:
+      213: -6294483417124864094
+    second: garden-planters-plantbases_29
+  - first:
+      213: -922383888743034362
+    second: garden-planters-plantbases_30
+  - first:
+      213: -659201223747174560
+    second: garden-planters-plantbases_31
+  - first:
+      213: -2231849141559798069
+    second: garden-planters-plantbases_32
+  - first:
+      213: -7041019439869759552
+    second: garden-planters-plantbases_33
+  - first:
+      213: -619905148683048726
+    second: garden-planters-plantbases_34
+  - first:
+      213: 7543302728911033748
+    second: garden-planters-plantbases_35
+  - first:
+      213: -738776810928016318
+    second: garden-planters-plantbases_36
+  - first:
+      213: -5514382482166591989
+    second: garden-planters-plantbases_37
+  - first:
+      213: -6904589795981391585
+    second: garden-planters-plantbases_38
+  - first:
+      213: 4983622572762893829
+    second: garden-planters-plantbases_39
+  - first:
+      213: 8290065502287709525
+    second: garden-planters-plantbases_40
+  - first:
+      213: -1510614566493231441
+    second: garden-planters-plantbases_41
+  - first:
+      213: 3099030653482072813
+    second: garden-planters-plantbases_42
+  - first:
+      213: -5942686403573049339
+    second: garden-planters-plantbases_43
+  - first:
+      213: 8771193182183444104
+    second: garden-planters-plantbases_44
+  - first:
+      213: 2832857300943259307
+    second: garden-planters-plantbases_45
+  - first:
+      213: 6402177970528133380
+    second: garden-planters-plantbases_46
+  - first:
+      213: 7414528269811453671
+    second: garden-planters-plantbases_47
+  - first:
+      213: -5904412175160340521
+    second: garden-planters-plantbases_48
+  - first:
+      213: 4068987180404799197
+    second: garden-planters-plantbases_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: garden-planters-plantbases_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 258
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b446268c5519e89d0800000000000000
+      internalID: -2770116923166137269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 256
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87aa0a1dabb2cc1f0800000000000000
+      internalID: -1023394933939066248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 256
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1be5c7fd8207fcd0800000000000000
+      internalID: -2524546257347286246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9317d5754ce835170800000000000000
+      internalID: 8166027523283317049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 257
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983a69d44bff4c890800000000000000
+      internalID: -7438539534648302711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 255
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61777723768485b0800000000000000
+      internalID: -5367017026777288341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 256
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fb732edd2923390800000000000000
+      internalID: -7840042519617880196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 257
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fa14037eab83c60800000000000000
+      internalID: 7798188256901836625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_8
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 257
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7490dc68de1c1c770800000000000000
+      internalID: 8629391586931575111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 257
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257d0393c6a1008b0800000000000000
+      internalID: -5188117718612519086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 257
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd14e5bafb0053490800000000000000
+      internalID: -7767301159116717603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 191
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce3ea6ceb41cbd00800000000000000
+      internalID: 989688827724316352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 191
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3aeafd876548220800000000000000
+      internalID: 2487207971364185062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 191
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ddb6a9058e7f050800000000000000
+      internalID: 5834387275167554934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 224
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0124a984a5999f30800000000000000
+      internalID: 4582858629742600459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 191
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a76912887ca524c0800000000000000
+      internalID: -4312851434558625882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 191
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aec0abdd08963400800000000000000
+      internalID: 303597210180832937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_17
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 196
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae113691ffcda70e0800000000000000
+      internalID: -2271260073854299670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_18
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 193
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f74ad875a8f0070800000000000000
+      internalID: 8074824765541744481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_19
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 193
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d538bfa058d8a040800000000000000
+      internalID: 4659211655571846609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_20
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 192
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3985d22e4d01ca10800000000000000
+      internalID: 1927836744734312764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_21
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 193
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c105a4a3e4889260800000000000000
+      internalID: 7104574525431677380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 128
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1197587a60355e290800000000000000
+      internalID: -7861786286459881199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c427f09b3a849c990800000000000000
+      internalID: -7365275847566069172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 129
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40504a90b37da0840800000000000000
+      internalID: 5191198169062704388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 129
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f7757f2590e70f0800000000000000
+      internalID: -1117445405599629560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_26
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 129
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74d2d90a26e5cbb0800000000000000
+      internalID: -4916270349977201537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_27
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 128
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc9ac000c5b1ba60800000000000000
+      internalID: 7688125875149774004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 127
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8585468444e6de0800000000000000
+      internalID: -1338056961570613006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 127
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af7fa58ea085a8a0800000000000000
+      internalID: -6294483417124864094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_30
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 127
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6029dec7db80333f0800000000000000
+      internalID: -922383888743034362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 67
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ffb07cafb0ad6f0800000000000000
+      internalID: -659201223747174560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc65115d701e601e0800000000000000
+      internalID: -2231849141559798069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 63
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf61f5df16494e90800000000000000
+      internalID: -7041019439869759552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 63
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8af4a3d87a567f0800000000000000
+      internalID: -619905148683048726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_35
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 68
+        width: 43
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4951af5add13fa860800000000000000
+      internalID: 7543302728911033748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_36
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 64
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244f65897665fb5f0800000000000000
+      internalID: -738776810928016318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_37
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 64
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ec2d2595af873b0800000000000000
+      internalID: -5514382482166591989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_38
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 64
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f190eb2a928fd20a0800000000000000
+      internalID: -6904589795981391585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_39
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 65
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e86285352692540800000000000000
+      internalID: 4983622572762893829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 42
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5554494d6aa3c0370800000000000000
+      internalID: 8290065502287709525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_41
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6e3ab2e08390be0800000000000000
+      internalID: -1510614566493231441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_42
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea78d0c5f7f10b20800000000000000
+      internalID: 3099030653482072813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_43
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5081c7f9336578da0800000000000000
+      internalID: -5942686403573049339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e4f583ab989b970800000000000000
+      internalID: 8771193182183444104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_45
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 4
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba64812c4b4505720800000000000000
+      internalID: 2832857300943259307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_46
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401292aa1fa19d850800000000000000
+      internalID: 6402177970528133380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_47
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee04337d22b5e660800000000000000
+      internalID: 7414528269811453671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_48
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df831cd8605f0ea0800000000000000
+      internalID: -5904412175160340521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plantbases_49
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd675ab3842f77830800000000000000
+      internalID: 4068987180404799197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      garden-planters-plantbases_0: -2770116923166137269
+      garden-planters-plantbases_1: -1023394933939066248
+      garden-planters-plantbases_10: -7767301159116717603
+      garden-planters-plantbases_11: 989688827724316352
+      garden-planters-plantbases_12: 2487207971364185062
+      garden-planters-plantbases_13: 5834387275167554934
+      garden-planters-plantbases_14: 4582858629742600459
+      garden-planters-plantbases_15: -4312851434558625882
+      garden-planters-plantbases_16: 303597210180832937
+      garden-planters-plantbases_17: -2271260073854299670
+      garden-planters-plantbases_18: 8074824765541744481
+      garden-planters-plantbases_19: 4659211655571846609
+      garden-planters-plantbases_2: -2524546257347286246
+      garden-planters-plantbases_20: 1927836744734312764
+      garden-planters-plantbases_21: 7104574525431677380
+      garden-planters-plantbases_22: -7861786286459881199
+      garden-planters-plantbases_23: -7365275847566069172
+      garden-planters-plantbases_24: 5191198169062704388
+      garden-planters-plantbases_25: -1117445405599629560
+      garden-planters-plantbases_26: -4916270349977201537
+      garden-planters-plantbases_27: 7688125875149774004
+      garden-planters-plantbases_28: -1338056961570613006
+      garden-planters-plantbases_29: -6294483417124864094
+      garden-planters-plantbases_3: 8166027523283317049
+      garden-planters-plantbases_30: -922383888743034362
+      garden-planters-plantbases_31: -659201223747174560
+      garden-planters-plantbases_32: -2231849141559798069
+      garden-planters-plantbases_33: -7041019439869759552
+      garden-planters-plantbases_34: -619905148683048726
+      garden-planters-plantbases_35: 7543302728911033748
+      garden-planters-plantbases_36: -738776810928016318
+      garden-planters-plantbases_37: -5514382482166591989
+      garden-planters-plantbases_38: -6904589795981391585
+      garden-planters-plantbases_39: 4983622572762893829
+      garden-planters-plantbases_4: -7438539534648302711
+      garden-planters-plantbases_40: 8290065502287709525
+      garden-planters-plantbases_41: -1510614566493231441
+      garden-planters-plantbases_42: 3099030653482072813
+      garden-planters-plantbases_43: -5942686403573049339
+      garden-planters-plantbases_44: 8771193182183444104
+      garden-planters-plantbases_45: 2832857300943259307
+      garden-planters-plantbases_46: 6402177970528133380
+      garden-planters-plantbases_47: 7414528269811453671
+      garden-planters-plantbases_48: -5904412175160340521
+      garden-planters-plantbases_49: 4068987180404799197
+      garden-planters-plantbases_5: -5367017026777288341
+      garden-planters-plantbases_6: -7840042519617880196
+      garden-planters-plantbases_7: 7798188256901836625
+      garden-planters-plantbases_8: 8629391586931575111
+      garden-planters-plantbases_9: -5188117718612519086
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

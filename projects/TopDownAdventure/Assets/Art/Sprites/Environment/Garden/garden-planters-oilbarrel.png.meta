@@ -1,0 +1,1937 @@
+fileFormatVersion: 2
+guid: 0b18e6164f8b08c429b6e93191af5699
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3372944727987842596
+    second: garden-planters-oilbarrel_0
+  - first:
+      213: -2625134116770436572
+    second: garden-planters-oilbarrel_1
+  - first:
+      213: 6867944118225151105
+    second: garden-planters-oilbarrel_2
+  - first:
+      213: -5558994245392592513
+    second: garden-planters-oilbarrel_3
+  - first:
+      213: -4401966925614950938
+    second: garden-planters-oilbarrel_4
+  - first:
+      213: -2051222690025990035
+    second: garden-planters-oilbarrel_5
+  - first:
+      213: -8308065286202485077
+    second: garden-planters-oilbarrel_6
+  - first:
+      213: 4495821407534300826
+    second: garden-planters-oilbarrel_7
+  - first:
+      213: 1650051395526422814
+    second: garden-planters-oilbarrel_8
+  - first:
+      213: -3594433869514410371
+    second: garden-planters-oilbarrel_9
+  - first:
+      213: 455685051254408260
+    second: garden-planters-oilbarrel_10
+  - first:
+      213: -3305062048573591225
+    second: garden-planters-oilbarrel_11
+  - first:
+      213: -5579325762390811396
+    second: garden-planters-oilbarrel_12
+  - first:
+      213: -6570559833260924392
+    second: garden-planters-oilbarrel_13
+  - first:
+      213: 7819271047684351438
+    second: garden-planters-oilbarrel_14
+  - first:
+      213: -8550774090951135451
+    second: garden-planters-oilbarrel_15
+  - first:
+      213: -7073189798344470062
+    second: garden-planters-oilbarrel_16
+  - first:
+      213: -5949196558141743972
+    second: garden-planters-oilbarrel_17
+  - first:
+      213: 4136603191287626300
+    second: garden-planters-oilbarrel_18
+  - first:
+      213: -2172007481037886966
+    second: garden-planters-oilbarrel_19
+  - first:
+      213: -7719542443718605003
+    second: garden-planters-oilbarrel_20
+  - first:
+      213: 7781875244329016669
+    second: garden-planters-oilbarrel_21
+  - first:
+      213: -8484933071021298264
+    second: garden-planters-oilbarrel_22
+  - first:
+      213: -3993348849362783968
+    second: garden-planters-oilbarrel_23
+  - first:
+      213: -3538510766634130364
+    second: garden-planters-oilbarrel_24
+  - first:
+      213: -5405972569058999163
+    second: garden-planters-oilbarrel_25
+  - first:
+      213: -8486949258792097056
+    second: garden-planters-oilbarrel_26
+  - first:
+      213: -5237215335029208730
+    second: garden-planters-oilbarrel_27
+  - first:
+      213: -7812010217000903384
+    second: garden-planters-oilbarrel_28
+  - first:
+      213: 8071749825121778954
+    second: garden-planters-oilbarrel_29
+  - first:
+      213: -6448689482822768324
+    second: garden-planters-oilbarrel_30
+  - first:
+      213: -4768531141847605283
+    second: garden-planters-oilbarrel_31
+  - first:
+      213: 7067483850375445102
+    second: garden-planters-oilbarrel_32
+  - first:
+      213: 3084440704635654636
+    second: garden-planters-oilbarrel_33
+  - first:
+      213: 3975667359775512946
+    second: garden-planters-oilbarrel_34
+  - first:
+      213: -7190482449860445280
+    second: garden-planters-oilbarrel_35
+  - first:
+      213: 5287223463141264762
+    second: garden-planters-oilbarrel_36
+  - first:
+      213: 4558922439921558236
+    second: garden-planters-oilbarrel_37
+  - first:
+      213: 7414106156643545407
+    second: garden-planters-oilbarrel_38
+  - first:
+      213: 8128386416648264610
+    second: garden-planters-oilbarrel_39
+  - first:
+      213: 6488637938184523
+    second: garden-planters-oilbarrel_40
+  - first:
+      213: -1552312079614418816
+    second: garden-planters-oilbarrel_41
+  - first:
+      213: 7748028845210749664
+    second: garden-planters-oilbarrel_42
+  - first:
+      213: 2880277639991431851
+    second: garden-planters-oilbarrel_43
+  - first:
+      213: 5514362167340895021
+    second: garden-planters-oilbarrel_44
+  - first:
+      213: -4880367874971199292
+    second: garden-planters-oilbarrel_45
+  - first:
+      213: -5520255849296695902
+    second: garden-planters-oilbarrel_46
+  - first:
+      213: 1471311387524834347
+    second: garden-planters-oilbarrel_47
+  - first:
+      213: -3917291379785287185
+    second: garden-planters-oilbarrel_48
+  - first:
+      213: -5426705012167973334
+    second: garden-planters-oilbarrel_49
+  - first:
+      213: -5798097770071993702
+    second: garden-planters-oilbarrel_50
+  - first:
+      213: 7759067393903741223
+    second: garden-planters-oilbarrel_51
+  - first:
+      213: 3385848017145454442
+    second: garden-planters-oilbarrel_52
+  - first:
+      213: -4379836092254319349
+    second: garden-planters-oilbarrel_53
+  - first:
+      213: -1671678071405069979
+    second: garden-planters-oilbarrel_54
+  - first:
+      213: -6030463421902155799
+    second: garden-planters-oilbarrel_55
+  - first:
+      213: -8358902756040455499
+    second: garden-planters-oilbarrel_56
+  - first:
+      213: 7064741477573110943
+    second: garden-planters-oilbarrel_57
+  - first:
+      213: 8951036466997022935
+    second: garden-planters-oilbarrel_58
+  - first:
+      213: -4845125527670187857
+    second: garden-planters-oilbarrel_59
+  - first:
+      213: 6954405157123115395
+    second: garden-planters-oilbarrel_60
+  - first:
+      213: 6432993915533945901
+    second: garden-planters-oilbarrel_61
+  - first:
+      213: -6527617708925676564
+    second: garden-planters-oilbarrel_62
+  - first:
+      213: -8820349768292931770
+    second: garden-planters-oilbarrel_63
+  - first:
+      213: -4587118933353351711
+    second: garden-planters-oilbarrel_64
+  - first:
+      213: 3572462986502300554
+    second: garden-planters-oilbarrel_65
+  - first:
+      213: 2572882582880563432
+    second: garden-planters-oilbarrel_66
+  - first:
+      213: -7119391236665644093
+    second: garden-planters-oilbarrel_67
+  - first:
+      213: 2838975431227850871
+    second: garden-planters-oilbarrel_68
+  - first:
+      213: -7984977517361351750
+    second: garden-planters-oilbarrel_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 320
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42eedb60c5b1fce20800000000000000
+      internalID: 3372944727987842596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 320
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42aa32aed66a19bd0800000000000000
+      internalID: -2625134116770436572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 320
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1842b00a9c6df4f50800000000000000
+      internalID: 6867944118225151105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 320
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f711fe6cf2c7ad2b0800000000000000
+      internalID: -5558994245392592513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 320
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5d3bd576219e2c0800000000000000
+      internalID: -4401966925614950938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 320
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6897cdc4d79883e0800000000000000
+      internalID: -2051222690025990035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_6
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 288
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba69525e3a2d3bc80800000000000000
+      internalID: -8308065286202485077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 320
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ebda110cd546e30800000000000000
+      internalID: 4495821407534300826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_8
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 320
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e117d7b700926e610800000000000000
+      internalID: 1650051395526422814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_9
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 320
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76f5f690710e1ec0800000000000000
+      internalID: -3594433869514410371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_10
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 320
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4448979c32be25600800000000000000
+      internalID: 455685051254408260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_11
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 320
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741752ae39f0222d0800000000000000
+      internalID: -3305062048573591225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_12
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 320
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc928697c04292b0800000000000000
+      internalID: -5579325762390811396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 256
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812680bd4aea0d4a0800000000000000
+      internalID: -6570559833260924392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 288
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5e8bfe691a38c60800000000000000
+      internalID: 7819271047684351438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 256
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f6e3aa44c855980800000000000000
+      internalID: -8550774090951135451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 256
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1d2c09a5bf6dd90800000000000000
+      internalID: -7073189798344470062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_17
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 256
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c1cf42045307da0800000000000000
+      internalID: -5949196558141743972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_18
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 256
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a32719faa286930800000000000000
+      internalID: 4136603191287626300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_19
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 256
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0aee3b24ba7bd1e0800000000000000
+      internalID: -2172007481037886966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_20
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 256
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5370a9d1c0daed490800000000000000
+      internalID: -7719542443718605003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 256
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d13a8fd46cefb60800000000000000
+      internalID: 7781875244329016669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_22
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 256
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adafc6b3567f3a80800000000000000
+      internalID: -8484933071021298264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 256
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02134811166c498c0800000000000000
+      internalID: -3993348849362783968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 256
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444a0e0a43fa4eec0800000000000000
+      internalID: -3538510766634130364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 192
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5848bbb27902af4b0800000000000000
+      internalID: -5405972569058999163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 192
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eaaeea6d9c483a80800000000000000
+      internalID: -8486949258792097056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 192
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6690b57966ca157b0800000000000000
+      internalID: -5237215335029208730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_28
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 192
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d50f1f81a269390800000000000000
+      internalID: -7812010217000903384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_29
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 192
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d743233bd940070800000000000000
+      internalID: 8071749825121778954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_30
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 192
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c392d8df417a186a0800000000000000
+      internalID: -6448689482822768324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_31
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 192
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf19c5f036c2ddb0800000000000000
+      internalID: -4768531141847605283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_32
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 192
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a3075ed1fb41260800000000000000
+      internalID: 7067483850375445102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_33
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 192
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce150929a722eca20800000000000000
+      internalID: 3084440704635654636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_34
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 192
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279d88456686c2730800000000000000
+      internalID: 3975667359775512946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_35
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 192
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab33640f46463c90800000000000000
+      internalID: -7190482449860445280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_36
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 192
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d45a01abdff5940800000000000000
+      internalID: 5287223463141264762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_37
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 128
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2e41e0ecb844f30800000000000000
+      internalID: 4558922439921558236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_38
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 128
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3176c1944234e660800000000000000
+      internalID: 7414106156643545407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_39
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 128
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab1e614164ddc070800000000000000
+      internalID: 8128386416648264610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_40
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 128
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41b16fb16d071000800000000000000
+      internalID: 6488637938184523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_41
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 128
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080e80a5364157ae0800000000000000
+      internalID: -1552312079614418816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_42
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 128
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea44441f27868b60800000000000000
+      internalID: 7748028845210749664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_43
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 128
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba29032d04dc8f720800000000000000
+      internalID: 2880277639991431851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_44
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 128
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b0533cc23f68c40800000000000000
+      internalID: 5514362167340895021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_45
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 128
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c81d176643754cb0800000000000000
+      internalID: -4880367874971199292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_46
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 128
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ade5697d8c1463b0800000000000000
+      internalID: -5520255849296695902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_47
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 128
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24a76f59e52b6410800000000000000
+      internalID: 1471311387524834347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 64
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9b23aae3cf2a9c0800000000000000
+      internalID: -3917291379785287185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_49
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 64
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2665e81b8870b4b0800000000000000
+      internalID: -5426705012167973334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 64
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92dfd93cc4098fa0800000000000000
+      internalID: -5798097770071993702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 64
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729c2f97faebdab60800000000000000
+      internalID: 7759067393903741223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_52
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 64
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f5a6525d2fcfe20800000000000000
+      internalID: 3385848017145454442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_53
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 64
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d0fba8742b733c0800000000000000
+      internalID: -4379836092254319349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_54
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 64
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5693717a6a10dc8e0800000000000000
+      internalID: -1671678071405069979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_55
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 64
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef0982f77d7f4ca0800000000000000
+      internalID: -6030463421902155799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_56
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 64
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bacc221b363ffb80800000000000000
+      internalID: -8358902756040455499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_57
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 64
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ca6b871f00b0260800000000000000
+      internalID: 7064741477573110943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_58
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 64
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0dceafd38783c70800000000000000
+      internalID: 8951036466997022935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_59
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa89a0fc008a2ccb0800000000000000
+      internalID: -4845125527670187857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_60
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389c776f4a2038060800000000000000
+      internalID: 6954405157123115395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_61
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c66a9f1e5964950800000000000000
+      internalID: 6432993915533945901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce39fed474e3965a0800000000000000
+      internalID: -6527617708925676564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_63
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64763323e92d79580800000000000000
+      internalID: -8820349768292931770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_64
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5310b32a74750c0800000000000000
+      internalID: -4587118933353351711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_65
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8363b39820f39130800000000000000
+      internalID: 3572462986502300554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_66
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0b261d317b4b320800000000000000
+      internalID: 2572882582880563432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_67
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbe381f367d23d90800000000000000
+      internalID: -7119391236665644093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_68
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770c568fc11166720800000000000000
+      internalID: 2838975431227850871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-oilbarrel_69
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab332321149af2190800000000000000
+      internalID: -7984977517361351750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      garden-planters-oilbarrel_0: 3372944727987842596
+      garden-planters-oilbarrel_1: -2625134116770436572
+      garden-planters-oilbarrel_10: 455685051254408260
+      garden-planters-oilbarrel_11: -3305062048573591225
+      garden-planters-oilbarrel_12: -5579325762390811396
+      garden-planters-oilbarrel_13: -6570559833260924392
+      garden-planters-oilbarrel_14: 7819271047684351438
+      garden-planters-oilbarrel_15: -8550774090951135451
+      garden-planters-oilbarrel_16: -7073189798344470062
+      garden-planters-oilbarrel_17: -5949196558141743972
+      garden-planters-oilbarrel_18: 4136603191287626300
+      garden-planters-oilbarrel_19: -2172007481037886966
+      garden-planters-oilbarrel_2: 6867944118225151105
+      garden-planters-oilbarrel_20: -7719542443718605003
+      garden-planters-oilbarrel_21: 7781875244329016669
+      garden-planters-oilbarrel_22: -8484933071021298264
+      garden-planters-oilbarrel_23: -3993348849362783968
+      garden-planters-oilbarrel_24: -3538510766634130364
+      garden-planters-oilbarrel_25: -5405972569058999163
+      garden-planters-oilbarrel_26: -8486949258792097056
+      garden-planters-oilbarrel_27: -5237215335029208730
+      garden-planters-oilbarrel_28: -7812010217000903384
+      garden-planters-oilbarrel_29: 8071749825121778954
+      garden-planters-oilbarrel_3: -5558994245392592513
+      garden-planters-oilbarrel_30: -6448689482822768324
+      garden-planters-oilbarrel_31: -4768531141847605283
+      garden-planters-oilbarrel_32: 7067483850375445102
+      garden-planters-oilbarrel_33: 3084440704635654636
+      garden-planters-oilbarrel_34: 3975667359775512946
+      garden-planters-oilbarrel_35: -7190482449860445280
+      garden-planters-oilbarrel_36: 5287223463141264762
+      garden-planters-oilbarrel_37: 4558922439921558236
+      garden-planters-oilbarrel_38: 7414106156643545407
+      garden-planters-oilbarrel_39: 8128386416648264610
+      garden-planters-oilbarrel_4: -4401966925614950938
+      garden-planters-oilbarrel_40: 6488637938184523
+      garden-planters-oilbarrel_41: -1552312079614418816
+      garden-planters-oilbarrel_42: 7748028845210749664
+      garden-planters-oilbarrel_43: 2880277639991431851
+      garden-planters-oilbarrel_44: 5514362167340895021
+      garden-planters-oilbarrel_45: -4880367874971199292
+      garden-planters-oilbarrel_46: -5520255849296695902
+      garden-planters-oilbarrel_47: 1471311387524834347
+      garden-planters-oilbarrel_48: -3917291379785287185
+      garden-planters-oilbarrel_49: -5426705012167973334
+      garden-planters-oilbarrel_5: -2051222690025990035
+      garden-planters-oilbarrel_50: -5798097770071993702
+      garden-planters-oilbarrel_51: 7759067393903741223
+      garden-planters-oilbarrel_52: 3385848017145454442
+      garden-planters-oilbarrel_53: -4379836092254319349
+      garden-planters-oilbarrel_54: -1671678071405069979
+      garden-planters-oilbarrel_55: -6030463421902155799
+      garden-planters-oilbarrel_56: -8358902756040455499
+      garden-planters-oilbarrel_57: 7064741477573110943
+      garden-planters-oilbarrel_58: 8951036466997022935
+      garden-planters-oilbarrel_59: -4845125527670187857
+      garden-planters-oilbarrel_6: -8308065286202485077
+      garden-planters-oilbarrel_60: 6954405157123115395
+      garden-planters-oilbarrel_61: 6432993915533945901
+      garden-planters-oilbarrel_62: -6527617708925676564
+      garden-planters-oilbarrel_63: -8820349768292931770
+      garden-planters-oilbarrel_64: -4587118933353351711
+      garden-planters-oilbarrel_65: 3572462986502300554
+      garden-planters-oilbarrel_66: 2572882582880563432
+      garden-planters-oilbarrel_67: -7119391236665644093
+      garden-planters-oilbarrel_68: 2838975431227850871
+      garden-planters-oilbarrel_69: -7984977517361351750
+      garden-planters-oilbarrel_7: 4495821407534300826
+      garden-planters-oilbarrel_8: 1650051395526422814
+      garden-planters-oilbarrel_9: -3594433869514410371
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2145 @@
+fileFormatVersion: 2
+guid: 5bebbde1c671f964b82c62418f44a3f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3448884131684049922
+    second: garden-planters-plasticbucket_0
+  - first:
+      213: -3977837471295799451
+    second: garden-planters-plasticbucket_1
+  - first:
+      213: -2762333684461061443
+    second: garden-planters-plasticbucket_2
+  - first:
+      213: 7245889212903986564
+    second: garden-planters-plasticbucket_3
+  - first:
+      213: 8655187030187640805
+    second: garden-planters-plasticbucket_4
+  - first:
+      213: 8454069667002742520
+    second: garden-planters-plasticbucket_5
+  - first:
+      213: 4558392043227770525
+    second: garden-planters-plasticbucket_6
+  - first:
+      213: -7469023717429088831
+    second: garden-planters-plasticbucket_7
+  - first:
+      213: -8833290030575596730
+    second: garden-planters-plasticbucket_8
+  - first:
+      213: -3754065017871137248
+    second: garden-planters-plasticbucket_9
+  - first:
+      213: -464895060460978067
+    second: garden-planters-plasticbucket_10
+  - first:
+      213: -4327647387357788177
+    second: garden-planters-plasticbucket_11
+  - first:
+      213: 6814435852192201988
+    second: garden-planters-plasticbucket_12
+  - first:
+      213: 3566874463641301734
+    second: garden-planters-plasticbucket_13
+  - first:
+      213: -4148526780502510582
+    second: garden-planters-plasticbucket_14
+  - first:
+      213: -4462360805794784044
+    second: garden-planters-plasticbucket_15
+  - first:
+      213: -2650065619991179834
+    second: garden-planters-plasticbucket_16
+  - first:
+      213: -1187539754916667001
+    second: garden-planters-plasticbucket_17
+  - first:
+      213: 8542590412507791935
+    second: garden-planters-plasticbucket_18
+  - first:
+      213: 7452911242899562581
+    second: garden-planters-plasticbucket_19
+  - first:
+      213: -5087564427626935988
+    second: garden-planters-plasticbucket_20
+  - first:
+      213: -3458037840087538383
+    second: garden-planters-plasticbucket_21
+  - first:
+      213: -7645303496150784292
+    second: garden-planters-plasticbucket_22
+  - first:
+      213: 494893900604985789
+    second: garden-planters-plasticbucket_23
+  - first:
+      213: 6242345240267999544
+    second: garden-planters-plasticbucket_24
+  - first:
+      213: 6482320282140619963
+    second: garden-planters-plasticbucket_25
+  - first:
+      213: -505929111803768605
+    second: garden-planters-plasticbucket_26
+  - first:
+      213: -487686044790863110
+    second: garden-planters-plasticbucket_27
+  - first:
+      213: 3367757552946766322
+    second: garden-planters-plasticbucket_28
+  - first:
+      213: 1670232170363592295
+    second: garden-planters-plasticbucket_29
+  - first:
+      213: -9190517207483170770
+    second: garden-planters-plasticbucket_30
+  - first:
+      213: 3349899158945436064
+    second: garden-planters-plasticbucket_31
+  - first:
+      213: 240328868827495288
+    second: garden-planters-plasticbucket_32
+  - first:
+      213: 2541739222292379566
+    second: garden-planters-plasticbucket_33
+  - first:
+      213: -9105230586203047159
+    second: garden-planters-plasticbucket_34
+  - first:
+      213: 5129221767829144920
+    second: garden-planters-plasticbucket_35
+  - first:
+      213: 1170631275546047627
+    second: garden-planters-plasticbucket_36
+  - first:
+      213: 2295594190458857075
+    second: garden-planters-plasticbucket_37
+  - first:
+      213: 1750408584983740692
+    second: garden-planters-plasticbucket_38
+  - first:
+      213: 3412251276323054680
+    second: garden-planters-plasticbucket_39
+  - first:
+      213: 6199553552180284139
+    second: garden-planters-plasticbucket_40
+  - first:
+      213: -810396320772097337
+    second: garden-planters-plasticbucket_41
+  - first:
+      213: -7424468480267799763
+    second: garden-planters-plasticbucket_42
+  - first:
+      213: -1676535597488850230
+    second: garden-planters-plasticbucket_43
+  - first:
+      213: -6944313895415928441
+    second: garden-planters-plasticbucket_44
+  - first:
+      213: 2096824019920631371
+    second: garden-planters-plasticbucket_45
+  - first:
+      213: -9179768628652487103
+    second: garden-planters-plasticbucket_46
+  - first:
+      213: 8206664550317388279
+    second: garden-planters-plasticbucket_47
+  - first:
+      213: 2370263502567385513
+    second: garden-planters-plasticbucket_48
+  - first:
+      213: 7861850033593056147
+    second: garden-planters-plasticbucket_49
+  - first:
+      213: 878343315119509915
+    second: garden-planters-plasticbucket_50
+  - first:
+      213: 4372778807800856302
+    second: garden-planters-plasticbucket_51
+  - first:
+      213: 3906450065631469123
+    second: garden-planters-plasticbucket_52
+  - first:
+      213: -8740954049070992653
+    second: garden-planters-plasticbucket_53
+  - first:
+      213: -2224699587891816802
+    second: garden-planters-plasticbucket_54
+  - first:
+      213: 9219078214459645345
+    second: garden-planters-plasticbucket_55
+  - first:
+      213: -2530385076631247237
+    second: garden-planters-plasticbucket_56
+  - first:
+      213: 3232302541509891254
+    second: garden-planters-plasticbucket_57
+  - first:
+      213: 7603399459677075806
+    second: garden-planters-plasticbucket_58
+  - first:
+      213: 124807265419993504
+    second: garden-planters-plasticbucket_59
+  - first:
+      213: -1196006551325270775
+    second: garden-planters-plasticbucket_60
+  - first:
+      213: 9202388244127001807
+    second: garden-planters-plasticbucket_61
+  - first:
+      213: 8342556034851675196
+    second: garden-planters-plasticbucket_62
+  - first:
+      213: 6085168351843108295
+    second: garden-planters-plasticbucket_63
+  - first:
+      213: 3111866007223874223
+    second: garden-planters-plasticbucket_64
+  - first:
+      213: 5939348022263346156
+    second: garden-planters-plasticbucket_65
+  - first:
+      213: 1897164907518871277
+    second: garden-planters-plasticbucket_66
+  - first:
+      213: -4844715157801298762
+    second: garden-planters-plasticbucket_67
+  - first:
+      213: -609815915858075915
+    second: garden-planters-plasticbucket_68
+  - first:
+      213: 5411753244829975573
+    second: garden-planters-plasticbucket_69
+  - first:
+      213: -7580777990729300611
+    second: garden-planters-plasticbucket_70
+  - first:
+      213: 6660662190448700665
+    second: garden-planters-plasticbucket_71
+  - first:
+      213: -351487327124562759
+    second: garden-planters-plasticbucket_72
+  - first:
+      213: -4181675908381415171
+    second: garden-planters-plasticbucket_73
+  - first:
+      213: -4053552775632348436
+    second: garden-planters-plasticbucket_74
+  - first:
+      213: 5674436395698573044
+    second: garden-planters-plasticbucket_75
+  - first:
+      213: 8179893748674245226
+    second: garden-planters-plasticbucket_76
+  - first:
+      213: -3892482258459183875
+    second: garden-planters-plasticbucket_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204628448d5ecdf20800000000000000
+      internalID: 3448884131684049922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 352
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ffc2535e1ebc8c0800000000000000
+      internalID: -3977837471295799451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 352
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba3a9246283aa9d0800000000000000
+      internalID: -2762333684461061443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 352
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4851af849d19e8460800000000000000
+      internalID: 7245889212903986564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 352
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e707ee2fb66d1870800000000000000
+      internalID: 8655187030187640805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 352
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f67a101293e25570800000000000000
+      internalID: 8454069667002742520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 352
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9eee837969a24f30800000000000000
+      internalID: 4558392043227770525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 352
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdeba76082b85890800000000000000
+      internalID: -7469023717429088831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 352
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bca899489d96580800000000000000
+      internalID: -8833290030575596730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 352
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026021291c1e6ebc0800000000000000
+      internalID: -3754065017871137248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 352
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60c367d76c5c89f0800000000000000
+      internalID: -464895060460978067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 320
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7446b41ab11f3c0800000000000000
+      internalID: -4327647387357788177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 320
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d3a9a9d4db19e50800000000000000
+      internalID: 6814435852192201988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 320
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e270c33d65108130800000000000000
+      internalID: 3566874463641301734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 320
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04f3fa7fd87d66c0800000000000000
+      internalID: -4148526780502510582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 320
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcd9fe5d728212c0800000000000000
+      internalID: -4462360805794784044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_16
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 320
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd43f8fb53193bd0800000000000000
+      internalID: -2650065619991179834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 320
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781a98f72e2058fe0800000000000000
+      internalID: -1187539754916667001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_18
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 320
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f324f2738b06d8670800000000000000
+      internalID: 8542590412507791935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_19
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 320
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5502b87c94f0e6760800000000000000
+      internalID: 7452911242899562581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_20
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 320
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49026fab175569b0800000000000000
+      internalID: -5087564427626935988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_21
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 320
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13529b9e7e49200d0800000000000000
+      internalID: -3458037840087538383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd661ef0afc66e590800000000000000
+      internalID: -7645303496150784292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_23
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 256
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1511b61673ed600800000000000000
+      internalID: 494893900604985789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_24
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 256
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83946833ce341a650800000000000000
+      internalID: 6242345240267999544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 256
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb43d49a3f3d5f950800000000000000
+      internalID: 6482320282140619963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 256
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0586147249af8f0800000000000000
+      internalID: -505929111803768605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 256
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa435a40246b39f0800000000000000
+      internalID: -487686044790863110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_28
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 256
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1e709b6adacbe20800000000000000
+      internalID: 3367757552946766322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_29
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 256
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e93f64f4bdd2710800000000000000
+      internalID: 1670232170363592295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_30
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 256
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20c9d11b49b47080800000000000000
+      internalID: -9190517207483170770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_31
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 256
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1925a598b3d7e20800000000000000
+      internalID: 3349899158945436064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_32
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 256
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bfbb735d1d55300800000000000000
+      internalID: 240328868827495288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea73a602b52164320800000000000000
+      internalID: 2541739222292379566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_34
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 192
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b785ff509b3a180800000000000000
+      internalID: -9105230586203047159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_35
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 192
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85548a5a508ae2740800000000000000
+      internalID: 5129221767829144920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_36
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 192
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8472ed51faee3010800000000000000
+      internalID: 1170631275546047627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_37
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 192
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37620cee0c69bdf10800000000000000
+      internalID: 2295594190458857075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 192
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41100cf7553ba4810800000000000000
+      internalID: 1750408584983740692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_39
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 192
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854eb99f470ca5f20800000000000000
+      internalID: 3412251276323054680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_40
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 192
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea87bbeb1d390650800000000000000
+      internalID: 6199553552180284139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_41
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 192
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca781507d4e0c4f0800000000000000
+      internalID: -810396320772097337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_42
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 192
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23bd83f04df6f890800000000000000
+      internalID: -7424468480267799763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_43
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 192
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca316ab1cfbbb8e0800000000000000
+      internalID: -1676535597488850230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_44
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 192
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789aceefd47d0af90800000000000000
+      internalID: -6944313895415928441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4630ef265a691d10800000000000000
+      internalID: 2096824019920631371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_46
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 128
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ec4e89119ea9080800000000000000
+      internalID: -9179768628652487103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_47
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 128
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f175708dede3e170800000000000000
+      internalID: 8206664550317388279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_48
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 128
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a92a9ee81ed4e020800000000000000
+      internalID: 2370263502567385513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 128
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bf4b1a3f6ea1d60800000000000000
+      internalID: 7861850033593056147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_50
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 128
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9199886790803c00800000000000000
+      internalID: 878343315119509915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_51
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 128
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee7350682b3fac30800000000000000
+      internalID: 4372778807800856302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_52
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 128
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ed3ce23af763630800000000000000
+      internalID: 3906450065631469123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_53
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f27c1b9a94e1b680800000000000000
+      internalID: -8740954049070992653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_54
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9610c303874021e0800000000000000
+      internalID: -2224699587891816802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_55
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 128
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1add8619aceb0ff70800000000000000
+      internalID: 9219078214459645345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76e17aed2442ecd0800000000000000
+      internalID: -2530385076631247237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_57
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 64
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b41a4939027bdc20800000000000000
+      internalID: 3232302541509891254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_58
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 64
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59f2772683b48960800000000000000
+      internalID: 7603399459677075806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_59
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 64
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a12fb0fb876bb100800000000000000
+      internalID: 124807265419993504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_60
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 64
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d9737d06ee66fe0800000000000000
+      internalID: -1196006551325270775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_61
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 64
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccab680a5375bf70800000000000000
+      internalID: 9202388244127001807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_62
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 64
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c10205386b6c370800000000000000
+      internalID: 8342556034851675196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_63
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 64
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5ce0a106cd27450800000000000000
+      internalID: 6085168351843108295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_64
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 64
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2313d65a19f2b20800000000000000
+      internalID: 3111866007223874223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_65
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 64
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3fc68ee8dcc6250800000000000000
+      internalID: 5939348022263346156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_66
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 64
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6cff88e65145a10800000000000000
+      internalID: 1897164907518871277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_67
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b49d4d7b3d14ccb0800000000000000
+      internalID: -4844715157801298762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_68
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe56ecc7af7987f0800000000000000
+      internalID: -609815915858075915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_69
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514882a47e86a1b40800000000000000
+      internalID: 5411753244829975573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_70
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d750b75059aabc690800000000000000
+      internalID: -7580777990729300611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_71
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fce196f8fc6f6c50800000000000000
+      internalID: 6660662190448700665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_72
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc50b363244f1bf0800000000000000
+      internalID: -351487327124562759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_73
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8ed13bae3b7f5c0800000000000000
+      internalID: -4181675908381415171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_74
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea922a2a33eeb7c0800000000000000
+      internalID: -4053552775632348436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_75
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe492266d5afbe40800000000000000
+      internalID: 5674436395698573044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_76
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62ba268602d48170800000000000000
+      internalID: 8179893748674245226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-plasticbucket_77
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4b70a52002bf9c0800000000000000
+      internalID: -3892482258459183875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      garden-planters-plasticbucket_0: 3448884131684049922
+      garden-planters-plasticbucket_1: -3977837471295799451
+      garden-planters-plasticbucket_10: -464895060460978067
+      garden-planters-plasticbucket_11: -4327647387357788177
+      garden-planters-plasticbucket_12: 6814435852192201988
+      garden-planters-plasticbucket_13: 3566874463641301734
+      garden-planters-plasticbucket_14: -4148526780502510582
+      garden-planters-plasticbucket_15: -4462360805794784044
+      garden-planters-plasticbucket_16: -2650065619991179834
+      garden-planters-plasticbucket_17: -1187539754916667001
+      garden-planters-plasticbucket_18: 8542590412507791935
+      garden-planters-plasticbucket_19: 7452911242899562581
+      garden-planters-plasticbucket_2: -2762333684461061443
+      garden-planters-plasticbucket_20: -5087564427626935988
+      garden-planters-plasticbucket_21: -3458037840087538383
+      garden-planters-plasticbucket_22: -7645303496150784292
+      garden-planters-plasticbucket_23: 494893900604985789
+      garden-planters-plasticbucket_24: 6242345240267999544
+      garden-planters-plasticbucket_25: 6482320282140619963
+      garden-planters-plasticbucket_26: -505929111803768605
+      garden-planters-plasticbucket_27: -487686044790863110
+      garden-planters-plasticbucket_28: 3367757552946766322
+      garden-planters-plasticbucket_29: 1670232170363592295
+      garden-planters-plasticbucket_3: 7245889212903986564
+      garden-planters-plasticbucket_30: -9190517207483170770
+      garden-planters-plasticbucket_31: 3349899158945436064
+      garden-planters-plasticbucket_32: 240328868827495288
+      garden-planters-plasticbucket_33: 2541739222292379566
+      garden-planters-plasticbucket_34: -9105230586203047159
+      garden-planters-plasticbucket_35: 5129221767829144920
+      garden-planters-plasticbucket_36: 1170631275546047627
+      garden-planters-plasticbucket_37: 2295594190458857075
+      garden-planters-plasticbucket_38: 1750408584983740692
+      garden-planters-plasticbucket_39: 3412251276323054680
+      garden-planters-plasticbucket_4: 8655187030187640805
+      garden-planters-plasticbucket_40: 6199553552180284139
+      garden-planters-plasticbucket_41: -810396320772097337
+      garden-planters-plasticbucket_42: -7424468480267799763
+      garden-planters-plasticbucket_43: -1676535597488850230
+      garden-planters-plasticbucket_44: -6944313895415928441
+      garden-planters-plasticbucket_45: 2096824019920631371
+      garden-planters-plasticbucket_46: -9179768628652487103
+      garden-planters-plasticbucket_47: 8206664550317388279
+      garden-planters-plasticbucket_48: 2370263502567385513
+      garden-planters-plasticbucket_49: 7861850033593056147
+      garden-planters-plasticbucket_5: 8454069667002742520
+      garden-planters-plasticbucket_50: 878343315119509915
+      garden-planters-plasticbucket_51: 4372778807800856302
+      garden-planters-plasticbucket_52: 3906450065631469123
+      garden-planters-plasticbucket_53: -8740954049070992653
+      garden-planters-plasticbucket_54: -2224699587891816802
+      garden-planters-plasticbucket_55: 9219078214459645345
+      garden-planters-plasticbucket_56: -2530385076631247237
+      garden-planters-plasticbucket_57: 3232302541509891254
+      garden-planters-plasticbucket_58: 7603399459677075806
+      garden-planters-plasticbucket_59: 124807265419993504
+      garden-planters-plasticbucket_6: 4558392043227770525
+      garden-planters-plasticbucket_60: -1196006551325270775
+      garden-planters-plasticbucket_61: 9202388244127001807
+      garden-planters-plasticbucket_62: 8342556034851675196
+      garden-planters-plasticbucket_63: 6085168351843108295
+      garden-planters-plasticbucket_64: 3111866007223874223
+      garden-planters-plasticbucket_65: 5939348022263346156
+      garden-planters-plasticbucket_66: 1897164907518871277
+      garden-planters-plasticbucket_67: -4844715157801298762
+      garden-planters-plasticbucket_68: -609815915858075915
+      garden-planters-plasticbucket_69: 5411753244829975573
+      garden-planters-plasticbucket_7: -7469023717429088831
+      garden-planters-plasticbucket_70: -7580777990729300611
+      garden-planters-plasticbucket_71: 6660662190448700665
+      garden-planters-plasticbucket_72: -351487327124562759
+      garden-planters-plasticbucket_73: -4181675908381415171
+      garden-planters-plasticbucket_74: -4053552775632348436
+      garden-planters-plasticbucket_75: 5674436395698573044
+      garden-planters-plasticbucket_76: 8179893748674245226
+      garden-planters-plasticbucket_77: -3892482258459183875
+      garden-planters-plasticbucket_8: -8833290030575596730
+      garden-planters-plasticbucket_9: -3754065017871137248
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

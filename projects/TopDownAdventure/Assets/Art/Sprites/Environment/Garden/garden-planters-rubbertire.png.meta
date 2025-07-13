@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: da167249a34fce54c9afeca6514f00ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1783907207779631514
+    second: garden-planters-rubbertire_0
+  - first:
+      213: -4337605860762453410
+    second: garden-planters-rubbertire_1
+  - first:
+      213: 4345034612624189903
+    second: garden-planters-rubbertire_2
+  - first:
+      213: 572066879525400148
+    second: garden-planters-rubbertire_3
+  - first:
+      213: -1788568182886451427
+    second: garden-planters-rubbertire_4
+  - first:
+      213: 6983642346636186739
+    second: garden-planters-rubbertire_5
+  - first:
+      213: -1362941341879239402
+    second: garden-planters-rubbertire_6
+  - first:
+      213: -5185391215230744542
+    second: garden-planters-rubbertire_7
+  - first:
+      213: 3342492488901445700
+    second: garden-planters-rubbertire_8
+  - first:
+      213: 20675163024179657
+    second: garden-planters-rubbertire_9
+  - first:
+      213: -6200925317949838781
+    second: garden-planters-rubbertire_10
+  - first:
+      213: -7333276920023130641
+    second: garden-planters-rubbertire_11
+  - first:
+      213: -6741350129904289883
+    second: garden-planters-rubbertire_12
+  - first:
+      213: 7973912205918092211
+    second: garden-planters-rubbertire_13
+  - first:
+      213: 3332568873229599473
+    second: garden-planters-rubbertire_14
+  - first:
+      213: 5692423254083234920
+    second: garden-planters-rubbertire_15
+  - first:
+      213: 1195644199892270875
+    second: garden-planters-rubbertire_16
+  - first:
+      213: 4710551551231197364
+    second: garden-planters-rubbertire_17
+  - first:
+      213: 7135344248387992704
+    second: garden-planters-rubbertire_18
+  - first:
+      213: -3484277664813725816
+    second: garden-planters-rubbertire_19
+  - first:
+      213: -3572736407985628500
+    second: garden-planters-rubbertire_20
+  - first:
+      213: 8081325538800514753
+    second: garden-planters-rubbertire_21
+  - first:
+      213: 2907647136860191257
+    second: garden-planters-rubbertire_22
+  - first:
+      213: 5403259312314941277
+    second: garden-planters-rubbertire_23
+  - first:
+      213: 5215257912572250510
+    second: garden-planters-rubbertire_24
+  - first:
+      213: -8507437630494965184
+    second: garden-planters-rubbertire_25
+  - first:
+      213: 5276996259240595403
+    second: garden-planters-rubbertire_26
+  - first:
+      213: -597532758024646239
+    second: garden-planters-rubbertire_27
+  - first:
+      213: -9169606232033695850
+    second: garden-planters-rubbertire_28
+  - first:
+      213: -2924013350901192653
+    second: garden-planters-rubbertire_29
+  - first:
+      213: -1682694584823163830
+    second: garden-planters-rubbertire_30
+  - first:
+      213: 3693491770433678221
+    second: garden-planters-rubbertire_31
+  - first:
+      213: 922995916267826145
+    second: garden-planters-rubbertire_32
+  - first:
+      213: 5469146975685362610
+    second: garden-planters-rubbertire_33
+  - first:
+      213: 6490138268408563522
+    second: garden-planters-rubbertire_34
+  - first:
+      213: 3709152906612294845
+    second: garden-planters-rubbertire_35
+  - first:
+      213: 385847849105848519
+    second: garden-planters-rubbertire_36
+  - first:
+      213: -3713072110022521888
+    second: garden-planters-rubbertire_37
+  - first:
+      213: -2258878548752132465
+    second: garden-planters-rubbertire_38
+  - first:
+      213: -4733151337104999784
+    second: garden-planters-rubbertire_39
+  - first:
+      213: 3765091320247630382
+    second: garden-planters-rubbertire_40
+  - first:
+      213: 90945313402155739
+    second: garden-planters-rubbertire_41
+  - first:
+      213: -3683937563155672419
+    second: garden-planters-rubbertire_42
+  - first:
+      213: -8626366594321728082
+    second: garden-planters-rubbertire_43
+  - first:
+      213: -521518778806459182
+    second: garden-planters-rubbertire_44
+  - first:
+      213: -5209448821709707504
+    second: garden-planters-rubbertire_45
+  - first:
+      213: 2347810101267025713
+    second: garden-planters-rubbertire_46
+  - first:
+      213: -2529549015382449055
+    second: garden-planters-rubbertire_47
+  - first:
+      213: -443248522530856418
+    second: garden-planters-rubbertire_48
+  - first:
+      213: 6278460622068159157
+    second: garden-planters-rubbertire_49
+  - first:
+      213: 7584420736111249754
+    second: garden-planters-rubbertire_50
+  - first:
+      213: -7027353596028291072
+    second: garden-planters-rubbertire_51
+  - first:
+      213: -4251689145904904524
+    second: garden-planters-rubbertire_52
+  - first:
+      213: 30851339392174020
+    second: garden-planters-rubbertire_53
+  - first:
+      213: 5927240539428412686
+    second: garden-planters-rubbertire_54
+  - first:
+      213: -7297782350501636614
+    second: garden-planters-rubbertire_55
+  - first:
+      213: 4682183576817011349
+    second: garden-planters-rubbertire_56
+  - first:
+      213: 659224464135866809
+    second: garden-planters-rubbertire_57
+  - first:
+      213: 8613524850113165067
+    second: garden-planters-rubbertire_58
+  - first:
+      213: 4375676178107165989
+    second: garden-planters-rubbertire_59
+  - first:
+      213: -5937465470511383275
+    second: garden-planters-rubbertire_60
+  - first:
+      213: -6955871321129080845
+    second: garden-planters-rubbertire_61
+  - first:
+      213: -3223142386967549920
+    second: garden-planters-rubbertire_62
+  - first:
+      213: -903930529821659836
+    second: garden-planters-rubbertire_63
+  - first:
+      213: -66013301911417298
+    second: garden-planters-rubbertire_64
+  - first:
+      213: 4348568166203044093
+    second: garden-planters-rubbertire_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 320
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e390898d94e37e0800000000000000
+      internalID: -1783907207779631514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 320
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5af995837abdc3c0800000000000000
+      internalID: -4337605860762453410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 320
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9ed3e85f9ac4c30800000000000000
+      internalID: 4345034612624189903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 320
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ea0e5cbc360f700800000000000000
+      internalID: 572066879525400148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 320
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17bc72c6babd27e0800000000000000
+      internalID: -1788568182886451427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 320
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37410ad96b1eae060800000000000000
+      internalID: 6983642346636186739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 320
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61df79b121cd51de0800000000000000
+      internalID: -1362941341879239402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 311
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2288db2c92ac908b0800000000000000
+      internalID: -5185391215230744542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 311
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448c169953be26e20800000000000000
+      internalID: 3342492488901445700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 311
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1cab383f3794000800000000000000
+      internalID: 20675163024179657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 256
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aafd8f643e1f9a0800000000000000
+      internalID: -6200925317949838781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 256
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed537e9e77fa3a90800000000000000
+      internalID: -7333276920023130641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 256
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7758826c9e172a0800000000000000
+      internalID: -6741350129904289883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 256
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb36e757e609ae60800000000000000
+      internalID: 7973912205918092211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 256
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2cf56cbb9af3e20800000000000000
+      internalID: 3332568873229599473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_15
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 256
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cedc23acc8ffe40800000000000000
+      internalID: 5692423254083234920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 256
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fb554a018c79010800000000000000
+      internalID: 1195644199892270875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_17
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 256
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b00d43adad3f5140800000000000000
+      internalID: 4710551551231197364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_18
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 256
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cfa4b0ac5d50360800000000000000
+      internalID: 7135344248387992704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_19
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 256
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88743f1aceb55afc0800000000000000
+      internalID: -3484277664813725816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_20
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 256
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa59e58a271b6ec0800000000000000
+      internalID: -3572736407985628500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 192
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c63f76c2c2a62070800000000000000
+      internalID: 8081325538800514753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 192
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91abbb46aa90a5820800000000000000
+      internalID: 2907647136860191257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 192
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f7ad387bb3cfa40800000000000000
+      internalID: 5403259312314941277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_24
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 192
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e890aea9071506840800000000000000
+      internalID: 5215257912572250510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_25
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 192
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0428e85ac828fe980800000000000000
+      internalID: -8507437630494965184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 192
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfc9199328ab3940800000000000000
+      internalID: 5276996259240595403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_27
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 192
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a118485f1325b7f0800000000000000
+      internalID: -597532758024646239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_28
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 192
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6976c61f6b30fb080800000000000000
+      internalID: -9169606232033695850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_29
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 192
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338e8057951db67d0800000000000000
+      internalID: -2924013350901192653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_30
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 192
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44542eb03ed5a8e0800000000000000
+      internalID: -1682694584823163830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_31
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 192
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b278d323be14330800000000000000
+      internalID: 3693491770433678221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_32
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 192
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eba74645e32fcc00800000000000000
+      internalID: 922995916267826145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3c026923056eb40800000000000000
+      internalID: 5469146975685362610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 128
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24749af6e5a911a50800000000000000
+      internalID: 6490138268408563522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_35
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 128
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4cb38aaee897330800000000000000
+      internalID: 3709152906612294845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_36
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 128
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c87d4f039eca5500800000000000000
+      internalID: 385847849105848519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_37
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 128
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb82b0b694887cc0800000000000000
+      internalID: -3713072110022521888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_38
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 128
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8611ee8de9d6a0e0800000000000000
+      internalID: -2258878548752132465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_39
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 128
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89af0bbafe7705eb0800000000000000
+      internalID: -4733151337104999784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_40
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 128
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a34428b9a404430800000000000000
+      internalID: 3765091320247630382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_41
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 128
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2725bd74a134100800000000000000
+      internalID: 90945313402155739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_42
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 128
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92536dfd4600ecc0800000000000000
+      internalID: -3683937563155672419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_43
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 128
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead3823794df84880800000000000000
+      internalID: -8626366594321728082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 64
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4ab8d0f6133c8f0800000000000000
+      internalID: -521518778806459182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 64
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0176a62c5e154b7b0800000000000000
+      internalID: -5209448821709707504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_46
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 64
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f481e09d8159020800000000000000
+      internalID: 2347810101267025713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_47
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 64
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164a038929c35ecd0800000000000000
+      internalID: -2529549015382449055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_48
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 64
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12e45331d349d9f0800000000000000
+      internalID: -443248522530856418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_49
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 64
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b296aacba2912750800000000000000
+      internalID: 6278460622068159157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_50
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 64
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59840bb976414960800000000000000
+      internalID: 7584420736111249754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_51
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 64
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0087bad0323d97e90800000000000000
+      internalID: -7027353596028291072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_52
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 64
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b644fa8f37fef4c0800000000000000
+      internalID: -4251689145904904524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_53
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 64
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7c055312b9d6000800000000000000
+      internalID: 30851339392174020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_54
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 64
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ddce2edd9c14250800000000000000
+      internalID: 5927240539428412686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af51c361e9119ba90800000000000000
+      internalID: -7297782350501636614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_56
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a8855e7257af040800000000000000
+      internalID: 4682183576817011349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_57
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9c01c4829062900800000000000000
+      internalID: 659224464135866809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_58
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07befaf633698770800000000000000
+      internalID: 8613524850113165067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_59
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d6738fc4689bc30800000000000000
+      internalID: 4375676178107165989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_60
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d7504dc92e99da0800000000000000
+      internalID: -5937465470511383275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_61
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f726c023e7c77f90800000000000000
+      internalID: -6955871321129080845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_62
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0286b4473191543d0800000000000000
+      internalID: -3223142386967549920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_63
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d695ce8f79473f0800000000000000
+      internalID: -903930529821659836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_64
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e8e1d6049751ff0800000000000000
+      internalID: -66013301911417298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-rubbertire_65
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0ba1c15b7395c30800000000000000
+      internalID: 4348568166203044093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      garden-planters-rubbertire_0: -1783907207779631514
+      garden-planters-rubbertire_1: -4337605860762453410
+      garden-planters-rubbertire_10: -6200925317949838781
+      garden-planters-rubbertire_11: -7333276920023130641
+      garden-planters-rubbertire_12: -6741350129904289883
+      garden-planters-rubbertire_13: 7973912205918092211
+      garden-planters-rubbertire_14: 3332568873229599473
+      garden-planters-rubbertire_15: 5692423254083234920
+      garden-planters-rubbertire_16: 1195644199892270875
+      garden-planters-rubbertire_17: 4710551551231197364
+      garden-planters-rubbertire_18: 7135344248387992704
+      garden-planters-rubbertire_19: -3484277664813725816
+      garden-planters-rubbertire_2: 4345034612624189903
+      garden-planters-rubbertire_20: -3572736407985628500
+      garden-planters-rubbertire_21: 8081325538800514753
+      garden-planters-rubbertire_22: 2907647136860191257
+      garden-planters-rubbertire_23: 5403259312314941277
+      garden-planters-rubbertire_24: 5215257912572250510
+      garden-planters-rubbertire_25: -8507437630494965184
+      garden-planters-rubbertire_26: 5276996259240595403
+      garden-planters-rubbertire_27: -597532758024646239
+      garden-planters-rubbertire_28: -9169606232033695850
+      garden-planters-rubbertire_29: -2924013350901192653
+      garden-planters-rubbertire_3: 572066879525400148
+      garden-planters-rubbertire_30: -1682694584823163830
+      garden-planters-rubbertire_31: 3693491770433678221
+      garden-planters-rubbertire_32: 922995916267826145
+      garden-planters-rubbertire_33: 5469146975685362610
+      garden-planters-rubbertire_34: 6490138268408563522
+      garden-planters-rubbertire_35: 3709152906612294845
+      garden-planters-rubbertire_36: 385847849105848519
+      garden-planters-rubbertire_37: -3713072110022521888
+      garden-planters-rubbertire_38: -2258878548752132465
+      garden-planters-rubbertire_39: -4733151337104999784
+      garden-planters-rubbertire_4: -1788568182886451427
+      garden-planters-rubbertire_40: 3765091320247630382
+      garden-planters-rubbertire_41: 90945313402155739
+      garden-planters-rubbertire_42: -3683937563155672419
+      garden-planters-rubbertire_43: -8626366594321728082
+      garden-planters-rubbertire_44: -521518778806459182
+      garden-planters-rubbertire_45: -5209448821709707504
+      garden-planters-rubbertire_46: 2347810101267025713
+      garden-planters-rubbertire_47: -2529549015382449055
+      garden-planters-rubbertire_48: -443248522530856418
+      garden-planters-rubbertire_49: 6278460622068159157
+      garden-planters-rubbertire_5: 6983642346636186739
+      garden-planters-rubbertire_50: 7584420736111249754
+      garden-planters-rubbertire_51: -7027353596028291072
+      garden-planters-rubbertire_52: -4251689145904904524
+      garden-planters-rubbertire_53: 30851339392174020
+      garden-planters-rubbertire_54: 5927240539428412686
+      garden-planters-rubbertire_55: -7297782350501636614
+      garden-planters-rubbertire_56: 4682183576817011349
+      garden-planters-rubbertire_57: 659224464135866809
+      garden-planters-rubbertire_58: 8613524850113165067
+      garden-planters-rubbertire_59: 4375676178107165989
+      garden-planters-rubbertire_6: -1362941341879239402
+      garden-planters-rubbertire_60: -5937465470511383275
+      garden-planters-rubbertire_61: -6955871321129080845
+      garden-planters-rubbertire_62: -3223142386967549920
+      garden-planters-rubbertire_63: -903930529821659836
+      garden-planters-rubbertire_64: -66013301911417298
+      garden-planters-rubbertire_65: 4348568166203044093
+      garden-planters-rubbertire_7: -5185391215230744542
+      garden-planters-rubbertire_8: 3342492488901445700
+      garden-planters-rubbertire_9: 20675163024179657
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

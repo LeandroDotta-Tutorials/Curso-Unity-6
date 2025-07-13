@@ -1,0 +1,1859 @@
+fileFormatVersion: 2
+guid: dbe79b517d140044abb81f2ba616a913
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8349193006916766537
+    second: garden-planters-bluebarrel_0
+  - first:
+      213: 1037381811593224569
+    second: garden-planters-bluebarrel_1
+  - first:
+      213: 6567744434097220418
+    second: garden-planters-bluebarrel_2
+  - first:
+      213: 5870985006836623801
+    second: garden-planters-bluebarrel_3
+  - first:
+      213: 2447962498733169024
+    second: garden-planters-bluebarrel_4
+  - first:
+      213: -5206055036406974872
+    second: garden-planters-bluebarrel_5
+  - first:
+      213: 1134453743034770798
+    second: garden-planters-bluebarrel_6
+  - first:
+      213: 8682413965081362655
+    second: garden-planters-bluebarrel_7
+  - first:
+      213: 8889713457132032584
+    second: garden-planters-bluebarrel_8
+  - first:
+      213: 4708172776665661988
+    second: garden-planters-bluebarrel_9
+  - first:
+      213: 4780283408475457638
+    second: garden-planters-bluebarrel_10
+  - first:
+      213: -628642636222963336
+    second: garden-planters-bluebarrel_11
+  - first:
+      213: 8323153089038165155
+    second: garden-planters-bluebarrel_12
+  - first:
+      213: -7151800453067023474
+    second: garden-planters-bluebarrel_13
+  - first:
+      213: 4635949498655674487
+    second: garden-planters-bluebarrel_14
+  - first:
+      213: -3011321307010737541
+    second: garden-planters-bluebarrel_15
+  - first:
+      213: 5484537541441924666
+    second: garden-planters-bluebarrel_16
+  - first:
+      213: -6737151536497710659
+    second: garden-planters-bluebarrel_17
+  - first:
+      213: 1733581051762807313
+    second: garden-planters-bluebarrel_18
+  - first:
+      213: 5908124161138191386
+    second: garden-planters-bluebarrel_19
+  - first:
+      213: 3621064143690658609
+    second: garden-planters-bluebarrel_20
+  - first:
+      213: -7150362118192349807
+    second: garden-planters-bluebarrel_21
+  - first:
+      213: 5307586053304078188
+    second: garden-planters-bluebarrel_22
+  - first:
+      213: -1718706099782187697
+    second: garden-planters-bluebarrel_23
+  - first:
+      213: 7862677542470846446
+    second: garden-planters-bluebarrel_24
+  - first:
+      213: 6647783759577655125
+    second: garden-planters-bluebarrel_25
+  - first:
+      213: -8549374805903404979
+    second: garden-planters-bluebarrel_26
+  - first:
+      213: 6616982115252098942
+    second: garden-planters-bluebarrel_27
+  - first:
+      213: -2116572592332274560
+    second: garden-planters-bluebarrel_28
+  - first:
+      213: -7323007697581608296
+    second: garden-planters-bluebarrel_29
+  - first:
+      213: -3904921238222624088
+    second: garden-planters-bluebarrel_30
+  - first:
+      213: -7240132194589958234
+    second: garden-planters-bluebarrel_31
+  - first:
+      213: 5699412296055952377
+    second: garden-planters-bluebarrel_32
+  - first:
+      213: -5098489565318883398
+    second: garden-planters-bluebarrel_33
+  - first:
+      213: 266150727413511148
+    second: garden-planters-bluebarrel_34
+  - first:
+      213: 5427591093015119947
+    second: garden-planters-bluebarrel_35
+  - first:
+      213: -7646044766223335268
+    second: garden-planters-bluebarrel_36
+  - first:
+      213: -2033088809087401852
+    second: garden-planters-bluebarrel_37
+  - first:
+      213: -5910602000675120117
+    second: garden-planters-bluebarrel_38
+  - first:
+      213: 6224924191505439523
+    second: garden-planters-bluebarrel_39
+  - first:
+      213: 1796738821779886673
+    second: garden-planters-bluebarrel_40
+  - first:
+      213: -7824011764285448978
+    second: garden-planters-bluebarrel_41
+  - first:
+      213: 4131399924972246852
+    second: garden-planters-bluebarrel_42
+  - first:
+      213: -5076424190719745571
+    second: garden-planters-bluebarrel_43
+  - first:
+      213: 2696920814472809587
+    second: garden-planters-bluebarrel_44
+  - first:
+      213: 1201143883361557257
+    second: garden-planters-bluebarrel_45
+  - first:
+      213: -4299026013925314674
+    second: garden-planters-bluebarrel_46
+  - first:
+      213: -8435708705229025209
+    second: garden-planters-bluebarrel_47
+  - first:
+      213: 8231532712561788059
+    second: garden-planters-bluebarrel_48
+  - first:
+      213: 3941872318893869103
+    second: garden-planters-bluebarrel_49
+  - first:
+      213: -8100601176867067367
+    second: garden-planters-bluebarrel_50
+  - first:
+      213: 4234943562033437057
+    second: garden-planters-bluebarrel_51
+  - first:
+      213: 1753627320671448789
+    second: garden-planters-bluebarrel_52
+  - first:
+      213: 2589630848872037182
+    second: garden-planters-bluebarrel_53
+  - first:
+      213: 9210249598926415969
+    second: garden-planters-bluebarrel_54
+  - first:
+      213: -8799866506919311410
+    second: garden-planters-bluebarrel_55
+  - first:
+      213: -1577629758139232483
+    second: garden-planters-bluebarrel_56
+  - first:
+      213: -524899103389257639
+    second: garden-planters-bluebarrel_57
+  - first:
+      213: -2389948727649886601
+    second: garden-planters-bluebarrel_58
+  - first:
+      213: 3313067865681154700
+    second: garden-planters-bluebarrel_59
+  - first:
+      213: 5414826371766754554
+    second: garden-planters-bluebarrel_60
+  - first:
+      213: -6031072260618314466
+    second: garden-planters-bluebarrel_61
+  - first:
+      213: -979369768935400035
+    second: garden-planters-bluebarrel_62
+  - first:
+      213: 6040839887357242956
+    second: garden-planters-bluebarrel_63
+  - first:
+      213: 454139999807643591
+    second: garden-planters-bluebarrel_64
+  - first:
+      213: -4393004278042600791
+    second: garden-planters-bluebarrel_65
+  - first:
+      213: -6419708556911620204
+    second: garden-planters-bluebarrel_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 320
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b037acdca4ed370800000000000000
+      internalID: 8349193006916766537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 320
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9712778e245856e00800000000000000
+      internalID: 1037381811593224569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 320
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24be9e1f3c0552b50800000000000000
+      internalID: 6567744434097220418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 320
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9242602cde97150800000000000000
+      internalID: 5870985006836623801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 320
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089d7783ce8e8f120800000000000000
+      internalID: 2447962498733169024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 320
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86634d9f68060c7b0800000000000000
+      internalID: -5206055036406974872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 320
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6523bf2ba36ebf00800000000000000
+      internalID: 1134453743034770798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 320
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0c095ff712e7870800000000000000
+      internalID: 8682413965081362655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 320
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8425d5f1a4b9e5b70800000000000000
+      internalID: 8889713457132032584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 320
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4224256023ac65140800000000000000
+      internalID: 4708172776665661988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 320
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6688fd7de6af65240800000000000000
+      internalID: 4780283408475457638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 256
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871e3416adc9647f0800000000000000
+      internalID: -628642636222963336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 256
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4a053f2a7c18370800000000000000
+      internalID: 8323153089038165155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 256
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b567a3163bfbc90800000000000000
+      internalID: -7151800453067023474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 256
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7709508b183365040800000000000000
+      internalID: 4635949498655674487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 256
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a5f07d933a536d0800000000000000
+      internalID: -3011321307010737541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_16
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 256
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ea0fae5ddfc1c40800000000000000
+      internalID: 5484537541441924666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 256
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9a31d5f54d082a0800000000000000
+      internalID: -6737151536497710659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 256
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1129bab18caee0810800000000000000
+      internalID: 1733581051762807313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_19
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 256
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c6b893f9fddf150800000000000000
+      internalID: 5908124161138191386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_20
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 256
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133f59947aa904230800000000000000
+      internalID: 3621064143690658609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_21
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 256
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d3cb9a98fc4cc90800000000000000
+      internalID: -7150362118192349807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 192
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fc10a056558a940800000000000000
+      internalID: 5307586053304078188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_23
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 192
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f458f2988ede528e0800000000000000
+      internalID: -1718706099782187697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 192
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee78a6e0197dd1d60800000000000000
+      internalID: 7862677542470846446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 192
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557ac3d9b1ca14c50800000000000000
+      internalID: 6647783759577655125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_26
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 192
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40147a19e48a5980800000000000000
+      internalID: -8549374805903404979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_27
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 192
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77d6b0fc2e34db50800000000000000
+      internalID: 6616982115252098942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_28
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 192
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08405bcf07c60a2e0800000000000000
+      internalID: -2116572592332274560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 192
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892723a4c437f5a90800000000000000
+      internalID: -7323007697581608296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 192
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaacdfa2deeec9c0800000000000000
+      internalID: -3904921238222624088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_31
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 192
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af989ef022e58b90800000000000000
+      internalID: -7240132194589958234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_32
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 192
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f398e65941681f40800000000000000
+      internalID: 5699412296055952377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_33
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 192
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7d128d0c68e39b0800000000000000
+      internalID: -5098489565318883398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_34
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 128
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3b13c2dae81b300800000000000000
+      internalID: 266150727413511148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_35
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 128
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b488d3da75da25b40800000000000000
+      internalID: 5427591093015119947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_36
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 128
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90068cabcac3e590800000000000000
+      internalID: -7646044766223335268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_37
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 128
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4800689ff7409c3e0800000000000000
+      internalID: -2033088809087401852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_38
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 128
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cdb0dcbc259fda0800000000000000
+      internalID: -5910602000675120117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_39
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 128
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bda64329f536650800000000000000
+      internalID: 6224924191505439523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_40
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 128
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152185a507c4fe810800000000000000
+      internalID: 1796738821779886673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_41
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 128
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecd947f0c68b6390800000000000000
+      internalID: -7824011764285448978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_42
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 128
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447db09b75ea55930800000000000000
+      internalID: 4131399924972246852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_43
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 128
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd123f6381bec89b0800000000000000
+      internalID: -5076424190719745571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_44
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 128
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c420e11336d6520800000000000000
+      internalID: 2696920814472809587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_45
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 64
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b16eb7ff15ba010800000000000000
+      internalID: 1201143883361557257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_46
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 64
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f61d71e9ac654c0800000000000000
+      internalID: -4299026013925314674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_47
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 64
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740572c70a75eea80800000000000000
+      internalID: -8435708705229025209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_48
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 64
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94c049b3674c3270800000000000000
+      internalID: 8231532712561788059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_49
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 64
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f284d953df754b630800000000000000
+      internalID: 3941872318893869103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_50
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 64
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a2ab10622e49f80800000000000000
+      internalID: -8100601176867067367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_51
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 64
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18994d26bba85ca30800000000000000
+      internalID: 4234943562033437057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_52
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 64
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5deaa0dc1c2265810800000000000000
+      internalID: 1753627320671448789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_53
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 64
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b396e598730f320800000000000000
+      internalID: 2589630848872037182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_54
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 64
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16861b4563161df70800000000000000
+      internalID: 9210249598926415969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_55
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 64
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec78730290890e580800000000000000
+      internalID: -8799866506919311410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f8607f7122b1ae0800000000000000
+      internalID: -1577629758139232483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_57
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950ff87eb0f27b8f0800000000000000
+      internalID: -524899103389257639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_58
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e18017b4235ded0800000000000000
+      internalID: -2389948727649886601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_59
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82dfa2aba16afd20800000000000000
+      internalID: 3313067865681154700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_60
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc139965e3552b40800000000000000
+      internalID: 5414826371766754554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_61
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d1223abb35d4ca0800000000000000
+      internalID: -6031072260618314466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_62
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d59d252649862f0800000000000000
+      internalID: -979369768935400035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_63
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e60fe2fdf55d350800000000000000
+      internalID: 6040839887357242956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_64
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf94d67ced6d4600800000000000000
+      internalID: 454139999807643591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_65
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aadf7e52e9e803c0800000000000000
+      internalID: -4393004278042600791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden-planters-bluebarrel_66
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f4fbf941d98e6a0800000000000000
+      internalID: -6419708556911620204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      garden-planters-bluebarrel_0: 8349193006916766537
+      garden-planters-bluebarrel_1: 1037381811593224569
+      garden-planters-bluebarrel_10: 4780283408475457638
+      garden-planters-bluebarrel_11: -628642636222963336
+      garden-planters-bluebarrel_12: 8323153089038165155
+      garden-planters-bluebarrel_13: -7151800453067023474
+      garden-planters-bluebarrel_14: 4635949498655674487
+      garden-planters-bluebarrel_15: -3011321307010737541
+      garden-planters-bluebarrel_16: 5484537541441924666
+      garden-planters-bluebarrel_17: -6737151536497710659
+      garden-planters-bluebarrel_18: 1733581051762807313
+      garden-planters-bluebarrel_19: 5908124161138191386
+      garden-planters-bluebarrel_2: 6567744434097220418
+      garden-planters-bluebarrel_20: 3621064143690658609
+      garden-planters-bluebarrel_21: -7150362118192349807
+      garden-planters-bluebarrel_22: 5307586053304078188
+      garden-planters-bluebarrel_23: -1718706099782187697
+      garden-planters-bluebarrel_24: 7862677542470846446
+      garden-planters-bluebarrel_25: 6647783759577655125
+      garden-planters-bluebarrel_26: -8549374805903404979
+      garden-planters-bluebarrel_27: 6616982115252098942
+      garden-planters-bluebarrel_28: -2116572592332274560
+      garden-planters-bluebarrel_29: -7323007697581608296
+      garden-planters-bluebarrel_3: 5870985006836623801
+      garden-planters-bluebarrel_30: -3904921238222624088
+      garden-planters-bluebarrel_31: -7240132194589958234
+      garden-planters-bluebarrel_32: 5699412296055952377
+      garden-planters-bluebarrel_33: -5098489565318883398
+      garden-planters-bluebarrel_34: 266150727413511148
+      garden-planters-bluebarrel_35: 5427591093015119947
+      garden-planters-bluebarrel_36: -7646044766223335268
+      garden-planters-bluebarrel_37: -2033088809087401852
+      garden-planters-bluebarrel_38: -5910602000675120117
+      garden-planters-bluebarrel_39: 6224924191505439523
+      garden-planters-bluebarrel_4: 2447962498733169024
+      garden-planters-bluebarrel_40: 1796738821779886673
+      garden-planters-bluebarrel_41: -7824011764285448978
+      garden-planters-bluebarrel_42: 4131399924972246852
+      garden-planters-bluebarrel_43: -5076424190719745571
+      garden-planters-bluebarrel_44: 2696920814472809587
+      garden-planters-bluebarrel_45: 1201143883361557257
+      garden-planters-bluebarrel_46: -4299026013925314674
+      garden-planters-bluebarrel_47: -8435708705229025209
+      garden-planters-bluebarrel_48: 8231532712561788059
+      garden-planters-bluebarrel_49: 3941872318893869103
+      garden-planters-bluebarrel_5: -5206055036406974872
+      garden-planters-bluebarrel_50: -8100601176867067367
+      garden-planters-bluebarrel_51: 4234943562033437057
+      garden-planters-bluebarrel_52: 1753627320671448789
+      garden-planters-bluebarrel_53: 2589630848872037182
+      garden-planters-bluebarrel_54: 9210249598926415969
+      garden-planters-bluebarrel_55: -8799866506919311410
+      garden-planters-bluebarrel_56: -1577629758139232483
+      garden-planters-bluebarrel_57: -524899103389257639
+      garden-planters-bluebarrel_58: -2389948727649886601
+      garden-planters-bluebarrel_59: 3313067865681154700
+      garden-planters-bluebarrel_6: 1134453743034770798
+      garden-planters-bluebarrel_60: 5414826371766754554
+      garden-planters-bluebarrel_61: -6031072260618314466
+      garden-planters-bluebarrel_62: -979369768935400035
+      garden-planters-bluebarrel_63: 6040839887357242956
+      garden-planters-bluebarrel_64: 454139999807643591
+      garden-planters-bluebarrel_65: -4393004278042600791
+      garden-planters-bluebarrel_66: -6419708556911620204
+      garden-planters-bluebarrel_7: 8682413965081362655
+      garden-planters-bluebarrel_8: 8889713457132032584
+      garden-planters-bluebarrel_9: 4708172776665661988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

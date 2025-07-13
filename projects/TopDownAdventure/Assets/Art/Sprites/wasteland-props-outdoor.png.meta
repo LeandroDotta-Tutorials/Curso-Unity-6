@@ -1,0 +1,2421 @@
+fileFormatVersion: 2
+guid: 0fe6ff2931033d644932c1b98d31b5ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4971629334503720505
+    second: post apoc toxic wasteland set updated_0
+  - first:
+      213: -802855766717576747
+    second: post apoc toxic wasteland set updated_1
+  - first:
+      213: 5485412274684684789
+    second: post apoc toxic wasteland set updated_2
+  - first:
+      213: 1481811047771627125
+    second: post apoc toxic wasteland set updated_3
+  - first:
+      213: 7247758068040137109
+    second: post apoc toxic wasteland set updated_4
+  - first:
+      213: -3144397502524860206
+    second: post apoc toxic wasteland set updated_5
+  - first:
+      213: 6714628967773609659
+    second: post apoc toxic wasteland set updated_6
+  - first:
+      213: 455979955210578425
+    second: post apoc toxic wasteland set updated_7
+  - first:
+      213: 5093989845678945705
+    second: post apoc toxic wasteland set updated_8
+  - first:
+      213: 6581423471448582254
+    second: post apoc toxic wasteland set updated_9
+  - first:
+      213: -890163886086135214
+    second: post apoc toxic wasteland set updated_10
+  - first:
+      213: -3215322079185921444
+    second: post apoc toxic wasteland set updated_11
+  - first:
+      213: 820940805524154249
+    second: post apoc toxic wasteland set updated_12
+  - first:
+      213: -8221036733111623233
+    second: post apoc toxic wasteland set updated_13
+  - first:
+      213: -3859300103234320979
+    second: post apoc toxic wasteland set updated_14
+  - first:
+      213: -8306371320475340959
+    second: post apoc toxic wasteland set updated_15
+  - first:
+      213: 8535494298070903275
+    second: post apoc toxic wasteland set updated_16
+  - first:
+      213: 8709692394855901389
+    second: post apoc toxic wasteland set updated_17
+  - first:
+      213: 4583282490954797313
+    second: post apoc toxic wasteland set updated_18
+  - first:
+      213: -2032680491615483175
+    second: post apoc toxic wasteland set updated_19
+  - first:
+      213: -2344908347195135437
+    second: post apoc toxic wasteland set updated_20
+  - first:
+      213: 2035631408394635439
+    second: post apoc toxic wasteland set updated_21
+  - first:
+      213: -4713872725712615807
+    second: post apoc toxic wasteland set updated_22
+  - first:
+      213: -7225764604257325289
+    second: post apoc toxic wasteland set updated_23
+  - first:
+      213: -1571106475191299724
+    second: post apoc toxic wasteland set updated_24
+  - first:
+      213: 3450911594191693910
+    second: post apoc toxic wasteland set updated_25
+  - first:
+      213: -2824274753666788310
+    second: post apoc toxic wasteland set updated_26
+  - first:
+      213: -5299028557787131609
+    second: post apoc toxic wasteland set updated_27
+  - first:
+      213: -9216701549168034592
+    second: post apoc toxic wasteland set updated_28
+  - first:
+      213: 8795542894514721605
+    second: post apoc toxic wasteland set updated_29
+  - first:
+      213: 2570720781961198037
+    second: post apoc toxic wasteland set updated_30
+  - first:
+      213: 8881171308367529650
+    second: post apoc toxic wasteland set updated_31
+  - first:
+      213: 6448349226833881300
+    second: post apoc toxic wasteland set updated_32
+  - first:
+      213: 1478080353385782087
+    second: post apoc toxic wasteland set updated_33
+  - first:
+      213: -2494246040025368359
+    second: post apoc toxic wasteland set updated_34
+  - first:
+      213: -6245609067898237352
+    second: post apoc toxic wasteland set updated_35
+  - first:
+      213: -3779619781134121733
+    second: post apoc toxic wasteland set updated_36
+  - first:
+      213: -265454722727524180
+    second: post apoc toxic wasteland set updated_37
+  - first:
+      213: -2836917794495840314
+    second: post apoc toxic wasteland set updated_38
+  - first:
+      213: 1510769652527747919
+    second: post apoc toxic wasteland set updated_39
+  - first:
+      213: -3799455586587041289
+    second: post apoc toxic wasteland set updated_40
+  - first:
+      213: -3349889146749665706
+    second: post apoc toxic wasteland set updated_41
+  - first:
+      213: -4023037959490726560
+    second: post apoc toxic wasteland set updated_42
+  - first:
+      213: -451768540475364188
+    second: post apoc toxic wasteland set updated_43
+  - first:
+      213: -1086083220681951642
+    second: post apoc toxic wasteland set updated_44
+  - first:
+      213: -4638636160797218450
+    second: post apoc toxic wasteland set updated_45
+  - first:
+      213: 6371968806033206220
+    second: post apoc toxic wasteland set updated_46
+  - first:
+      213: -8066442990511621427
+    second: post apoc toxic wasteland set updated_47
+  - first:
+      213: 962383684770295384
+    second: post apoc toxic wasteland set updated_48
+  - first:
+      213: 3566300349284656371
+    second: post apoc toxic wasteland set updated_49
+  - first:
+      213: 1369874549059217350
+    second: post apoc toxic wasteland set updated_50
+  - first:
+      213: 2737685171155354862
+    second: post apoc toxic wasteland set updated_51
+  - first:
+      213: 4709211350305470077
+    second: post apoc toxic wasteland set updated_52
+  - first:
+      213: 7069280757483329578
+    second: post apoc toxic wasteland set updated_53
+  - first:
+      213: -318264002384007245
+    second: post apoc toxic wasteland set updated_54
+  - first:
+      213: 4683769980948407564
+    second: post apoc toxic wasteland set updated_55
+  - first:
+      213: 5337785448880161290
+    second: post apoc toxic wasteland set updated_56
+  - first:
+      213: 3099288075068815254
+    second: post apoc toxic wasteland set updated_57
+  - first:
+      213: 3623926964804027695
+    second: post apoc toxic wasteland set updated_58
+  - first:
+      213: 6789541283008875118
+    second: post apoc toxic wasteland set updated_59
+  - first:
+      213: 1176990559779442241
+    second: post apoc toxic wasteland set updated_60
+  - first:
+      213: 6557401723412588177
+    second: post apoc toxic wasteland set updated_61
+  - first:
+      213: 7344114095810047166
+    second: post apoc toxic wasteland set updated_62
+  - first:
+      213: 784621205885085391
+    second: post apoc toxic wasteland set updated_63
+  - first:
+      213: 1610097634338473782
+    second: post apoc toxic wasteland set updated_64
+  - first:
+      213: -6479769913278001151
+    second: post apoc toxic wasteland set updated_65
+  - first:
+      213: 313342055755869365
+    second: post apoc toxic wasteland set updated_66
+  - first:
+      213: -636444268416227118
+    second: post apoc toxic wasteland set updated_67
+  - first:
+      213: -5739970686610161490
+    second: post apoc toxic wasteland set updated_68
+  - first:
+      213: 7728296930794438730
+    second: post apoc toxic wasteland set updated_69
+  - first:
+      213: -1143164877069503565
+    second: post apoc toxic wasteland set updated_70
+  - first:
+      213: 2200483858967017753
+    second: post apoc toxic wasteland set updated_71
+  - first:
+      213: -4349103821611008327
+    second: post apoc toxic wasteland set updated_72
+  - first:
+      213: -1345678898075181141
+    second: post apoc toxic wasteland set updated_73
+  - first:
+      213: 961132462537241783
+    second: post apoc toxic wasteland set updated_74
+  - first:
+      213: -2543397404007079083
+    second: post apoc toxic wasteland set updated_75
+  - first:
+      213: 5071124623585955017
+    second: post apoc toxic wasteland set updated_76
+  - first:
+      213: -2393676245370026935
+    second: post apoc toxic wasteland set updated_77
+  - first:
+      213: 8722542550679142664
+    second: post apoc toxic wasteland set updated_78
+  - first:
+      213: 8427328871228850399
+    second: post apoc toxic wasteland set updated_79
+  - first:
+      213: 8836396518636666703
+    second: post apoc toxic wasteland set updated_80
+  - first:
+      213: 5556712457949753727
+    second: post apoc toxic wasteland set updated_81
+  - first:
+      213: 1205484095938240143
+    second: post apoc toxic wasteland set updated_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wasteland-metal-barril-01
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 416
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ad33532a6514b458323a0124a21db5
+      internalID: -9123624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage-bag-02
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 386
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52382ce0cc5238b459e17085a7b7c309
+      internalID: 2137765718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-metal-barril-02
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 416
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6492c024ebf4384987444b9b72de0e6
+      internalID: -1292673647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-metal-barril-03
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 416
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44271c21e35487040bba09f31ed9bd83
+      internalID: 524210731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-metal-barril-04
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 416
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ffdf62561096c4488383cd45cfd102
+      internalID: -1988139100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-metal-barril-05
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 416
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6769ac018bd9e3f4db6c6da95a769f80
+      internalID: -2122256974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-carpet-02
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 389
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350e8c4ebd327054c85b2f60dcb60bd3
+      internalID: -516941571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-metal-barril-06
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 416
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4576dfffd38ecd3439af4932e7341e1e
+      internalID: 884249280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-metal-barril-07
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 416
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1a14926f1184743b182fba5ab08003
+      internalID: 80757629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-metal-barril-08
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 416
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89113f65b4ff92343b9d5429653bb03f
+      internalID: 2099240514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-metal-barril-09
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 416
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084f2dec45b90ae4795a4c199f8c1e72
+      internalID: 218409038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-metal-barril-10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 416
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862a4a18b4b61c14d9b1550857b000b7
+      internalID: 1474951047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-metal-barril-11
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 416
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b0ec60387bcda4e9379a2b6d2e97b0
+      internalID: 575764075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-metal-barril-12
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 416
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356177a931795c440a7db2b3e540b536
+      internalID: -1656141254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-metal-barril-13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 416
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119780b658714fb42aad9f7d6e939db4
+      internalID: 22093428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage-bag-01
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 387
+        width: 23
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134ca4005c33a1b40a709ada130a9b28
+      internalID: -1620440279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage-bag-03
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 390
+        width: 14
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500695623d0d86c4a96e8ec69e5feac8
+      internalID: 249026649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage-bag-04
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 388
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305bea7d070508c41ad37cec17711103
+      internalID: 2030823219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-carpet-01
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 389
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90208c2072ca1aa42bb7b67fd98bc560
+      internalID: -523226971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash-can-open
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 384
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cc9c09cb6e6424f8ebe02a7611257b
+      internalID: -1228630928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash-can-closed
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 384
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548fb5e8a64fd6b49937810983622643
+      internalID: 750599110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash-can-rusty-open-full
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 384
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96fff3c656c32c418889d0b0f3a6cda
+      internalID: -1065480428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash-can-rusty-closed
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 384
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71441026190fdcc4fa40d7b1c352820e
+      internalID: 1144734981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pallet-01
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 341
+        width: 38
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589d51f54d0610348b953a208f5f0e2b
+      internalID: 588641517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pallet-02
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 342
+        width: 38
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d51f917081775f4abc90f3074c39b30
+      internalID: 1494366207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-ceiling-01
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 354
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb6b9cff68d3d641886ec57a23f541d
+      internalID: 938345836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-ceiling-02
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 354
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85983b4e2e2bc04b94f4b3714ee4cde
+      internalID: 569932161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard-box-big-01
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 354
+        width: 25
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4577d77e201f84b9b6b0b43e9fc14a
+      internalID: -180039170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard-box-big-02
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 354
+        width: 25
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ae9e7d6f0303b4b83216cfc01bc7d8
+      internalID: -558967076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard-box-big-03
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 354
+        width: 25
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7cf0ac62c771b408e8ce92539c1b88
+      internalID: 899584659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard-box-medium-horizontal-01
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 358
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c31b2451d1910d41930c8f8fc3d7830
+      internalID: -432667882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pallet-03
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 290
+        width: 39
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4961e6e33b13246a005b03976f9bf1
+      internalID: -1464137016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pallet-04
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 290
+        width: 39
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea591c129ba41fc42bef65f1bb3dae1b
+      internalID: -967031450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-ceiling-03
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 322
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b4980c61b8e44449ff59f7a57955e5
+      internalID: 1845707349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-ceiling-04
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 322
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1122178cbc906e2498568ef650080b4b
+      internalID: 673355694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard-box-medium-horizontal-02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 325
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94668a8de168a4468823bfa404157a8
+      internalID: -941058530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard-box-medium-vertical-01
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 325
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c4d7d42753e9744acc9d43e00ab7e7
+      internalID: -154744615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard-box-medium-vertical-02
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 325
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eec496d4088cc44da36ff828f3f1954
+      internalID: 636101943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard-box-medium-vertical-03
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 325
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ac6ace4d59f4345bd81ad61500513a
+      internalID: -2094546450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-ceiling-05
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 290
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a10e809ef11f14d80bd0debe1e994b
+      internalID: -1807028137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-ceiling-06
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 290
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6993cc6a4e0f0d46b5a60f11bb40223
+      internalID: 902052908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard-box-medium-horizontal-03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 293
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbee40a436652842b397ba6fc389bb7
+      internalID: -1670489851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-tire-01
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 293
+        width: 25
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23b392b47da441489d4e34c7f9bb417
+      internalID: 1249215328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-tire-02
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 293
+        width: 25
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca29188bf4571cc439a6183df4bc78e0
+      internalID: -1455536325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-bones
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 293
+        width: 32
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2781566cb81cf1428c970e5134d0575
+      internalID: 1073054182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newspaper-pack-04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 262
+        width: 15
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7cd36232ba66c4785d2f2a2ba2da56
+      internalID: -1752519989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newspaper-pack-03
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 262
+        width: 15
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9de9ef0e5524084795988aae42b5960
+      internalID: 736972525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newspaper-pack-02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 262
+        width: 15
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bcca34b5c6d6b4483012a935782d8c
+      internalID: 2126348763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newspaper-pack-01
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 262
+        width: 15
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d979bbf4418014a4086c8e83ff8c5eab
+      internalID: 402827658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magazine-pack
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 256
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace6bef371e3e1341a7b46ea8ad8a806
+      internalID: -2139146984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magazine
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 256
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5221910617df94ba6872613f4781c0
+      internalID: 1214428010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magazine-pile
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 260
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6190f84a6ae1143b1555018b2e3a62
+      internalID: -1376479875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-paper-01
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 259
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c080b9aed5bff4a4f9ba69e865acf193
+      internalID: 1324087036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-paper-02
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 259
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00be005deedd06b4b9b24c99701a9d68
+      internalID: 70536110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-sign-radioaticve
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 259
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34b76aedcbc0104fb0cb39b0d398aa8
+      internalID: 1832842828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-ceiling-big-01
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 198
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcfb136428fe0b4ea42f56707c96c54
+      internalID: 924556621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-ceiling-big-02
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 199
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cf7f4b107c2ab4782da8939f900286
+      internalID: 91205668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-ceiling-big-03
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 199
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4054cd3e8f6b74fba7cb5cdf80de1f
+      internalID: -1955200232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-sign-small-danger-level-1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 228
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ed7fdb5e204624e93af53d634d729f
+      internalID: 2015123052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-sign-small-danger-level-2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 228
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1cf0f6057d74049b83a94f3d4b95f9
+      internalID: -160271599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-sign-small-danger-level-3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 228
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240f424cc43b8b14b891e6f14a48d5d2
+      internalID: -2087240267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-sign-big-danger-level-1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 193
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aafb581e81ab284bb8c6f23d33cfa97
+      internalID: 1929358463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-sign-big-danger-level-2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 193
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf8ca677bb36be4f8fba46873bc29f0
+      internalID: 74458537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-sign-big-danger-level-3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41461c9bd04acd6419220f9f54ed655b
+      internalID: -1797770415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-sign-mask-01
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 193
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1b640fd2a205b4f99b8ae490b42ebf
+      internalID: -2128367758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-sign-mask-02
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 193
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4c070c96aa7f54e995d9496d35bc4e
+      internalID: 246113128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-sign-mask-03
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 193
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cd44af9ac56a146b1839d0fe9dae43
+      internalID: 1495947310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-metal-barril-14
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 192
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d94d1819fec4684b84eab501410bd1a
+      internalID: -2147009009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-sign-small-death
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 166
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3734c41f698e89e46a360b0b32c1256c
+      internalID: 1809606476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-sign-small-explosion
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 166
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2411be852087840b5578241a151f5c
+      internalID: 92594623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-sign-small-shock
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 166
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a560e539fc0225b4cbde286b1e19a1ca
+      internalID: -382412896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash-bin-open-01
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 99
+        width: 67
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fac77abc07b43b44a12a43565caa16f
+      internalID: 1051642835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash-bin-open-02
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 99
+        width: 67
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3ca325ff4b47d42923a36e225e8831
+      internalID: 947051519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash-bin-open-03
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 99
+        width: 67
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ce141bf245fd245a8f3e8e134672b6
+      internalID: 98965242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash-bin-closed
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 99
+        width: 67
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0214807ae5662a4ea78fc0f135efb8e
+      internalID: 781850354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-sign-small-exclamation
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 70
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c00eb9cc3f15f478045a0d1a60ed60
+      internalID: 557716418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-sign-small-x
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 70
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7881a986eb5984a866bada5ac7ecec
+      internalID: 396843956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-sign-small-fire
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 70
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5440d5197ab94d40b265cbf4d274bcd
+      internalID: 904523271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash-bin-open-dirty-01
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 3
+        width: 67
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e028c5aa8ebf9e4fbd75c4c226f25ef
+      internalID: 1513473138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash-bin-open-dirty-02
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 3
+        width: 67
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f637c6ba738c247a0141f70630f3e1
+      internalID: 1760825708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash-bin-open-dirty-03
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 3
+        width: 67
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9180ff2c43cf0c4daa5812b5848e47e
+      internalID: 1386950371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash-bin-closed-durty
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3
+        width: 67
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c27e8784179474282c2e56f2053505
+      internalID: -365399715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-metal-barril-15
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 160
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33892a9a889301e4cb4c23e5b6cd3429
+      internalID: -813306350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-metal-barril-16
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 128
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1257571970e6b5418e732c0d3aa18c4
+      internalID: -360930009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-metal-barril-17
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 96
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afadf072515ca444893197ae963a9008
+      internalID: -625544457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-metal-barril-18
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 64
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0f252b2f457e24ba0da07a8b98d545
+      internalID: -2132372298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-steel-fence-01
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 351
+        width: 93
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47432fa7bcc2414984f26283ceeb4c8
+      internalID: -2115399589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-steel-fence-02
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 288
+        width: 93
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078139a66af503f46bb766dc794205b4
+      internalID: 758481695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland-steel-fence-03
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 224
+        width: 93
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1c89050d7cc6c4abf1f59a4b387716
+      internalID: -213018929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6326cfdf341c07845bac04d905f0c4f0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cardboard-box-big-01: -180039170
+      cardboard-box-big-02: -558967076
+      cardboard-box-big-03: 899584659
+      cardboard-box-medium-horizontal-01: -432667882
+      cardboard-box-medium-horizontal-02: -941058530
+      cardboard-box-medium-horizontal-03: -1670489851
+      cardboard-box-medium-vertical-01: -154744615
+      cardboard-box-medium-vertical-02: 636101943
+      cardboard-box-medium-vertical-03: -2094546450
+      garbage-bag-01: -1620440279
+      garbage-bag-02: 2137765718
+      garbage-bag-03: 249026649
+      garbage-bag-04: 2030823219
+      magazine: 1214428010
+      magazine-pack: -2139146984
+      magazine-pile: -1376479875
+      newspaper-pack-01: 402827658
+      newspaper-pack-02: 2126348763
+      newspaper-pack-03: 736972525
+      newspaper-pack-04: -1752519989
+      pallet-01: 588641517
+      pallet-02: 1494366207
+      pallet-03: -1464137016
+      pallet-04: -967031450
+      trash-bin-closed: 781850354
+      trash-bin-closed-durty: -365399715
+      trash-bin-open-01: 1051642835
+      trash-bin-open-02: 947051519
+      trash-bin-open-03: 98965242
+      trash-bin-open-dirty-01: 1513473138
+      trash-bin-open-dirty-02: 1760825708
+      trash-bin-open-dirty-03: 1386950371
+      trash-can-closed: 750599110
+      trash-can-open: -1228630928
+      trash-can-rusty-closed: 1144734981
+      trash-can-rusty-open-full: -1065480428
+      wasteland-bones: 1073054182
+      wasteland-carpet-01: -523226971
+      wasteland-carpet-02: -516941571
+      wasteland-ceiling-01: 938345836
+      wasteland-ceiling-02: 569932161
+      wasteland-ceiling-03: 1845707349
+      wasteland-ceiling-04: 673355694
+      wasteland-ceiling-05: -1807028137
+      wasteland-ceiling-06: 902052908
+      wasteland-ceiling-big-01: 924556621
+      wasteland-ceiling-big-02: 91205668
+      wasteland-ceiling-big-03: -1955200232
+      wasteland-metal-barril-01: -9123624
+      wasteland-metal-barril-02: -1292673647
+      wasteland-metal-barril-03: 524210731
+      wasteland-metal-barril-04: -1988139100
+      wasteland-metal-barril-05: -2122256974
+      wasteland-metal-barril-06: 884249280
+      wasteland-metal-barril-07: 80757629
+      wasteland-metal-barril-08: 2099240514
+      wasteland-metal-barril-09: 218409038
+      wasteland-metal-barril-10: 1474951047
+      wasteland-metal-barril-11: 575764075
+      wasteland-metal-barril-12: -1656141254
+      wasteland-metal-barril-13: 22093428
+      wasteland-metal-barril-14: -2147009009
+      wasteland-metal-barril-15: -813306350
+      wasteland-metal-barril-16: -360930009
+      wasteland-metal-barril-17: -625544457
+      wasteland-metal-barril-18: -2132372298
+      wasteland-paper-01: 1324087036
+      wasteland-paper-02: 70536110
+      wasteland-props-outdoor_3: -870365817
+      wasteland-props-outdoor_85: 1926791100
+      wasteland-props-outdoor_86: -2082679770
+      wasteland-props-outdoor_87: 29511223
+      wasteland-props-outdoor_88: -1930499304
+      wasteland-props-outdoor_89: 643803317
+      wasteland-props-outdoor_90: -1785298667
+      wasteland-sign-big-danger-level-1: 1929358463
+      wasteland-sign-big-danger-level-2: 74458537
+      wasteland-sign-big-danger-level-3: -1797770415
+      wasteland-sign-mask-01: -2128367758
+      wasteland-sign-mask-02: 246113128
+      wasteland-sign-mask-03: 1495947310
+      wasteland-sign-radioaticve: 1832842828
+      wasteland-sign-small-danger-level-1: 2015123052
+      wasteland-sign-small-danger-level-2: -160271599
+      wasteland-sign-small-danger-level-3: -2087240267
+      wasteland-sign-small-death: 1809606476
+      wasteland-sign-small-exclamation: 557716418
+      wasteland-sign-small-explosion: 92594623
+      wasteland-sign-small-fire: 904523271
+      wasteland-sign-small-shock: -382412896
+      wasteland-sign-small-x: 396843956
+      wasteland-singsmall-danger-level-1-: 2015123052
+      wasteland-steel-fence-01: 518439707
+      wasteland-steel-fence-02: -1708151752
+      wasteland-steel-fence-03: 455499552
+      wasteland-tire-01: 1249215328
+      wasteland-tire-02: -1455536325
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

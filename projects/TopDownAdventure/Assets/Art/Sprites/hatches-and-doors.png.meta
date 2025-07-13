@@ -1,0 +1,933 @@
+fileFormatVersion: 2
+guid: b163a763f57e9764386ab2b2ddfb28e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3062024939237016316
+    second: hatches-and-doors_0
+  - first:
+      213: 2918064419534174047
+    second: hatches-and-doors_1
+  - first:
+      213: 3925616842051036986
+    second: hatches-and-doors_2
+  - first:
+      213: 5238677659094815363
+    second: hatches-and-doors_3
+  - first:
+      213: 5480505066890692405
+    second: hatches-and-doors_4
+  - first:
+      213: 762656585765159890
+    second: hatches-and-doors_5
+  - first:
+      213: 810271579689748721
+    second: hatches-and-doors_6
+  - first:
+      213: -6143462808993965754
+    second: hatches-and-doors_7
+  - first:
+      213: 6550661460929646049
+    second: hatches-and-doors_8
+  - first:
+      213: -449074975768283458
+    second: hatches-and-doors_9
+  - first:
+      213: 6501990438969422183
+    second: hatches-and-doors_10
+  - first:
+      213: -8832085264341619526
+    second: hatches-and-doors_11
+  - first:
+      213: -2879421390018743543
+    second: hatches-and-doors_12
+  - first:
+      213: -6097691489005682670
+    second: hatches-and-doors_13
+  - first:
+      213: 6405935163693901042
+    second: hatches-and-doors_14
+  - first:
+      213: 73680508414540297
+    second: hatches-and-doors_15
+  - first:
+      213: -4141200196449163644
+    second: hatches-and-doors_16
+  - first:
+      213: -5911235747623947013
+    second: hatches-and-doors_17
+  - first:
+      213: 2504737025296035564
+    second: hatches-and-doors_18
+  - first:
+      213: 2914067007725256073
+    second: hatches-and-doors_19
+  - first:
+      213: -1833152017619047169
+    second: hatches-and-doors_20
+  - first:
+      213: -1813893094330353624
+    second: hatches-and-doors_21
+  - first:
+      213: -1265863694064021743
+    second: hatches-and-doors_22
+  - first:
+      213: 1020828699585367932
+    second: hatches-and-doors_23
+  - first:
+      213: 408764135377220804
+    second: hatches-and-doors_24
+  - first:
+      213: 4135023806717991680
+    second: hatches-and-doors_25
+  - first:
+      213: -6397322451308171879
+    second: hatches-and-doors_26
+  - first:
+      213: -4047243226356956641
+    second: hatches-and-doors_27
+  - first:
+      213: -4342673002736350424
+    second: hatches-and-doors_28
+  - first:
+      213: 919809771239894698
+    second: hatches-and-doors_29
+  - first:
+      213: 2253982060776330735
+    second: hatches-and-doors_30
+  - first:
+      213: -7556013637309091086
+    second: hatches-and-doors_31
+  - first:
+      213: -3521457011625502792
+    second: hatches-and-doors_32
+  - first:
+      213: 7088129594450114680
+    second: hatches-and-doors_33
+  - first:
+      213: 7707646986404738988
+    second: hatches-and-doors_34
+  - first:
+      213: 4761937678583740008
+    second: hatches-and-doors_35
+  - first:
+      213: -4537061473343818580
+    second: hatches-and-doors_36
+  - first:
+      213: 8206461564616017002
+    second: hatches-and-doors_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: door-wood-open
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 288
+        width: 28
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf20c9c757f7e7a20800000000000000
+      internalID: 3062024939237016316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stair-01
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 256
+        width: 21
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8800f65b9ae3b00800000000000000
+      internalID: 810271579689748721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stair-02
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 16
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649571bef190ebaa0800000000000000
+      internalID: -6143462808993965754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stair-03
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 16
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed8d8e44ef98ea50800000000000000
+      internalID: 6550661460929646049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stair-04
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 16
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb670d750b094c9f0800000000000000
+      internalID: -449074975768283458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatches-and-doors_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 224
+        width: 57
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76132cfead5bb3a50800000000000000
+      internalID: 6501990438969422183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatches-and-doors_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 160
+        width: 57
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4a82e571476e850800000000000000
+      internalID: 6405935163693901042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand-bag-01
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 192
+        width: 31
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486aed2cc508786c0800000000000000
+      internalID: -4141200196449163644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand-bag-02
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 160
+        width: 31
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4b847186217fda0800000000000000
+      internalID: -5911235747623947013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatch-wood-open
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 97
+        width: 29
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceee988cd0d92c220800000000000000
+      internalID: 2504737025296035564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatch-steel-rusty-open
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 97
+        width: 29
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d362f0188d07820800000000000000
+      internalID: 2914067007725256073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatch-steel-open
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 97
+        width: 29
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffca682d3f55f86e0800000000000000
+      internalID: -1833152017619047169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatch-concrete-closed
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 128
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828b7e357d1c3d6e0800000000000000
+      internalID: -1813893094330353624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand-bag-pile-01
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 128
+        width: 87
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f00455dafbe6ee0800000000000000
+      internalID: -1265863694064021743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand-bag-03
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 130
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f4f4f2b46ba2e00800000000000000
+      internalID: 1020828699585367932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand-bag-04
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 133
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4341eb0d83ca500800000000000000
+      internalID: 408764135377220804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concrete-piece
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d252000252837a0800000000000000
+      internalID: -6397322451308171879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand-bag-pile-02
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 47
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b883899e9bbb3c0800000000000000
+      internalID: -4342673002736350424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatch-wood-closed
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaeefa31d12d3cc00800000000000000
+      internalID: 919809771239894698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatch-steel-rusty-closed
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 65
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe51daefdb0c74f10800000000000000
+      internalID: 2253982060776330735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatch-steel-closed
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 65
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f23f2e51a5a32790800000000000000
+      internalID: -7556013637309091086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatch-concrete-open
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 64
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7d0426185412fc0800000000000000
+      internalID: -3521457011625502792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand-bag-pile-03
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 64
+        width: 47
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878f127cf481e5260800000000000000
+      internalID: 7088129594450114680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel-01
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2
+        width: 11
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866388eb61dc51240800000000000000
+      internalID: 4761937678583740008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel-02
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2
+        width: 11
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca43b3dd0ae1901c0800000000000000
+      internalID: -4537061473343818580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shovel-03
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2
+        width: 11
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6485d5305533e170800000000000000
+      internalID: 8206461564616017002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door-wood-barricaded-01
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ddc2086ccc52c48801cabd13d5fcaa
+      internalID: 588443313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door-wood-locked
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 224
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9077c30b352de4e83be83bc8c445a3
+      internalID: -1620501778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door-wood-closed
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 224
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebe6e4ab4fbdcd429b230552c92311b
+      internalID: 1432456819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door-wood-barricaded-02
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 160
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a82193056fa7340a9cac5d77751c30
+      internalID: -1806376805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 009946ec85b70074faa1bae907d7ebbf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      concrete-piece: -6397322451308171879
+      door-wood-barricaded-01: 588443313
+      door-wood-barricaded-02: -1806376805
+      door-wood-closed: 1432456819
+      door-wood-locked: -1620501778
+      door-wood-open: 3062024939237016316
+      hatch-concrete-closed: -1813893094330353624
+      hatch-concrete-open: -3521457011625502792
+      hatch-steel-closed: -7556013637309091086
+      hatch-steel-open: -1833152017619047169
+      hatch-steel-rusty-closed: 2253982060776330735
+      hatch-steel-rusty-open: 2914067007725256073
+      hatch-wood-closed: 919809771239894698
+      hatch-wood-open: 2504737025296035564
+      hatches-and-doors_1: 2918064419534174047
+      hatches-and-doors_10: 6501990438969422183
+      hatches-and-doors_11: -8832085264341619526
+      hatches-and-doors_12: -2879421390018743543
+      hatches-and-doors_13: -6097691489005682670
+      hatches-and-doors_14: 6405935163693901042
+      hatches-and-doors_15: 73680508414540297
+      hatches-and-doors_2: 3925616842051036986
+      hatches-and-doors_25: 4135023806717991680
+      hatches-and-doors_27: -4047243226356956641
+      hatches-and-doors_3: 5238677659094815363
+      hatches-and-doors_34: 7707646986404738988
+      hatches-and-doors_4: 5480505066890692405
+      hatches-and-doors_5: 762656585765159890
+      sand-bag-01: -4141200196449163644
+      sand-bag-02: -5911235747623947013
+      sand-bag-03: 1020828699585367932
+      sand-bag-04: 408764135377220804
+      sand-bag-pile-01: -1265863694064021743
+      sand-bag-pile-02: -4342673002736350424
+      sand-bag-pile-03: 7088129594450114680
+      shovel-01: 4761937678583740008
+      shovel-02: -4537061473343818580
+      shovel-03: 8206461564616017002
+      stair-01: 810271579689748721
+      stair-02: -6143462808993965754
+      stair-03: 6550661460929646049
+      stair-04: -449074975768283458
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

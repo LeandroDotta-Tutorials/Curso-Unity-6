@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 4c2be3c9a29e4d943a322b9fcdb156ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3072560231781373944
+    second: prototype_character_shadow_0
+  - first:
+      213: -7360361830414338879
+    second: prototype_character_shadow_1
+  - first:
+      213: -6497163346179746890
+    second: prototype_character_shadow_2
+  - first:
+      213: 2526655029424305747
+    second: prototype_character_shadow_3
+  - first:
+      213: -8729292773236052577
+    second: prototype_character_shadow_4
+  - first:
+      213: 7813407186040052759
+    second: prototype_character_shadow_5
+  - first:
+      213: 7820812612316080712
+    second: prototype_character_shadow_6
+  - first:
+      213: -7253044882378548490
+    second: prototype_character_shadow_7
+  - first:
+      213: -2349540326964598727
+    second: prototype_character_shadow_8
+  - first:
+      213: -3433728137093310281
+    second: prototype_character_shadow_9
+  - first:
+      213: 6456161016831519937
+    second: prototype_character_shadow_10
+  - first:
+      213: 7144839489310346584
+    second: prototype_character_shadow_11
+  - first:
+      213: 1049185905252777049
+    second: prototype_character_shadow_12
+  - first:
+      213: 1947300863752431108
+    second: prototype_character_shadow_13
+  - first:
+      213: -7612354800581388401
+    second: prototype_character_shadow_14
+  - first:
+      213: 815762918277774559
+    second: prototype_character_shadow_15
+  - first:
+      213: 1746486351590007514
+    second: prototype_character_shadow_16
+  - first:
+      213: -1173110535818486156
+    second: prototype_character_shadow_17
+  - first:
+      213: 8601439749106216861
+    second: prototype_character_shadow_18
+  - first:
+      213: 1337157310069270696
+    second: prototype_character_shadow_19
+  - first:
+      213: 8430925413321648758
+    second: prototype_character_shadow_20
+  - first:
+      213: 1529510912931481637
+    second: prototype_character_shadow_21
+  - first:
+      213: -3192310531973651889
+    second: prototype_character_shadow_22
+  - first:
+      213: 2894377661216782950
+    second: prototype_character_shadow_23
+  - first:
+      213: -4324959515040391721
+    second: prototype_character_shadow_24
+  - first:
+      213: 6626909847953835552
+    second: prototype_character_shadow_25
+  - first:
+      213: -5820990821566841962
+    second: prototype_character_shadow_26
+  - first:
+      213: -3828387282135515137
+    second: prototype_character_shadow_27
+  - first:
+      213: 3543954333221217461
+    second: prototype_character_shadow_28
+  - first:
+      213: -6139742985727866942
+    second: prototype_character_shadow_29
+  - first:
+      213: 567884884305791370
+    second: prototype_character_shadow_30
+  - first:
+      213: 6508313726110183032
+    second: prototype_character_shadow_31
+  - first:
+      213: -4348202603614803155
+    second: prototype_character_shadow_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character-shadow
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 359
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808eda19fb21c55d0800000000000000
+      internalID: -3072560231781373944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 53a6987021ec7d14ca7432429973184b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character-shadow: -3072560231781373944
+      prototype_character_shadow_1: -7360361830414338879
+      prototype_character_shadow_10: 6456161016831519937
+      prototype_character_shadow_11: 7144839489310346584
+      prototype_character_shadow_12: 1049185905252777049
+      prototype_character_shadow_13: 1947300863752431108
+      prototype_character_shadow_14: -7612354800581388401
+      prototype_character_shadow_15: 815762918277774559
+      prototype_character_shadow_16: 1746486351590007514
+      prototype_character_shadow_17: -1173110535818486156
+      prototype_character_shadow_18: 8601439749106216861
+      prototype_character_shadow_19: 1337157310069270696
+      prototype_character_shadow_2: -6497163346179746890
+      prototype_character_shadow_20: 8430925413321648758
+      prototype_character_shadow_21: 1529510912931481637
+      prototype_character_shadow_22: -3192310531973651889
+      prototype_character_shadow_23: 2894377661216782950
+      prototype_character_shadow_24: -4324959515040391721
+      prototype_character_shadow_25: 6626909847953835552
+      prototype_character_shadow_26: -5820990821566841962
+      prototype_character_shadow_27: -3828387282135515137
+      prototype_character_shadow_28: 3543954333221217461
+      prototype_character_shadow_29: -6139742985727866942
+      prototype_character_shadow_3: 2526655029424305747
+      prototype_character_shadow_30: 567884884305791370
+      prototype_character_shadow_31: 6508313726110183032
+      prototype_character_shadow_32: -4348202603614803155
+      prototype_character_shadow_4: -8729292773236052577
+      prototype_character_shadow_5: 7813407186040052759
+      prototype_character_shadow_6: 7820812612316080712
+      prototype_character_shadow_7: -7253044882378548490
+      prototype_character_shadow_8: -2349540326964598727
+      prototype_character_shadow_9: -3433728137093310281
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
