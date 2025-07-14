@@ -9,6 +9,11 @@ public class PlayerController : MonoBehaviour
         Direction = new Vector2(
             Input.GetAxisRaw("Horizontal"),
             Input.GetAxisRaw("Vertical")
-        );
+        ).normalized;
+
+        if (Input.GetButtonDown("Interact"))
+        {
+            SendMessage("OnInteractPressed");
+        }
     }
 }
