@@ -268,7 +268,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -282,7 +282,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -331,15 +331,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: post-apoc-office-furniture_0
+      name: post-apoc-office-paper-01
       rect:
         serializedVersion: 2
-        x: 5
-        y: 415
-        width: 12
-        height: 14
+        x: 6
+        y: 416
+        width: 10
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -353,15 +353,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_1
+      name: post-apoc-office-paper-02
       rect:
         serializedVersion: 2
-        x: 31
-        y: 415
-        width: 12
-        height: 14
+        x: 32
+        y: 416
+        width: 10
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -375,15 +375,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_2
+      name: post-apoc-office-paper-03
       rect:
         serializedVersion: 2
-        x: 68
-        y: 415
-        width: 13
-        height: 16
+        x: 69
+        y: 416
+        width: 11
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -397,15 +397,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_3
+      name: post-apoc-office-paper-04
       rect:
         serializedVersion: 2
-        x: 100
-        y: 415
-        width: 13
-        height: 13
+        x: 101
+        y: 416
+        width: 11
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -419,15 +419,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_4
+      name: post-apoc-office-paper-05
       rect:
         serializedVersion: 2
-        x: 132
-        y: 417
-        width: 13
-        height: 16
+        x: 133
+        y: 418
+        width: 11
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -441,15 +441,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_5
+      name: post-apoc-office-paper-06
       rect:
         serializedVersion: 2
-        x: 164
-        y: 417
-        width: 13
-        height: 16
+        x: 165
+        y: 418
+        width: 11
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -463,15 +463,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_6
+      name: post-apoc-office-paper-07
       rect:
         serializedVersion: 2
-        x: 192
-        y: 416
-        width: 16
-        height: 16
+        x: 193
+        y: 417
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -485,15 +485,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_7
+      name: post-apoc-office-paper-08
       rect:
         serializedVersion: 2
-        x: 224
-        y: 416
-        width: 16
-        height: 16
+        x: 225
+        y: 417
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -507,15 +507,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_8
+      name: post-apoc-office-paper-09
       rect:
         serializedVersion: 2
-        x: 257
-        y: 416
-        width: 13
-        height: 13
+        x: 258
+        y: 417
+        width: 11
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -529,15 +529,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_9
+      name: post-apoc-office-paper-10
       rect:
         serializedVersion: 2
-        x: 288
-        y: 427
-        width: 17
-        height: 21
+        x: 289
+        y: 428
+        width: 15
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -551,15 +551,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_10
+      name: post-apoc-office-paper-11
       rect:
         serializedVersion: 2
-        x: 320
-        y: 416
-        width: 16
-        height: 13
+        x: 321
+        y: 417
+        width: 14
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -573,15 +573,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_11
+      name: post-apoc-office-window-01
       rect:
         serializedVersion: 2
-        x: 1
-        y: 357
-        width: 45
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2
+        y: 358
+        width: 43
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -595,15 +595,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_12
+      name: post-apoc-office-window-02
       rect:
         serializedVersion: 2
-        x: 65
-        y: 357
-        width: 45
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 66
+        y: 358
+        width: 43
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -617,15 +617,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_13
+      name: post-apoc-office-window-03
       rect:
         serializedVersion: 2
-        x: 129
-        y: 357
-        width: 45
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 130
+        y: 358
+        width: 43
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -639,15 +639,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_14
+      name: post-apoc-office-wall-clock
       rect:
         serializedVersion: 2
-        x: 197
-        y: 390
-        width: 21
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 198
+        y: 391
+        width: 19
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -661,15 +661,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_15
+      name: post-apoc-office-shelf-01
       rect:
         serializedVersion: 2
-        x: 225
-        y: 354
-        width: 47
-        height: 63
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 226
+        y: 355
+        width: 45
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -683,15 +683,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_16
+      name: post-apoc-office-shelf-02
       rect:
         serializedVersion: 2
-        x: 289
-        y: 351
-        width: 47
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 290
+        y: 352
+        width: 45
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -705,15 +705,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_17
+      name: post-apoc-office-paper-12
       rect:
         serializedVersion: 2
-        x: 191
-        y: 354
-        width: 17
-        height: 15
+        x: 192
+        y: 355
+        width: 15
+        height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -727,15 +727,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_18
+      name: post-apoc-office-desk-side-01
       rect:
         serializedVersion: 2
         x: 0
-        y: 288
-        width: 24
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 289
+        width: 23
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -749,15 +749,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_19
+      name: post-apoc-office-desk-back-01
       rect:
         serializedVersion: 2
-        x: 31
-        y: 288
-        width: 50
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 32
+        y: 289
+        width: 48
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -771,15 +771,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_20
+      name: post-apoc-office-desk-front-01
       rect:
         serializedVersion: 2
-        x: 95
-        y: 292
-        width: 50
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 96
+        y: 293
+        width: 48
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -793,15 +793,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_21
+      name: post-apoc-office-desk-front-drawer-open-01
       rect:
         serializedVersion: 2
-        x: 159
-        y: 292
-        width: 50
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 160
+        y: 293
+        width: 48
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -815,15 +815,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_22
+      name: post-apoc-office-shelf-03
       rect:
         serializedVersion: 2
-        x: 224
-        y: 289
-        width: 47
-        height: 63
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 225
+        y: 290
+        width: 45
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -837,15 +837,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_23
+      name: post-apoc-office-shelf-04
       rect:
         serializedVersion: 2
-        x: 288
-        y: 289
-        width: 47
-        height: 63
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 289
+        y: 290
+        width: 45
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -859,15 +859,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_24
+      name: post-apoc-office-file-cabinet-01
       rect:
         serializedVersion: 2
-        x: 4
-        y: 225
-        width: 24
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5
+        y: 226
+        width: 22
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -881,15 +881,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_25
+      name: post-apoc-office-file-cabinet-open-01
       rect:
         serializedVersion: 2
-        x: 36
-        y: 225
-        width: 24
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 37
+        y: 226
+        width: 22
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -903,15 +903,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_26
+      name: post-apoc-office-file-cabinet-open-02
       rect:
         serializedVersion: 2
-        x: 68
-        y: 223
-        width: 24
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 69
+        y: 224
+        width: 22
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -925,15 +925,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_27
+      name: post-apoc-office-file-cabinet-02
       rect:
         serializedVersion: 2
-        x: 100
-        y: 225
-        width: 24
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 101
+        y: 226
+        width: 22
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -947,15 +947,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_28
+      name: post-apoc-office-file-cabinet-open-03
       rect:
         serializedVersion: 2
-        x: 132
-        y: 225
-        width: 24
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 133
+        y: 226
+        width: 22
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -969,15 +969,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_29
+      name: post-apoc-office-file-cabinet-open-04
       rect:
         serializedVersion: 2
-        x: 164
-        y: 223
-        width: 24
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 165
+        y: 224
+        width: 22
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -991,15 +991,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_30
+      name: post-apoc-office-folder-top
       rect:
         serializedVersion: 2
-        x: 200
-        y: 275
-        width: 16
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 201
+        y: 276
+        width: 14
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1013,15 +1013,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_31
+      name: post-apoc-office-shelf-05
       rect:
         serializedVersion: 2
-        x: 225
-        y: 225
-        width: 47
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 226
+        y: 226
+        width: 45
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1035,15 +1035,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_32
+      name: post-apoc-office-shelf-06
       rect:
         serializedVersion: 2
-        x: 289
-        y: 159
-        width: 47
-        height: 130
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 290
+        y: 224
+        width: 45
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1057,15 +1057,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_33
+      name: post-apoc-office-folder-top-open
       rect:
         serializedVersion: 2
-        x: 200
-        y: 262
-        width: 16
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 201
+        y: 263
+        width: 14
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1079,15 +1079,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_34
+      name: post-apoc-office-folder
       rect:
         serializedVersion: 2
-        x: 192
-        y: 225
-        width: 16
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 193
+        y: 226
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1101,15 +1101,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_35
+      name: post-apoc-office-shelf-07
       rect:
         serializedVersion: 2
-        x: 225
-        y: 161
-        width: 47
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 226
+        y: 162
+        width: 45
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1123,15 +1123,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_36
+      name: post-apoc-office-desk-side-02
       rect:
         serializedVersion: 2
         x: 0
-        y: 161
-        width: 24
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 162
+        width: 23
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1145,15 +1145,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_37
+      name: post-apoc-office-desk-back-02
       rect:
         serializedVersion: 2
-        x: 31
-        y: 161
-        width: 50
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 32
+        y: 162
+        width: 48
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1167,15 +1167,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_38
+      name: post-apoc-office-desk-front-02
       rect:
         serializedVersion: 2
-        x: 95
-        y: 165
-        width: 50
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 96
+        y: 166
+        width: 48
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1189,15 +1189,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_39
+      name: post-apoc-office-desk-front-drawer-open-02
       rect:
         serializedVersion: 2
-        x: 159
-        y: 165
-        width: 50
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 160
+        y: 166
+        width: 48
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1211,15 +1211,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_40
+      name: post-apoc-office-chair-large-front-01
       rect:
         serializedVersion: 2
-        x: 7
-        y: 121
-        width: 19
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 8
+        y: 122
+        width: 17
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1233,15 +1233,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_41
+      name: post-apoc-office-chair-large-back-01
       rect:
         serializedVersion: 2
-        x: 38
-        y: 95
-        width: 19
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 39
+        y: 96
+        width: 17
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1255,15 +1255,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_42
+      name: post-apoc-office-chair-large-right-01
       rect:
         serializedVersion: 2
-        x: 63
-        y: 105
-        width: 19
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 106
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1277,15 +1277,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_43
+      name: post-apoc-office-chair-large-left-01
       rect:
         serializedVersion: 2
-        x: 110
-        y: 105
-        width: 19
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 111
+        y: 106
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1299,15 +1299,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_44
+      name: post-apoc-office-chair-large-front-02
       rect:
         serializedVersion: 2
-        x: 135
-        y: 121
-        width: 19
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 136
+        y: 122
+        width: 17
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1321,15 +1321,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_45
+      name: post-apoc-office-chair-large-back-02
       rect:
         serializedVersion: 2
-        x: 166
-        y: 95
-        width: 19
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 167
+        y: 96
+        width: 17
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1343,15 +1343,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_46
+      name: post-apoc-office-chair-large-right-02
       rect:
         serializedVersion: 2
-        x: 192
-        y: 106
-        width: 19
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 193
+        y: 107
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1365,15 +1365,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_47
+      name: post-apoc-office-chair-large-left-02
       rect:
         serializedVersion: 2
-        x: 237
-        y: 106
-        width: 19
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 238
+        y: 107
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1387,15 +1387,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_48
+      name: post-apoc-office-shelf-books-01
       rect:
         serializedVersion: 2
-        x: 255
-        y: 113
-        width: 18
-        height: 13
+        x: 256
+        y: 114
+        width: 16
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1409,15 +1409,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_49
+      name: post-apoc-office-shelf-books-02
       rect:
         serializedVersion: 2
-        x: 275
-        y: 113
-        width: 10
-        height: 13
+        x: 276
+        y: 114
+        width: 8
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1431,15 +1431,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_50
+      name: post-apoc-office-shelf-books-03
       rect:
         serializedVersion: 2
-        x: 289
-        y: 113
-        width: 13
-        height: 13
+        x: 290
+        y: 114
+        width: 11
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1453,15 +1453,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_51
+      name: post-apoc-office-chair-front-01
       rect:
         serializedVersion: 2
-        x: 0
-        y: 63
-        width: 17
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1
+        y: 64
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1475,15 +1475,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_52
+      name: post-apoc-office-chair-right-01
       rect:
         serializedVersion: 2
-        x: 63
-        y: 63
-        width: 18
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 64
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1497,15 +1497,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_53
+      name: post-apoc-office-chair-left-01
       rect:
         serializedVersion: 2
-        x: 95
-        y: 63
-        width: 18
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 96
+        y: 64
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1519,15 +1519,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_54
+      name: post-apoc-office-chair-front-02
       rect:
         serializedVersion: 2
-        x: 128
-        y: 63
-        width: 17
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 129
+        y: 64
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1541,15 +1541,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_55
+      name: post-apoc-office-chair-right-02
       rect:
         serializedVersion: 2
-        x: 190
-        y: 63
-        width: 19
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 191
+        y: 64
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1563,15 +1563,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_56
+      name: post-apoc-office-chair-left-02
       rect:
         serializedVersion: 2
-        x: 223
-        y: 63
-        width: 19
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 224
+        y: 64
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1585,15 +1585,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_57
+      name: post-apoc-office-shelf-books-04
       rect:
         serializedVersion: 2
-        x: 256
-        y: 97
-        width: 7
-        height: 13
+        x: 257
+        y: 98
+        width: 5
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1607,15 +1607,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_58
+      name: post-apoc-office-shelf-books-05
       rect:
         serializedVersion: 2
-        x: 263
-        y: 97
-        width: 10
-        height: 13
+        x: 264
+        y: 98
+        width: 8
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1629,15 +1629,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_59
+      name: post-apoc-office-shelf-books-06
       rect:
         serializedVersion: 2
-        x: 274
-        y: 97
-        width: 14
-        height: 13
+        x: 275
+        y: 98
+        width: 12
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1651,15 +1651,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_60
+      name: post-apoc-office-cpu-gabinet
       rect:
         serializedVersion: 2
-        x: 284
-        y: 70
-        width: 12
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 285
+        y: 71
+        width: 10
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1673,15 +1673,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_61
+      name: post-apoc-office-shelf-books-07
       rect:
         serializedVersion: 2
-        x: 288
-        y: 97
-        width: 11
-        height: 13
+        x: 289
+        y: 98
+        width: 9
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1695,15 +1695,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_62
+      name: post-apoc-office-chair-back-01
       rect:
         serializedVersion: 2
-        x: 32
-        y: 63
-        width: 17
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 33
+        y: 64
+        width: 15
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1717,15 +1717,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_63
+      name: post-apoc-office-chair-back-02
       rect:
         serializedVersion: 2
-        x: 159
-        y: 63
-        width: 17
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 160
+        y: 64
+        width: 15
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1739,15 +1739,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_64
+      name: post-apoc-office-monitor
       rect:
         serializedVersion: 2
-        x: 261
-        y: 74
-        width: 22
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 262
+        y: 75
+        width: 20
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1761,15 +1761,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_65
+      name: post-apoc-office-keyboard
       rect:
         serializedVersion: 2
-        x: 263
-        y: 63
-        width: 20
-        height: 12
+        x: 264
+        y: 64
+        width: 18
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1783,15 +1783,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_66
+      name: post-apoc-office-flop-disk
       rect:
         serializedVersion: 2
-        x: 295
-        y: 66
-        width: 8
-        height: 8
+        x: 296
+        y: 67
+        width: 6
+        height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1805,15 +1805,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_67
+      name: post-apoc-office-mouse
       rect:
         serializedVersion: 2
-        x: 288
-        y: 63
-        width: 8
-        height: 8
+        x: 289
+        y: 64
+        width: 6
+        height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1827,15 +1827,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_68
+      name: post-apoc-office-water-cooler
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 17
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 16
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1849,15 +1849,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_69
+      name: post-apoc-office-gallon-01
       rect:
         serializedVersion: 2
-        x: 32
+        x: 33
         y: 0
-        width: 17
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1871,15 +1871,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_70
+      name: post-apoc-office-gallon-02
       rect:
         serializedVersion: 2
-        x: 64
+        x: 65
         y: 0
-        width: 17
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1893,15 +1893,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_71
+      name: post-apoc-office-plant-01
       rect:
         serializedVersion: 2
-        x: 100
-        y: 1
-        width: 23
+        x: 101
+        y: 0
+        width: 24
         height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1915,37 +1915,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_72
+      name: post-apoc-office-plant-02
       rect:
         serializedVersion: 2
-        x: 119
-        y: 0
-        width: 7
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 81f60d709aae98470800000000000000
-      internalID: 8397500991910473496
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: post-apoc-office-furniture_73
-      rect:
-        serializedVersion: 2
-        x: 129
-        y: 0
-        width: 13
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 130
+        y: 1
+        width: 11
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1959,15 +1937,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_74
+      name: post-apoc-office-plant-03
       rect:
         serializedVersion: 2
-        x: 164
+        x: 165
         y: 0
-        width: 22
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1981,15 +1959,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_75
+      name: post-apoc-office-plant-04
       rect:
         serializedVersion: 2
-        x: 194
+        x: 195
         y: 0
-        width: 27
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2003,15 +1981,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_76
+      name: post-apoc-office-plant-05
       rect:
         serializedVersion: 2
-        x: 228
+        x: 229
         y: 0
-        width: 26
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2025,15 +2003,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: post-apoc-office-furniture_77
+      name: post-apoc-office-plant-06
       rect:
         serializedVersion: 2
-        x: 260
+        x: 261
         y: 0
-        width: 25
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 23
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2046,11 +2024,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: post-apoc-office-shelf-08
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 160
+        width: 45
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dd2cc16bb8b934d923bee44b59a8f0
+      internalID: 210616545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d29618ecd4556914ba626dd0efea648a
     internalID: 0
     vertices: []
     indices: 
@@ -2059,7 +2059,85 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      post-apoc-office-chair-back-01: 2614938797501421027
+      post-apoc-office-chair-back-02: -1162513539422255558
+      post-apoc-office-chair-front-01: -3458217832072219973
+      post-apoc-office-chair-front-02: -2626819860384151178
+      post-apoc-office-chair-large-back-01: 8458376748348164613
+      post-apoc-office-chair-large-back-02: 6837506736848116189
+      post-apoc-office-chair-large-front-01: -2401400885444798510
+      post-apoc-office-chair-large-front-02: -5055908635491009841
+      post-apoc-office-chair-large-left-01: -748612231394329021
+      post-apoc-office-chair-large-left-02: -2135734105032196242
+      post-apoc-office-chair-large-right-01: -4785607100190798719
+      post-apoc-office-chair-large-right-02: -594257900199164265
+      post-apoc-office-chair-left-01: -7650675291456762062
+      post-apoc-office-chair-left-02: -1833912775128902198
+      post-apoc-office-chair-right-01: 4632018725668999787
+      post-apoc-office-chair-right-02: 3224111748528520746
+      post-apoc-office-cpu-gabinet: -1943309106862336074
+      post-apoc-office-desk-back-01: 5181425727917154925
+      post-apoc-office-desk-back-02: 1186481020399782955
+      post-apoc-office-desk-front-01: -2684476404817853161
+      post-apoc-office-desk-front-02: -7031850820545737761
+      post-apoc-office-desk-front-drawer-open-01: 3873022455251262341
+      post-apoc-office-desk-front-drawer-open-02: -4658912114720268106
+      post-apoc-office-desk-side-01: -8568724436851561668
+      post-apoc-office-desk-side-02: 277636685252406346
+      post-apoc-office-file-cabinet-01: -2452902353534328684
+      post-apoc-office-file-cabinet-02: 2227986817125142417
+      post-apoc-office-file-cabinet-open-01: 7284816470981169040
+      post-apoc-office-file-cabinet-open-02: 7719942003958100598
+      post-apoc-office-file-cabinet-open-03: 4353427550861999825
+      post-apoc-office-file-cabinet-open-04: 3212982058793210719
+      post-apoc-office-flop-disk: -6180192517758550673
+      post-apoc-office-folder: 7213359186615995523
+      post-apoc-office-folder-top: -2478150882002121720
+      post-apoc-office-folder-top-open: 2950660428921862324
+      post-apoc-office-gallon-01: -4465907418366147930
+      post-apoc-office-gallon-02: 1981523800932339191
+      post-apoc-office-keyboard: 6657472641882879811
+      post-apoc-office-monitor: -8630966882043276357
+      post-apoc-office-mouse: -8701299525533863548
+      post-apoc-office-paper-01: -1971151854334176207
+      post-apoc-office-paper-02: -353322862376196550
+      post-apoc-office-paper-03: 2152177722281213985
+      post-apoc-office-paper-04: 1755959583454467815
+      post-apoc-office-paper-05: 1956894301686086821
+      post-apoc-office-paper-06: 2745957432637181304
+      post-apoc-office-paper-07: -4895295662553921256
+      post-apoc-office-paper-08: -27661264139970035
+      post-apoc-office-paper-09: 5160093248766275416
+      post-apoc-office-paper-10: 267415609685056238
+      post-apoc-office-paper-11: 8376043803492907854
+      post-apoc-office-paper-12: 6095553721823483028
+      post-apoc-office-plant-01: 8111233281663372603
+      post-apoc-office-plant-02: 6939340254787234453
+      post-apoc-office-plant-03: 3176721617987032857
+      post-apoc-office-plant-04: -7998133573474379310
+      post-apoc-office-plant-05: -8133868025092493022
+      post-apoc-office-plant-06: -4396278475720110083
+      post-apoc-office-shelf-01: 857158418951657044
+      post-apoc-office-shelf-02: 5110132461819828739
+      post-apoc-office-shelf-03: -4313147531797505845
+      post-apoc-office-shelf-04: -2736290700859198146
+      post-apoc-office-shelf-05: -1472522689899603609
+      post-apoc-office-shelf-06: -4892057577316746309
+      post-apoc-office-shelf-07: 9109047577548521589
+      post-apoc-office-shelf-08: 210616545
+      post-apoc-office-shelf-books-01: 874582532800299935
+      post-apoc-office-shelf-books-02: 9120140652348389972
+      post-apoc-office-shelf-books-03: 7212479886846813806
+      post-apoc-office-shelf-books-04: 462487209564298077
+      post-apoc-office-shelf-books-05: 6385177374979143108
+      post-apoc-office-shelf-books-06: 3627361564803680776
+      post-apoc-office-shelf-books-07: 6875435501386378851
+      post-apoc-office-wall-clock: -1547768014713006323
+      post-apoc-office-water-cooler: -7622936569891533940
+      post-apoc-office-window-01: 3788981620488085931
+      post-apoc-office-window-02: 457708712621570088
+      post-apoc-office-window-03: -3035040993786124668
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
