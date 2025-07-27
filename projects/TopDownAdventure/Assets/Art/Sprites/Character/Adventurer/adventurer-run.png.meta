@@ -1,151 +1,151 @@
 fileFormatVersion: 2
-guid: 91be0b11f6509ac44bcf88a5adbc01d7
+guid: 45a7674097733a843aca60f5862291ef
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8793639957104055765
-    second: idle_0
+      213: -1882347247711912902
+    second: run_0
   - first:
-      213: 6084859605308855041
-    second: idle_1
+      213: 7439426567979852956
+    second: run_1
   - first:
-      213: 8603369663158992956
-    second: idle_2
+      213: -2673560216460186399
+    second: run_2
   - first:
-      213: -5906421172241655209
-    second: idle_3
+      213: -5822559823783948592
+    second: run_3
   - first:
-      213: 5704420531145803721
-    second: idle_4
+      213: -4997308686002322044
+    second: run_4
   - first:
-      213: -148617073940163930
-    second: idle_5
+      213: -7808277857516635856
+    second: run_5
   - first:
-      213: 4729606205655721961
-    second: idle_6
+      213: 2102408166121253023
+    second: run_6
   - first:
-      213: -2073685336235588006
-    second: idle_7
+      213: -828024806730890176
+    second: run_7
   - first:
-      213: 512795395688303107
-    second: idle_8
+      213: 7319402618797355783
+    second: run_8
   - first:
-      213: 5667770778836351527
-    second: idle_9
+      213: -5877058464083753606
+    second: run_9
   - first:
-      213: -1480364998338425778
-    second: idle_10
+      213: 3003789169655790119
+    second: run_10
   - first:
-      213: -189419392851352084
-    second: idle_11
+      213: -6092536456907055262
+    second: run_11
   - first:
-      213: 2253685004373748758
-    second: idle_12
+      213: -1445699202850245649
+    second: run_12
   - first:
-      213: 275251749332817211
-    second: idle_13
+      213: 907984458040544535
+    second: run_13
   - first:
-      213: -2717920588507469212
-    second: idle_14
+      213: -4766322925986528201
+    second: run_14
   - first:
-      213: -928564814986837825
-    second: idle_15
+      213: -6854862752865071187
+    second: run_15
   - first:
-      213: 1047728824233847905
-    second: idle_16
+      213: 3879836991898358431
+    second: run_16
   - first:
-      213: -526835129060445694
-    second: idle_17
+      213: 9202457461379119610
+    second: run_17
   - first:
-      213: 5896261190451672117
-    second: idle_18
+      213: -1754890470619349162
+    second: run_18
   - first:
-      213: -8256383322693916834
-    second: idle_19
+      213: 648780840753495446
+    second: run_19
   - first:
-      213: -8410472694813616623
-    second: idle_20
+      213: 8627970810205435543
+    second: run_20
   - first:
-      213: -3655621501393774895
-    second: idle_21
+      213: -7909159425575924447
+    second: run_21
   - first:
-      213: -3185995270805410201
-    second: idle_22
+      213: 7513681151204646855
+    second: run_22
   - first:
-      213: -6334799096112948352
-    second: idle_23
+      213: -7229719848496543997
+    second: run_23
   - first:
-      213: -2134340880611598165
-    second: idle_24
+      213: -1095120907898008938
+    second: run_24
   - first:
-      213: -2151818530499332596
-    second: idle_25
+      213: 5009934392725751624
+    second: run_25
   - first:
-      213: 3051071556821484571
-    second: idle_26
+      213: -4387630390007428758
+    second: run_26
   - first:
-      213: -5705869721440319331
-    second: idle_27
+      213: 2200832529092513949
+    second: run_27
   - first:
-      213: 7168834123846226226
-    second: idle_28
+      213: -8813461055207606912
+    second: run_28
   - first:
-      213: -5112156401277642946
-    second: idle_29
+      213: -3092210466297149792
+    second: run_29
   - first:
-      213: -4904485453230194659
-    second: idle_30
+      213: 2864760106744397359
+    second: run_30
   - first:
-      213: 929150727014594773
-    second: idle_31
+      213: 6989817996749610671
+    second: run_31
   - first:
-      213: -8898634129254946022
-    second: idle_32
+      213: -5362260715865855533
+    second: run_32
   - first:
-      213: -1574576503455686002
-    second: idle_33
+      213: 8425027539696852754
+    second: run_33
   - first:
-      213: 6367498201634126667
-    second: idle_34
+      213: 9008435307391143687
+    second: run_34
   - first:
-      213: -7207429827535173402
-    second: idle_35
+      213: -5763861960194787239
+    second: run_35
   - first:
-      213: -8215856964752772259
-    second: idle_36
+      213: 6224300156357728231
+    second: run_36
   - first:
-      213: -6871614914986685141
-    second: idle_37
+      213: 32177205922314166
+    second: run_37
   - first:
-      213: 532023552575573989
-    second: idle_38
+      213: -1015690269202773086
+    second: run_38
   - first:
-      213: -3490280450085971560
-    second: idle_39
+      213: -4498452775212361763
+    second: run_39
   - first:
-      213: 2973940874069163354
-    second: idle_40
+      213: -2746718700997727627
+    second: run_40
   - first:
-      213: -3547867813687463170
-    second: idle_41
+      213: -3973361637204257902
+    second: run_41
   - first:
-      213: 3838556530734163676
-    second: idle_42
+      213: 946209580811554799
+    second: run_42
   - first:
-      213: -1499976257121873182
-    second: idle_43
+      213: -9126525504771559597
+    second: run_43
   - first:
-      213: 168846979551174993
-    second: idle_44
+      213: -5316219330477369426
+    second: run_44
   - first:
-      213: 1848214276972832728
-    second: idle_45
+      213: 6478356788283350345
+    second: run_45
   - first:
-      213: -5438464607267775908
-    second: idle_46
+      213: 8376086430841280738
+    second: run_46
   - first:
-      213: -2162490490912676814
-    second: idle_47
+      213: 4361805695612429121
+    second: run_47
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -213,7 +213,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 1024
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -241,7 +241,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: adventurer-idle-down-01
+      name: adventurer-run-down-01
       rect:
         serializedVersion: 2
         x: 0
@@ -256,14 +256,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: edeb2b2fbea7dc34fbaf2e270169f0f0
-      internalID: -1021970066
+      spriteID: 4e47c7eb037dfd940a10d393e3bc1724
+      internalID: -2522022
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-down-02
+      name: adventurer-run-down-02
       rect:
         serializedVersion: 2
         x: 48
@@ -278,14 +278,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c7be6782481ac044973150381b1ec04
-      internalID: -600391797
+      spriteID: 63c56b9755a09f4408e54447181fb1af
+      internalID: -487331806
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-down-03
+      name: adventurer-run-down-03
       rect:
         serializedVersion: 2
         x: 96
@@ -300,14 +300,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7b2f13ebab740a4a9a2e7e666d1cfa4
-      internalID: 1723660081
+      spriteID: 94e52b7049ae0fe48bd9251091be48a2
+      internalID: 651356296
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-down-04
+      name: adventurer-run-down-04
       rect:
         serializedVersion: 2
         x: 144
@@ -322,14 +322,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddba26cfc7d216740a658d305e1df44e
-      internalID: -325646392
+      spriteID: 82b0878fb0f37244683733fd0f7db0d9
+      internalID: 1862114269
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-down-05
+      name: adventurer-run-down-05
       rect:
         serializedVersion: 2
         x: 192
@@ -344,14 +344,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 944cd007188f57d47ac2543602f8cf35
-      internalID: -9840633
+      spriteID: aee3028ce5b03e248af4a253d02b9348
+      internalID: 607294169
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-down-06
+      name: adventurer-run-down-06
       rect:
         serializedVersion: 2
         x: 240
@@ -366,14 +366,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce7c96087ce30e84c83f069881672813
-      internalID: 1521560783
+      spriteID: f76a59cee179b0248ba563b67c6e3c56
+      internalID: -275698886
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-down-07
+      name: adventurer-run-down-07
       rect:
         serializedVersion: 2
         x: 288
@@ -388,14 +388,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1938c8a6ab569324b98e8a0d150f2469
-      internalID: 82484977
+      spriteID: 9d59ca68b0686dc4db02e151d45c11ec
+      internalID: -383195198
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-down-08
+      name: adventurer-run-down-08
       rect:
         serializedVersion: 2
         x: 336
@@ -410,366 +410,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9dfd51a6220683a4082a6abe3476a36f
-      internalID: -1857197316
+      spriteID: ad27c2af3f4a0794c9043e27dc8ca784
+      internalID: 493673456
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-up-01
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 128
-        width: 48
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.32}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6fcf7b73530bb0949b40614c32db4173
-      internalID: 266619741
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: adventurer-idle-up-02
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 128
-        width: 48
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.32}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2f7f30bde4e911a4290e9cffd71907f8
-      internalID: -1460405741
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: adventurer-idle-up-03
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 128
-        width: 48
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.32}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9d81103fa756d994c9342f9146352053
-      internalID: 1807421127
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: adventurer-idle-up-04
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 128
-        width: 48
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.32}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f9c32520f2b1ff84c8dd0a5584ca187a
-      internalID: 1002282312
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: adventurer-idle-up-05
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 128
-        width: 48
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.32}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 26b5cc74e34041045bc817c65a53e0a6
-      internalID: -1021173656
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: adventurer-idle-up-06
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 128
-        width: 48
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.32}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 87fb6349438b0a64489a81fbea68d45e
-      internalID: -1981075466
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: adventurer-idle-up-07
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 128
-        width: 48
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.32}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2c31f193918c4934bbc057be3b641725
-      internalID: -351931233
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: adventurer-idle-up-08
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 128
-        width: 48
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.32}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 44db7a0660c426d49a7ae992e152c373
-      internalID: -524254311
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: adventurer-idle-right-down-01
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 48
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.32}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 96314963f3e6e0a4ab14fe59b17f3551
-      internalID: -172336285
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: adventurer-idle-right-down-02
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 0
-        width: 48
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.32}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c1a00f18f9c39fb4da0cdd88ac3d4d44
-      internalID: -614195720
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: adventurer-idle-right-down-03
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 48
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.32}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 03c66bea9e2b3db4da52a52d26eb7d4d
-      internalID: -1739295318
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: adventurer-idle-right-down-04
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 0
-        width: 48
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.32}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fe04a13b8f5fa0d48a417f593eb977ec
-      internalID: 1664760872
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: adventurer-idle-right-down-05
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 48
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.32}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97db25f74cc13474399f15fb9b7959ea
-      internalID: -1660734625
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: adventurer-idle-right-down-06
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 0
-        width: 48
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.32}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f0ff4c9f726f2484bbd300424809189b
-      internalID: 1641656807
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: adventurer-idle-right-down-07
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 0
-        width: 48
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.32}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a20dfe5cd42e5f8439e6023833d4b2bc
-      internalID: -1679092541
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: adventurer-idle-right-down-08
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 0
-        width: 48
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.32}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9bab54156482b5148b032f67117908a3
-      internalID: 202919906
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: adventurer-idle-left-down-01
+      name: adventurer-run-left-down-01
       rect:
         serializedVersion: 2
         x: 0
@@ -784,14 +432,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c30067133fd7dec4fb2963cbca57a9b8
-      internalID: -1533651728
+      spriteID: 8756109647bfbfb47b9615821d8c8124
+      internalID: 1838929950
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-left-down-02
+      name: adventurer-run-left-down-02
       rect:
         serializedVersion: 2
         x: 48
@@ -806,14 +454,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3039de367226b7543b2b576c0c0fb745
-      internalID: 1667286231
+      spriteID: e1d079024228f424e9becd3f8d588ccb
+      internalID: 582384780
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-left-down-03
+      name: adventurer-run-left-down-03
       rect:
         serializedVersion: 2
         x: 96
@@ -828,14 +476,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1803c9788f610ff4f989bdde688d9ffe
-      internalID: -240122096
+      spriteID: accfe5d59a3e13942ab087b1e41d190e
+      internalID: 2144947111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-left-down-04
+      name: adventurer-run-left-down-04
       rect:
         serializedVersion: 2
         x: 144
@@ -850,14 +498,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5af296979a47524e8359b1c58264c75
-      internalID: 71017734
+      spriteID: 5e305d0c734d4fd4693b15da95b244d4
+      internalID: -754033999
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-left-down-05
+      name: adventurer-run-left-down-05
       rect:
         serializedVersion: 2
         x: 192
@@ -872,14 +520,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28d26e347f85a5a4cb873a82fa9dd451
-      internalID: 988599838
+      spriteID: c9ac7fc99a8243e46a318a813b8d19db
+      internalID: -1021321400
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-left-down-06
+      name: adventurer-run-left-down-06
       rect:
         serializedVersion: 2
         x: 240
@@ -894,14 +542,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8f0b7015aab1b946b1c77ea51beb450
-      internalID: -136772958
+      spriteID: cb5b838aaef6d5d44b4fbbb8a77a1032
+      internalID: -1606064984
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-left-down-07
+      name: adventurer-run-left-down-07
       rect:
         serializedVersion: 2
         x: 288
@@ -916,14 +564,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38da4222c6b55e442a62f43d6b550fc5
-      internalID: -708650689
+      spriteID: b0d4a06b628eee34d8de2a6dafe3b1d4
+      internalID: -1470650430
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-left-down-08
+      name: adventurer-run-left-down-08
       rect:
         serializedVersion: 2
         x: 336
@@ -938,14 +586,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 557ff8dd2d60c084887dedd8ec62ad49
-      internalID: 1118036269
+      spriteID: bf5d3a7a277ef3045bce07599a8efc6f
+      internalID: -1253972603
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-left-up-01
+      name: adventurer-run-left-up-01
       rect:
         serializedVersion: 2
         x: 0
@@ -960,14 +608,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5dad3ddba4249644c81893cd0a481b60
-      internalID: 223498775
+      spriteID: e691afba2b4b1304aa8c938544b4de8a
+      internalID: 184812066
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-left-up-02
+      name: adventurer-run-left-up-02
       rect:
         serializedVersion: 2
         x: 48
@@ -982,14 +630,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9de98b221b209a48923c14fea33d849
-      internalID: -1593655003
+      spriteID: d5df2a7e51e9fa649ab38f34fa87565b
+      internalID: -1887095874
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-left-up-03
+      name: adventurer-run-left-up-03
       rect:
         serializedVersion: 2
         x: 96
@@ -1004,14 +652,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f69fe9ba9da4f224c89de9f026ff20e5
-      internalID: 1881612356
+      spriteID: 907df62e243fe4346b63a855de0287d5
+      internalID: -1129411276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-left-up-04
+      name: adventurer-run-left-up-04
       rect:
         serializedVersion: 2
         x: 144
@@ -1026,14 +674,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28e14b0dcde27764d83379750b30577a
-      internalID: -189340393
+      spriteID: 6ef575b64b852a643b3e007870b4b84a
+      internalID: 1634021354
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-left-up-05
+      name: adventurer-run-left-up-05
       rect:
         serializedVersion: 2
         x: 192
@@ -1048,14 +696,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76064f34951da2d49b7add5e49920692
-      internalID: 1998851315
+      spriteID: 2e6eece2cdfc6374fa7d566f792ba9f4
+      internalID: -409473830
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-left-up-06
+      name: adventurer-run-left-up-06
       rect:
         serializedVersion: 2
         x: 240
@@ -1070,14 +718,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73e275226893900468a6a8f3e04ad848
-      internalID: -1014288083
+      spriteID: 1025c8a190c0db046b1d9b9a764478b8
+      internalID: -2116688515
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-left-up-07
+      name: adventurer-run-left-up-07
       rect:
         serializedVersion: 2
         x: 288
@@ -1092,14 +740,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f13b4768cc06c9745919d998adc9029f
-      internalID: 2049536340
+      spriteID: cb7f5deace05e274abf3be7d193cbbd8
+      internalID: -313471229
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-left-up-08
+      name: adventurer-run-left-up-08
       rect:
         serializedVersion: 2
         x: 336
@@ -1114,14 +762,190 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d76a3cd06ff6fe647bb1dc4f6240d01e
-      internalID: 549289314
+      spriteID: 8a78478bdbc130a41ade21067155b556
+      internalID: -939264441
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-right-up-01
+      name: adventurer-run-up-01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6161c0703e7a8884ca10fa84f4e19b21
+      internalID: 797526974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-run-up-02
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c0358fbe979bd44b35d360c4493baf
+      internalID: -1807708611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-run-up-03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908e98e63606a4a448e9968dfdfb649b
+      internalID: 1998044301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-run-up-04
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6576b45b06e41a84ca9eb4f1d84ce058
+      internalID: 1839828367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-run-up-05
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06df720ea48a26f45aaaf58862bc535e
+      internalID: -1426288643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-run-up-06
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1a74dd656113548a48d25b57d131bc
+      internalID: -1431256945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-run-up-07
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd417b88282c1c47935c0de47144d80
+      internalID: 736140646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-run-up-08
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0d5d3da40eb8642a5ae45b0b14f381
+      internalID: -1850883957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-run-right-up-01
       rect:
         serializedVersion: 2
         x: 0
@@ -1136,14 +960,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7581460305521dd478fe8e97dd853c59
-      internalID: -729119291
+      spriteID: 3f68beddecd9d614a9fb2d903940100b
+      internalID: -13450816
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-right-up-02
+      name: adventurer-run-right-up-02
       rect:
         serializedVersion: 2
         x: 48
@@ -1158,14 +982,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: edc791a3a94d2f645b670ee85d9a728b
-      internalID: -1876038256
+      spriteID: bcad4320f51f86a4fa28e6064f9a95eb
+      internalID: 2126845063
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-right-up-03
+      name: adventurer-run-right-up-03
       rect:
         serializedVersion: 2
         x: 96
@@ -1180,14 +1004,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 151d7b8137d274843a2c0ef3df1930b1
-      internalID: -2081919156
+      spriteID: d7aa5481a52fcb7499bcdf0b8e61b97e
+      internalID: 455523150
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-right-up-04
+      name: adventurer-run-right-up-04
       rect:
         serializedVersion: 2
         x: 144
@@ -1202,14 +1026,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96314e77e0169ed47a4c12e8182e6924
-      internalID: -388474023
+      spriteID: 5fda66828dda06245a69b43abb710425
+      internalID: -1400966197
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-right-up-05
+      name: adventurer-run-right-up-05
       rect:
         serializedVersion: 2
         x: 192
@@ -1224,14 +1048,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4cad9cd2f38cbc44a96b93f5d252228b
-      internalID: 969567740
+      spriteID: 77cb2c7dfcd3fe0448f8f104e922780a
+      internalID: 1636869038
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-right-up-06
+      name: adventurer-run-right-up-06
       rect:
         serializedVersion: 2
         x: 240
@@ -1246,14 +1070,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b35eac0eb4a2104bb2cf02336931e1c
-      internalID: -626958537
+      spriteID: 8e3a063078bb1cf4e834e199771f2fd0
+      internalID: -449262242
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-right-up-07
+      name: adventurer-run-right-up-07
       rect:
         serializedVersion: 2
         x: 288
@@ -1268,14 +1092,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c5fc4bdb8b24fd49b39792f39fce097
-      internalID: -957473291
+      spriteID: 57e972febb78a2b4d91675299e118717
+      internalID: 2051816506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: adventurer-idle-right-up-08
+      name: adventurer-run-right-up-08
       rect:
         serializedVersion: 2
         x: 336
@@ -1290,8 +1114,184 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f07e5754c6df2842b0216d6256300c4
-      internalID: 885632212
+      spriteID: 5c3c2860ad3ab7e49ad534d89932fe3c
+      internalID: 1865454759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-run-right-down-01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4caac574ab12bf4a92941fd8d49cb2d
+      internalID: 390190120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-run-right-down-02
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd85db14bb0bce4f9bf6ac26c3b48a6
+      internalID: -1727547034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-run-right-down-03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9454d4640ed1f244183d42ebbacca353
+      internalID: 108340283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-run-right-down-04
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37746e53069c20047840d9d43e2b27fc
+      internalID: 659183551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-run-right-down-05
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e6bb152a0522a4286f41d3de62753f
+      internalID: -1410423551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-run-right-down-06
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3725c1c7d0b3e4645a3d85b8c01d36fa
+      internalID: 240138055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-run-right-down-07
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962391022c6a0e84c85a59875dc23f5f
+      internalID: 1047367854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-run-right-down-08
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62d9b87d17edaa49b28a6215f58f253
+      internalID: 847762466
       vertices: []
       indices: 
       edges: []
@@ -1300,7 +1300,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 75972d7aa4a7bb740984b120f2c95460
+    spriteID: 6b7254a29c6e8c14bb8de15750c265ce
     internalID: 0
     vertices: []
     indices: 
@@ -1310,62 +1310,54 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      adventurer-idle-down-01: -1021970066
-      adventurer-idle-down-02: -600391797
-      adventurer-idle-down-03: 1723660081
-      adventurer-idle-down-04: -325646392
-      adventurer-idle-down-05: -9840633
-      adventurer-idle-down-06: 1521560783
-      adventurer-idle-down-07: 82484977
-      adventurer-idle-down-08: -1857197316
-      adventurer-idle-left-down-01: -1533651728
-      adventurer-idle-left-down-02: 1667286231
-      adventurer-idle-left-down-03: -240122096
-      adventurer-idle-left-down-04: 71017734
-      adventurer-idle-left-down-05: 988599838
-      adventurer-idle-left-down-06: -136772958
-      adventurer-idle-left-down-07: -708650689
-      adventurer-idle-left-down-08: 1118036269
-      adventurer-idle-left-up-01: 1784985706
-      adventurer-idle-left-up-02: 2053441979
-      adventurer-idle-left-up-03: 1604784162
-      adventurer-idle-left-up-04: -245078023
-      adventurer-idle-left-up-05: 1178411415
-      adventurer-idle-left-up-06: 101800082
-      adventurer-idle-left-up-07: -978572200
-      adventurer-idle-left-up-08: -1579449179
-      adventurer-idle-right-down-01: -172336285
-      adventurer-idle-right-down-02: -614195720
-      adventurer-idle-right-down-03: -1739295318
-      adventurer-idle-right-down-04: 1664760872
-      adventurer-idle-right-down-05: -1660734625
-      adventurer-idle-right-down-06: 1641656807
-      adventurer-idle-right-down-07: -1679092541
-      adventurer-idle-right-down-08: 202919906
-      adventurer-idle-right-up-01: 502600416
-      adventurer-idle-right-up-02: -229088627
-      adventurer-idle-right-up-03: 5300818
-      adventurer-idle-right-up-04: 607881374
-      adventurer-idle-right-up-05: -1480303136
-      adventurer-idle-right-up-06: 909435386
-      adventurer-idle-right-up-07: -640110836
-      adventurer-idle-right-up-08: 2031935102
-      adventurer-idle-up-01: 266619741
-      adventurer-idle-up-02: -1460405741
-      adventurer-idle-up-03: 1807421127
-      adventurer-idle-up-04: 1002282312
-      adventurer-idle-up-05: -1021173656
-      adventurer-idle-up-06: -1981075466
-      adventurer-idle-up-07: -351931233
-      adventurer-idle-up-08: -524254311
-      adventurer-idle_32: 1356478208
-      adventurer-idle_33: 511513600
-      adventurer-idle_34: 521158197
-      adventurer-idle_35: 2034024216
-      adventurer-idle_36: 650861549
-      adventurer-idle_37: 2054535329
-      adventurer-idle_38: -365737583
-      adventurer-idle_39: -1511110606
+      adventurer-run-down-01: -2522022
+      adventurer-run-down-02: -487331806
+      adventurer-run-down-03: 651356296
+      adventurer-run-down-04: 1862114269
+      adventurer-run-down-05: 607294169
+      adventurer-run-down-06: -275698886
+      adventurer-run-down-07: -383195198
+      adventurer-run-down-08: 493673456
+      adventurer-run-left-down-01: 1838929950
+      adventurer-run-left-down-02: 582384780
+      adventurer-run-left-down-03: 2144947111
+      adventurer-run-left-down-04: -754033999
+      adventurer-run-left-down-05: -1021321400
+      adventurer-run-left-down-06: -1606064984
+      adventurer-run-left-down-07: -1470650430
+      adventurer-run-left-down-08: -1253972603
+      adventurer-run-left-up-01: 184812066
+      adventurer-run-left-up-02: -1887095874
+      adventurer-run-left-up-03: -1129411276
+      adventurer-run-left-up-04: 1634021354
+      adventurer-run-left-up-05: -409473830
+      adventurer-run-left-up-06: -2116688515
+      adventurer-run-left-up-07: -313471229
+      adventurer-run-left-up-08: -939264441
+      adventurer-run-right-down-01: 390190120
+      adventurer-run-right-down-02: -1727547034
+      adventurer-run-right-down-03: 108340283
+      adventurer-run-right-down-04: 659183551
+      adventurer-run-right-down-05: -1410423551
+      adventurer-run-right-down-06: 240138055
+      adventurer-run-right-down-07: 1047367854
+      adventurer-run-right-down-08: 847762466
+      adventurer-run-right-up-01: -13450816
+      adventurer-run-right-up-02: 2126845063
+      adventurer-run-right-up-03: 455523150
+      adventurer-run-right-up-04: -1400966197
+      adventurer-run-right-up-05: 1636869038
+      adventurer-run-right-up-06: -449262242
+      adventurer-run-right-up-07: 2051816506
+      adventurer-run-right-up-08: 1865454759
+      adventurer-run-up-01: 797526974
+      adventurer-run-up-02: -1807708611
+      adventurer-run-up-03: 1998044301
+      adventurer-run-up-04: 1839828367
+      adventurer-run-up-05: -1426288643
+      adventurer-run-up-06: -1431256945
+      adventurer-run-up-07: 736140646
+      adventurer-run-up-08: -1850883957
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

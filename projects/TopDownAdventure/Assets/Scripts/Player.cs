@@ -27,16 +27,16 @@ public class Player : MonoBehaviour
 
         character.Move(controller.Direction);
 
-        bool isWalking = controller.Direction != Vector2.zero;
-
-        animator.SetBool("walking", isWalking);
-        if (isWalking)
+        if (character.IsMoving)
         {
             animator.SetFloat("directionX", controller.Direction.x);
             animator.SetFloat("directionY", controller.Direction.y);
 
-            lastDirection = controller.Direction;
+            lastDirection = controller.Direction.normalized;
         }
+
+        animator.SetBool("walking", character.IsWalking);
+        animator.SetBool("running", character.IsRunning);
     }
 
     private void OnInteractPressed()

@@ -16,9 +16,10 @@ public class CameraFollow : MonoBehaviour
         if (target == null) return;
 
         Vector3 currentPos = transform.position;
-        Vector3 targetPos = new Vector3(target.position.x, target.position.y, currentPos.z);
+        Vector3 targetPos = new(target.position.x, target.position.y, currentPos.z);
 
-        float t = smoothCurve.Evaluate(Mathf.Clamp01(speed * Time.deltaTime));
-        transform.position = Vector3.Lerp(currentPos, targetPos, t);
+        // float t = smoothCurve.Evaluate(Mathf.Clamp01(speed * Time.deltaTime));
+        // transform.position = Vector3.Lerp(currentPos, targetPos, t);
+        transform.position = targetPos;
     }
 }

@@ -7,9 +7,9 @@ public class PlayerController : MonoBehaviour
     private void Update()
     {
         Direction = new Vector2(
-            Input.GetAxisRaw("Horizontal"),
-            Input.GetAxisRaw("Vertical")
-        ).normalized;
+            Input.GetAxis("Horizontal"),
+            Input.GetAxis("Vertical")
+        );
 
         if (Input.GetButtonDown("Interact"))
         {
