@@ -6,19 +6,21 @@ public class Player : MonoBehaviour
     [SerializeField] private float interactionDistance = 1.5f;
     [SerializeField] private LayerMask interactableLayer;
 
-    private Vector2 lastDirection;
+    private Vector2 lookDirection = Vector2.down;
     private IInteractable currentInteractable;
     private GameObject currentDetectedObject;
 
     private Animator animator;
     private Character character;
     private PlayerController controller;
+    private Gun gun;
 
     private void Start()
     {
         animator = GetComponent<Animator>();
         character = GetComponent<Character>();
         controller = GetComponent<PlayerController>();
+        gun = GetComponentInChildren<Gun>();
     }
 
     private void Update()
@@ -27,14 +29,18 @@ public class Player : MonoBehaviour
 
         character.Move(controller.Direction);
 
-        if (character.IsMoving)
+        if (character.IsMoving && !controller.IsAiming)
         {
-            animator.SetFloat("directionX", controller.Direction.x);
-            animator.SetFloat("directionY", controller.Direction.y);
-
-            lastDirection = controller.Direction.normalized;
+            lookDirection = controller.Direction.normalized;
         }
 
+        if (controller.IsShooting)
+        {
+            gun.Shoot(lookDirection);
+        }
+
+        animator.SetFloat("directionX", lookDirection.x);
+        animator.SetFloat("directionY", lookDirection.y);
         animator.SetBool("walking", character.IsWalking);
         animator.SetBool("running", character.IsRunning);
     }
@@ -48,10 +54,10 @@ public class Player : MonoBehaviour
     {
         // Cast the ray to the last direction of the Player
         Vector2 origin = transform.position;
-        RaycastHit2D hit = Physics2D.Raycast(origin, lastDirection, interactionDistance, interactableLayer);
+        RaycastHit2D hit = Physics2D.Raycast(origin, lookDirection, interactionDistance, interactableLayer);
 
         // Draw the ray in the Scene;
-        Debug.DrawRay(origin, lastDirection * interactionDistance, Color.red);
+        Debug.DrawRay(origin, lookDirection * interactionDistance, Color.red);
 
         // Clear the detected object if nothing is detected
         if (hit.collider == null)

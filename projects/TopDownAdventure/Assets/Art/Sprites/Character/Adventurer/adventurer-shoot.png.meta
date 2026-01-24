@@ -1,0 +1,723 @@
+fileFormatVersion: 2
+guid: 1562572127f1d7b4dbae532369daf558
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7457285534029003507
+    second: Shooting_0
+  - first:
+      213: 8918371568968425153
+    second: Shooting_1
+  - first:
+      213: -1305546903561347483
+    second: Shooting_2
+  - first:
+      213: 3131248723742346296
+    second: Shooting_3
+  - first:
+      213: 4023185523668063484
+    second: Shooting_4
+  - first:
+      213: -5763318313920906883
+    second: Shooting_5
+  - first:
+      213: -7999966236462187203
+    second: Shooting_6
+  - first:
+      213: 948495297534589331
+    second: Shooting_7
+  - first:
+      213: 6953738415215036880
+    second: Shooting_8
+  - first:
+      213: -57240336968267161
+    second: Shooting_9
+  - first:
+      213: -2701210996242626756
+    second: Shooting_10
+  - first:
+      213: 4331968073624488256
+    second: Shooting_11
+  - first:
+      213: -1135969490387440045
+    second: Shooting_12
+  - first:
+      213: 3517977562766405802
+    second: Shooting_13
+  - first:
+      213: -8710578930917142618
+    second: Shooting_14
+  - first:
+      213: -509060240976409404
+    second: Shooting_15
+  - first:
+      213: 1051042233579541770
+    second: Shooting_16
+  - first:
+      213: -1196610486632180885
+    second: Shooting_17
+  - first:
+      213: 6382759271607838987
+    second: Shooting_18
+  - first:
+      213: 8030108383703192132
+    second: Shooting_19
+  - first:
+      213: -1221182778778719091
+    second: Shooting_20
+  - first:
+      213: 2015859771232536231
+    second: Shooting_21
+  - first:
+      213: -2543149026799427460
+    second: Shooting_22
+  - first:
+      213: -3605830430550289287
+    second: Shooting_23
+  - first:
+      213: 6644915145469379620
+    second: Shooting_24
+  - first:
+      213: 6205241060226748749
+    second: Shooting_25
+  - first:
+      213: -4823128243176282387
+    second: Shooting_26
+  - first:
+      213: 3281368331838979426
+    second: Shooting_27
+  - first:
+      213: -903700795180812219
+    second: Shooting_28
+  - first:
+      213: 7036423469655988575
+    second: Shooting_29
+  - first:
+      213: -6965079858776938230
+    second: Shooting_30
+  - first:
+      213: -1871148631597724621
+    second: Shooting_31
+  - first:
+      213: 4312328211703264151
+    second: Shooting_32
+  - first:
+      213: 217963841282881717
+    second: Shooting_33
+  - first:
+      213: -1710989903331361640
+    second: Shooting_34
+  - first:
+      213: -5296445165733423292
+    second: Shooting_35
+  - first:
+      213: -7609628104730667201
+    second: Shooting_36
+  - first:
+      213: -3052529871787857361
+    second: Shooting_37
+  - first:
+      213: -6942181087690927344
+    second: Shooting_38
+  - first:
+      213: 4072755032333832823
+    second: Shooting_39
+  - first:
+      213: 522259280326520865
+    second: Shooting_40
+  - first:
+      213: -1742440191922161116
+    second: Shooting_41
+  - first:
+      213: -8810985133967242213
+    second: Shooting_42
+  - first:
+      213: -274193169420631195
+    second: Shooting_43
+  - first:
+      213: -1949699311604151952
+    second: Shooting_44
+  - first:
+      213: 5093453571780518236
+    second: Shooting_45
+  - first:
+      213: -983764767588956633
+    second: Shooting_46
+  - first:
+      213: 2195636339350863127
+    second: Shooting_47
+  - first:
+      213: 86356064468672689
+    second: Shooting_48
+  - first:
+      213: -722006610017897535
+    second: Shooting_49
+  - first:
+      213: 682217007528283320
+    second: Shooting_50
+  - first:
+      213: 8457864270309405351
+    second: Shooting_51
+  - first:
+      213: -7305257558259763098
+    second: Shooting_52
+  - first:
+      213: 5709872440595932719
+    second: Shooting_53
+  - first:
+      213: 7300717207398358079
+    second: Shooting_54
+  - first:
+      213: 3992133968047170032
+    second: Shooting_55
+  - first:
+      213: 6324762487307980226
+    second: Shooting_56
+  - first:
+      213: -2840728311194366723
+    second: Shooting_57
+  - first:
+      213: -4417822154706069896
+    second: Shooting_58
+  - first:
+      213: 7036131261436304541
+    second: Shooting_59
+  - first:
+      213: -1239277075491594122
+    second: Shooting_60
+  - first:
+      213: -8316115814276992030
+    second: Shooting_61
+  - first:
+      213: 7324905957357502279
+    second: Shooting_62
+  - first:
+      213: -4748820287245263907
+    second: Shooting_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: adventurer-shoot-down-01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d261b36618a354aa9ca43351e74941
+      internalID: 946558194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-shoot-down-02
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611309789ed79bd4fa35c96a06947381
+      internalID: -2142803660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-shoot-left-down-01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db40c0364009f2444a3de6aa46c51740
+      internalID: -946452899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-shoot-left-down-02
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c970a2674ba654d8cb7da28cd7e147
+      internalID: 953236858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-shoot-left-up-01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352dda53f2dcd11478491860e45c430b
+      internalID: -1122980099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-shoot-left-up-02
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348ad3060049e634eac20524f1c94e39
+      internalID: 474824718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-shoot-up-01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7773b72b2703cbe498aca4ccfb5fe394
+      internalID: -614845437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-shoot-up-02
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d2db36e39dc104da591a532431efe9
+      internalID: -1625593353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-shoot-right-up-01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca76f32134fb664a9086657cc6007b0
+      internalID: -1737379145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-shoot-right-up-02
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4cf8b3b36f4fd4688fd6bae8a3a0a6
+      internalID: -210155215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-shoot-right-down-01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669a6d96a0b23b144a405c7d0e8623de
+      internalID: -472484784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-shoot-right-down-02
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e725251600c7cc344bb21179067fc949
+      internalID: -1678833230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-shoot-right-01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c55b6ae8b2a66d4c89a619d101f2d9a
+      internalID: 1160919825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-shoot-right-02
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ae47a8c08e7b4479748fdae90ac648
+      internalID: -916457851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-shoot-left-01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776a6acf7d96a6f47a2b6c1d078cb4ad
+      internalID: 2084573311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-shoot-left-02
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5cf12ba6c63db43b6aa3924718f1b9
+      internalID: 1282240754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 308bde78a5844584eba10ac7e1bd1ebc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      adventurer-shoot-down-01: 946558194
+      adventurer-shoot-down-02: -2142803660
+      adventurer-shoot-left-01: 2084573311
+      adventurer-shoot-left-02: 1282240754
+      adventurer-shoot-left-down-01: -946452899
+      adventurer-shoot-left-down-02: 953236858
+      adventurer-shoot-left-up-01: -1122980099
+      adventurer-shoot-left-up-02: 474824718
+      adventurer-shoot-right-01: 1160919825
+      adventurer-shoot-right-02: -916457851
+      adventurer-shoot-right-down-01: -472484784
+      adventurer-shoot-right-down-02: -1678833230
+      adventurer-shoot-right-up-01: -1737379145
+      adventurer-shoot-right-up-02: -210155215
+      adventurer-shoot-up-01: -614845437
+      adventurer-shoot-up-02: -1625593353
+      adventurer-shoot_10: 835957213
+      adventurer-shoot_11: 711319897
+      adventurer-shoot_12: 1180330296
+      adventurer-shoot_13: 579497192
+      adventurer-shoot_14: -1719487852
+      adventurer-shoot_15: 1291221001
+      adventurer-shoot_18: -1983948394
+      adventurer-shoot_19: 1795019765
+      adventurer-shoot_20: -374664207
+      adventurer-shoot_21: -1702340081
+      adventurer-shoot_22: 739996609
+      adventurer-shoot_23: 1901494636
+      adventurer-shoot_26: 1051320079
+      adventurer-shoot_27: 270160712
+      adventurer-shoot_28: 1397673995
+      adventurer-shoot_29: 1333460878
+      adventurer-shoot_3: -123213440
+      adventurer-shoot_30: -1728737348
+      adventurer-shoot_31: 1340718245
+      adventurer-shoot_34: -189591957
+      adventurer-shoot_35: -556946402
+      adventurer-shoot_36: -641413
+      adventurer-shoot_37: -818363951
+      adventurer-shoot_38: -736960589
+      adventurer-shoot_39: -1306304466
+      adventurer-shoot_42: 175219785
+      adventurer-shoot_43: -836175182
+      adventurer-shoot_44: 2054930630
+      adventurer-shoot_45: -2140037448
+      adventurer-shoot_46: -887521891
+      adventurer-shoot_47: -1196233186
+      adventurer-shoot_5: -471803310
+      adventurer-shoot_50: 1059200341
+      adventurer-shoot_51: -135427863
+      adventurer-shoot_52: -1200840406
+      adventurer-shoot_53: -461485873
+      adventurer-shoot_54: -1058041502
+      adventurer-shoot_55: -1247934296
+      adventurer-shoot_58: 1280542780
+      adventurer-shoot_59: -293354887
+      adventurer-shoot_6: -675856310
+      adventurer-shoot_60: -1630890695
+      adventurer-shoot_61: -1224386709
+      adventurer-shoot_62: 1543920230
+      adventurer-shoot_63: -327297743
+      adventurer-shoot_7: -714507470
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

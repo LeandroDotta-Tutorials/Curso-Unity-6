@@ -3,6 +3,8 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     public Vector2 Direction { get; private set; }
+    public bool IsAiming { get; private set; }
+    public bool IsShooting { get; private set; }
 
     private void Update()
     {
@@ -13,7 +15,10 @@ public class PlayerController : MonoBehaviour
 
         if (Input.GetButtonDown("Interact"))
         {
-            SendMessage("OnInteractPressed");
+            SendMessage("OnInteractPressed", SendMessageOptions.DontRequireReceiver);
         }
+
+        IsAiming = Input.GetButton("Aim");
+        IsShooting = Input.GetButton("Shoot");
     }
 }
