@@ -238,7 +238,7 @@ Ao final, utilize a classe para preencher os atributos informados pelo jogador e
 ### C# - Propriedades
 
 - **Vídeo da Aula**: https://youtu.be/vYobyPu3WnY
-- **Vídeo de Solução**: EM BREVE
+- **Vídeo de Solução**: https://youtu.be/-ZpqLtjpXQ4
 
 #### Exercícios
 
@@ -272,6 +272,9 @@ Por fim, mostre na tela um resumo do carrinho de compras com o valor total e a q
 - ***Address**:* retorna o endereço de email completo, no seguinte formato: _"<username>@<domain>"_, por exemplo: _"fulanodasilva@email.com"_. Caso as propriedades Username ou Domain não tenham valores, uma mensagem deve ser informada no Console e o valor _"\_invalid_email\_"_ deve ser retornado.
 
 ### C# - Constantes & Enums
+
+- **Vídeo da Aula**: https://youtu.be/Ce_fTJnfCaA
+- **Vídeo de Solução**: 
 
 #### Exercícios
 
@@ -352,7 +355,7 @@ _Experimente escrever categorias que não existem no Enum para ver o que acontec
 ### Aula "Como "Spawnar" GameObjects - Projeto Cyber Jungle Infinity [12#]"
 
 - **Vídeo da Aula**: https://youtu.be/S2sgGR_FyVU
-- **Vídeo de Solução**: EM BREVE
+- **Vídeo de Solução**: https://youtu.be/t-_eG-udMkM
 
 #### Exercícios
 
