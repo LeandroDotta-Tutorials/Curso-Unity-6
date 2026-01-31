@@ -1,0 +1,1 @@
+public enum TrafficLight { Green, Yellow, Red }

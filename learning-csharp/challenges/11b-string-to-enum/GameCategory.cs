@@ -1,0 +1,1 @@
+public enum GameCategory { Platform, Adventure, RPG, Action, Simulation, Racing, FPS }
