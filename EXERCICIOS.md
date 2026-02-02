@@ -238,7 +238,7 @@ Ao final, utilize a classe para preencher os atributos informados pelo jogador e
 ### C# - Propriedades
 
 - **Vídeo da Aula**: https://youtu.be/vYobyPu3WnY
-- **Vídeo de Solução**: EM BREVE
+- **Vídeo de Solução**: https://youtu.be/-ZpqLtjpXQ4
 
 #### Exercícios
 
@@ -271,6 +271,60 @@ Por fim, mostre na tela um resumo do carrinho de compras com o valor total e a q
     - A parte antes do ponto (por exemplo, antes do _".com"_) deve possuir pelo menos 3 caracteres. Caso não possua 3 caracteres ou mais, o valor não é atribuído e uma mensagem deve ser apresentada no Console.
 - ***Address**:* retorna o endereço de email completo, no seguinte formato: _"<username>@<domain>"_, por exemplo: _"fulanodasilva@email.com"_. Caso as propriedades Username ou Domain não tenham valores, uma mensagem deve ser informada no Console e o valor _"\_invalid_email\_"_ deve ser retornado.
 
+### C# - Constantes & Enums
+
+- **Vídeo da Aula**: https://youtu.be/Ce_fTJnfCaA
+- **Vídeo de Solução**: 
+
+#### Exercícios
+
+**A)** Crie um programa em C# que converta horas em minutos. Peça que o usuário digite o número de horas e aplique uma operação matemática que resulte na quantidade de minutos equivalente às horas digitadas. Use constantes para representar valores fixos usados na operação.
+
+**B)** Crie um programa em C# em que o usuário digite uma idade e mostre diferentes mensagens indicando se ele tem idade suficiente para dirigir ou não. Use constantes para declarar a idade mínima para  dirigir um veículo.
+
+**C)** Crie um programa em C# que faça conversão de moedas. Peça que o usuário digite o valor em reais (BRL) e o converta para dólar (USD). Use uma cotação fixa de conversão. Além da cotação calcule um adicional de IOF com uma taxa de 5,38% de imposto na conversão. Use constantes para qualquer valor fixo que seja necessário usar nas operações matemáticas.
+
+**D)** Crie um sistema de logs simples em C#. O programa deve possuir os métodos `Info`, `Warn` e `Error`. Todos os métodos vão receber uma `string` como parâmetro, que será uma mensagem que deve ser escrita no _Console_, porém cada método irá adicionar um dos seguintes prefixos:
+
+- Método `Info` - Prefixo “[Info]”
+- Método `Warn` - Prefixo “[Warning]”
+- Método `Error` - Prefixo “[Error]”
+
+Exemplo: Ao chamar o método `Warn` com a mensagem “Cuidado”, o seguinte texto aparecerá no _Console_: “[Warning] Cuidado”.
+Use constantes ou _Enum_ para determinar os prefixos.
+
+**E)** Crie um sistema de dificuldades para um jogo usando _Enum_. Ele deve possuir três dificuldades: **Fácil**, **Médio** e **Difícil**. Dada a dificuldade atual do jogo, escreva no _Console_ atributos de um inimigo com diferentes valores. Por exemplo: na dificuldade **“Fácil”**, o inimigo terá menos HP, enquanto que na dificuldade **“Difícil”**, ele terá mais pontos de ataque.
+
+**F)** Crie um sistema simples de semáforo usando _Enum_ para os seus possíveis estados (**”Verde”**, **“Amarelo”** e **“Vermelho”**). Em seguida um loop `while`, simulando que um carro está se aproximando e pedindo para o usuário escolher ums das seguintes opções:
+
+- 0 - Sinal **“Verde”**
+- 1 - Sinal **“Amarelo”**
+- 2 - Sinal **“Vermelho”**
+- 9 - Sair
+
+Baseado na opção escolhida, digite no _Console_ qual ação o carro deve tomar:
+
+- **“🟢 Acelere”** (se Verde)
+- **“🟡 Atenção”** (se Amarelo)
+- **“🛑 Pare”** (se Vermelho)
+
+Caso o usuário escolha a opção **“9 - Sair”**, saia do loop e encerre a aplicação.
+
+#### Desafios
+
+**A)** Crie um programa que calcule o preço final de um produto, mais uma taxa de imposto fixa de 15% para os tipos que não são isentos de impostos. Crie um método que receba o valor base e seu tipo de produto (**”Alimento”**, **“Eletrônico”**, **“Medicamento”** ou **“Vestuário”**) e: 
+
+- Caso o seu tipo seja **“Alimento”** ou **“Medicamento”**, retorne o valor isento de impostos
+- Caso seja **“Eletrônico”** ou **“Vestuário”**, retorne o valor, mais uma taxa fixa de imposto.
+
+Use constantes e Enums para declarar valores fixos da sua aplicação.
+  
+**B)** Crie um _Enum_ com categorias de jogos (por exemplo: **“Plataforma”**, **“Aventura”**, **“RPG”**, etc.). Em seguida, peça que o usuário digite uma categoria e converta o valor informado pelo usuário (que será uma `string`), para o _Enum_ de categorias.
+
+_Experimente escrever categorias que não existem no Enum para ver o que acontece._
+
+**C)** Crie um _Enum_ que represente todos os dias da semana. Em seguida, use um loop para percorrer todos os elementos do _Enum_, apresentando no _Console_ o nome do dia da semana e um texto indicando se é dia útil ou final de semana. _**Dica:**_ para percorrer todos os elementos, você pode usar um método da classe `Enum`.
+
 # Exercícios de Projeto
 
 ## Módulo 1 - Super Pong
@@ -301,7 +355,7 @@ Por fim, mostre na tela um resumo do carrinho de compras com o valor total e a q
 ### Aula "Como "Spawnar" GameObjects - Projeto Cyber Jungle Infinity [12#]"
 
 - **Vídeo da Aula**: https://youtu.be/S2sgGR_FyVU
-- **Vídeo de Solução**: EM BREVE
+- **Vídeo de Solução**: https://youtu.be/t-_eG-udMkM
 
 #### Exercícios
 
