@@ -1,0 +1,1 @@
+public enum EnemyState { Wandering, Following, Attacking }
