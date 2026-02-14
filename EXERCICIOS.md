@@ -325,6 +325,76 @@ _Experimente escrever categorias que não existem no Enum para ver o que acontec
 
 **C)** Crie um _Enum_ que represente todos os dias da semana. Em seguida, use um loop para percorrer todos os elementos do _Enum_, apresentando no _Console_ o nome do dia da semana e um texto indicando se é dia útil ou final de semana. _**Dica:**_ para percorrer todos os elementos, você pode usar um método da classe `Enum`.
 
+### C# - Switch
+
+- **Vídeo da Aula**: https://youtu.be/1IrfcRuXBPg
+- **Vídeo de Solução**: https://youtu.be/-sFR9LBEgTA
+
+#### Exercícios
+
+**A)** Crie um programa em C# para avaliar a classificação etária de um filme de acordo com a idade. Peça que o usuário informe uma idade e, dado o valor digitado, use um comando `switch` para classificá-lo da seguinte forma:
+
+- Menor que 13: “Criança”
+- Entre 13 e 18: “Adolescente”
+- Entre 19 e 60: “Adulto”
+- Maior que 60: “Idoso”
+
+Valores muito altos ou menores que zero devem ser classificados como idade inválida.
+
+**B)** Crie um programa em C# para calcular o valor de frete por região do Brasil. Peça que o usuário digite a sigla de um estado brasileiro (por exemplo: “SP”, “PR”, “AM”, etc) e use um comando `switch` para determinar o valor do frete, dada a seguinte regra:
+
+- Região Norte: R$ 30,00
+- Região Sul: R$ 25,00
+- Região Sudeste: R$ 10,00
+- Outras regiões: R$ 20,00
+
+
+**C)** Implemente a lógica de um jogo de turnos onde o Jogador e o Inimigo se enfrentam em uma batalha. Em cada turno, ambos podem realizar uma ação.
+
+1. **Ações do Jogador:**
+    - **Mover:** Desloca-se uma posição.
+    - **Atacar:** Ataca o inimigo (se estiver ao alcance).
+2. **Estados e Ações do Inimigo:** O inimigo deve alternar entre três estados, baseados na distância em que o jogador se encontra:
+
+| Estado | Condição | Ação do Inimigo |
+| --- | --- | --- |
+| Perambular | Quando o jogador está longe | Move-se uma posição aleatória |
+| Seguir | Quando o jogador entra no alcance | Move-se uma posição na direção do jogador |
+| Atacar | Quando o jogador está ao lado | Realiza um ataque contra o jogador |
+
+Use o comando `switch` nas situações que você considerar adequadas (por exemplo, para decidir a ação ou o estado do inimigo).
+
+### C# - Arrays
+
+- **Vídeo da Aula**: EM BREVE
+- **Vídeo de Solução**: EM BREVE
+
+#### Exercícios
+
+**A)** Escreva um programa em C# com um array com números de 1 à 10 e apresente-os no _Console_ em ordem inversa.
+
+**B)** Escreva um programa em C# com um array de números reais e apresente a soma de todos os números no _Console_.
+
+**C)** Escreva um programa em C# com um array contento os números `10 - 50 - 3 - 15 - 120 - 42`. Em seguida apresente no _Console_ o índice do maior e o menor número.
+
+**D)** Escreva um programa em C# que peça o usuário deve digitar 5 números que serão armazenados em um array. Ao final, apresente no _Console_ a média aritmética dos números do array.
+
+**E)** Escreva um programa em C# que peça para o usuário digitar 5 nomes que serão armazenados em um array. Ao final, apresente no _Console_ os nomes em ordem alfabética inversa (Z-A).
+
+#### Desafios
+
+**A)** Escreva um programa em C# que declare dois arrays de tipo float com 5 elementos cada, preenchendo-os com números aleatórios. Em seguida, crie um terceiro array onde cada posição armazene a soma do elemento correspondente do primeiro array com o elemento espelhado (da última para a primeira posição) do segundo array. Por fim, exiba os valores dos três arrays no _Console_ para validar os cálculos.
+
+**B)** Escreva um programa em C# que possua um array com os seguintes números:
+
+```
+3 - 4 - 10 - 3 - 5 - 1 - 3 - 4 - 9 - 3 - 2
+```
+
+Em seguida, crie um novo array removendo todos os números repetidos e apresente-o no _Console_, em ordem crescente.
+
+**C)** Escreva um programa em C# que peça para o usuário digitar 5 palavras. Em seguida, crie um novo array removendo todas as vogais das palavras e apresente o resultado no _Console_. 
+
 # Exercícios de Projeto
 
 ## Módulo 1 - Super Pong
