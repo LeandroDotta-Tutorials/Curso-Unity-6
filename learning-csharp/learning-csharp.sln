@@ -175,6 +175,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13b-array-duplicates", "cha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13c-array-vowel-removal", "challenges\13c-array-vowel-removal\13c-array-vowel-removal.csproj", "{675FECAA-06A9-4A46-B477-89689FD93755}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-foreach", "14-foreach\14-foreach.csproj", "{A1C39BDA-68CC-4A20-86B6-75D571EC2029}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1193,6 +1195,18 @@ Global
 		{675FECAA-06A9-4A46-B477-89689FD93755}.Release|x64.Build.0 = Release|Any CPU
 		{675FECAA-06A9-4A46-B477-89689FD93755}.Release|x86.ActiveCfg = Release|Any CPU
 		{675FECAA-06A9-4A46-B477-89689FD93755}.Release|x86.Build.0 = Release|Any CPU
+		{A1C39BDA-68CC-4A20-86B6-75D571EC2029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C39BDA-68CC-4A20-86B6-75D571EC2029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C39BDA-68CC-4A20-86B6-75D571EC2029}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A1C39BDA-68CC-4A20-86B6-75D571EC2029}.Debug|x64.Build.0 = Debug|Any CPU
+		{A1C39BDA-68CC-4A20-86B6-75D571EC2029}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A1C39BDA-68CC-4A20-86B6-75D571EC2029}.Debug|x86.Build.0 = Debug|Any CPU
+		{A1C39BDA-68CC-4A20-86B6-75D571EC2029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C39BDA-68CC-4A20-86B6-75D571EC2029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C39BDA-68CC-4A20-86B6-75D571EC2029}.Release|x64.ActiveCfg = Release|Any CPU
+		{A1C39BDA-68CC-4A20-86B6-75D571EC2029}.Release|x64.Build.0 = Release|Any CPU
+		{A1C39BDA-68CC-4A20-86B6-75D571EC2029}.Release|x86.ActiveCfg = Release|Any CPU
+		{A1C39BDA-68CC-4A20-86B6-75D571EC2029}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
