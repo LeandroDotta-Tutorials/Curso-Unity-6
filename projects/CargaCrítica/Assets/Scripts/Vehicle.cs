@@ -7,7 +7,7 @@ public class Vehicle : MonoBehaviour
     [SerializeField] private Animator animator;
     [SerializeField] private Transform loadSlot;
 
-    private Load load;
+    private Package load;
 
     public bool IsLoaded => load != null;
 
@@ -21,10 +21,11 @@ public class Vehicle : MonoBehaviour
                 return;
             }
 
-            LoadCollectible collectible = other.GetComponent<LoadCollectible>();
+            PackageCollectible collectible = other.GetComponent<PackageCollectible>();
             collectible.loadModel.SetParent(loadSlot);
             collectible.loadModel.localPosition = Vector3.zero;
-            load = collectible.loadModel.GetComponent<Load>();
+            collectible.loadModel.localRotation = Quaternion.identity;
+            load = collectible.loadModel.GetComponent<Package>();
             collectible.Remove();
         }
         else if (other.CompareTag(Tag.FINISH))

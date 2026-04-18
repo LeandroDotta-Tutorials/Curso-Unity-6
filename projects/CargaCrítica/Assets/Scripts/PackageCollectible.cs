@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class LoadCollectible : MonoBehaviour
+public class PackageCollectible : MonoBehaviour
 {
     public Transform loadModel;
 
