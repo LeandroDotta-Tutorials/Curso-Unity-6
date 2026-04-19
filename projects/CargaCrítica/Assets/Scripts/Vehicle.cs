@@ -22,10 +22,10 @@ public class Vehicle : MonoBehaviour
             }
 
             PackageCollectible collectible = other.GetComponent<PackageCollectible>();
-            collectible.loadModel.SetParent(loadSlot);
-            collectible.loadModel.localPosition = Vector3.zero;
-            collectible.loadModel.localRotation = Quaternion.identity;
-            load = collectible.loadModel.GetComponent<Package>();
+            collectible.packageTransform.SetParent(loadSlot);
+            collectible.packageTransform.localPosition = Vector3.zero;
+            collectible.packageTransform.localRotation = Quaternion.identity;
+            load = collectible.packageTransform.GetComponent<Package>();
             collectible.Remove();
         }
         else if (other.CompareTag(Tag.FINISH))
