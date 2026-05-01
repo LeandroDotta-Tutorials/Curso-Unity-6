@@ -12,13 +12,13 @@ public class GameManager : MonoBehaviour
     public RatingBar ratingBar;
 
     private LevelManager levelManager;
-    private ScoreManager scoreManager;
+    private ScoreTracker scoreManager;
 
     private void Start()
     {
         levelManager = GetComponent<LevelManager>();
 
-        scoreManager = new ScoreManager(GetComponentsInChildren<Enemy>(true));
+        scoreManager = new ScoreTracker(GetComponentsInChildren<Enemy>(true));
 
         panelInGame.SetActive(false);
         panelStart.gameObject.SetActive(true);
