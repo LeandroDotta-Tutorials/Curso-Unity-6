@@ -3,15 +3,13 @@ using UnityEngine;
 public class SwayMovement : MonoBehaviour
 {
     public float speed = 3;
-
-    public float leftLimit = 2;
-    public float rightLimit = 2;
+    public float amplitude = 2;
 
     private float startPositionX;
     private float direction = 1;
 
-    private float MaxPositionX => startPositionX + rightLimit;
-    private float MinPositionX => startPositionX - leftLimit;
+    private float MaxPositionX => startPositionX + amplitude;
+    private float MinPositionX => startPositionX - amplitude;
     
 
     private void Start() 
